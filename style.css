@@ -1,0 +1,91 @@
+@charset "UTF-8";
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./img/fon.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+}
+
+.search-page {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.search-bar {
+  margin: 20px 0;
+}
+
+#searchInput {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.results ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+}
+
+.results li {
+  margin: 5px 0;
+  font-size: 18px;
+  
+}
+
+.results li strong {
+  font-size: 20px;
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+  color: red;
+}
+
+.results li ul {
+  padding-left: 20px;
+  overflow: hidden; /* Переховуємо елементи за межами */
+  max-height: 0; /* Початково приховуємо список */
+  transition: max-height 0.5s ease-out; /* Плавне розкриття */
+}
+
+.results li ul.show {
+  max-height: 500px; /* Встановлюємо висоту для відкритого списку */
+}
+
+.highlight {
+  background-color: #ff4aed;
+  font-weight: bold;
+  color: black;
+}
+
+.back-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.back-button button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff4aed;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.back-button button:hover {
+  background-color: #f81ee2;
+}
+
+/*# sourceMappingURL=style.css.map */
