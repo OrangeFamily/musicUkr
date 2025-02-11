@@ -14,21 +14,17 @@ app.innerHTML = `
     <div class="results">
       <ul id="resultsList"></ul>
     </div>
-    <div class="pagination">
-      <button id="prevPage" disabled>Назад</button>
-      <button id="nextPage">Вперед</button>
-    </div>
+    <div class="pagination" id="pagination"></div> <!-- Додано пагінацію -->
   </div>
 `;
 
 const searchInput = document.getElementById('searchInput');
 const resultsList = document.getElementById('resultsList');
-const prevPageBtn = document.getElementById('prevPage');
-const nextPageBtn = document.getElementById('nextPage');
+const pagination = document.getElementById('pagination');
 
-const itemsPerPage = 10; // Кількість виконавців на одній сторінці
-let currentPage = 1; // Поточна сторінка
-let filteredData = []; // Массив відфільтрованих пісень
+const itemsPerPage = 10;
+let currentPage = 1;
+let filteredData = [];
 
 // Функція для виділення тексту
 function highlightText(text, query) {
@@ -37,56 +33,81 @@ function highlightText(text, query) {
   return text.replace(regex, '<span class="highlight">$1</span>');
 }
 
-// Групування пісень за виконавцями з фільтрацією пісень
+// Функція для оновлення пагінації
+function updatePagination(totalPages) {
+  pagination.innerHTML = '';
+  if (totalPages <= 1) return;
+
+  const createPageButton = (page) => {
+    const button = document.createElement('button');
+    button.textContent = page;
+    button.classList.toggle('active', page === currentPage);
+    button.style.backgroundColor = page === currentPage ? '#ff4aed' : '#ff4aed00'; // Стиль для активної та неактивної сторінки
+    button.style.color = '#ffffff'; // Білий колір цифр
+    button.style.fontSize = '18px'; // Збільшений розмір шрифту
+    button.style.border = 'none'; // Без бордерів
+    button.addEventListener('click', () => {
+      currentPage = page;
+      displayResults(searchInput.value.trim().toLowerCase());
+    });
+    return button;
+  };
+
+  // Кнопки сторінок
+  if (currentPage > 3) pagination.appendChild(createPageButton(1));
+  if (currentPage > 3) pagination.appendChild(document.createTextNode(' ... '));
+
+  for (let i = Math.max(1, currentPage - 2); i <= Math.min(totalPages, currentPage + 2); i++) {
+    pagination.appendChild(createPageButton(i));
+  }
+
+  if (currentPage < totalPages - 2) pagination.appendChild(document.createTextNode(' ... '));
+
+  if (currentPage !== totalPages) {
+    pagination.appendChild(createPageButton(totalPages));
+  }
+}
+
+// Групування пісень за виконавцями
 function displayResults(query) {
   resultsList.innerHTML = '';
-  filteredData = data.filter(
-    ({ title, artist }) =>
-      title.toLowerCase().includes(query) || artist.toLowerCase().includes(query)
-  );
 
-  if (filteredData.length > 0) {
-    const groupedResults = {};
+  if (query.trim()) {
+    // Якщо є запит пошуку, не показуємо пагінацію
+    pagination.style.display = 'none';
 
-    // Групуємо пісні за виконавцями
-    filteredData.forEach(({ title, artist }) => {
-      if (!groupedResults[artist]) {
-        groupedResults[artist] = [];
-      }
-      groupedResults[artist].push(title);
-    });
+    filteredData = data.filter(
+      ({ title, artist }) =>
+        title.toLowerCase().includes(query) || artist.toLowerCase().includes(query)
+    );
 
-    const artistsList = Object.keys(groupedResults);
-    const totalPages = Math.ceil(artistsList.length / itemsPerPage);
+    if (filteredData.length > 0) {
+      const groupedResults = {};
 
-    // Відображення виконавців на поточній сторінці
-    const start = (currentPage - 1) * itemsPerPage;
-    const end = start + itemsPerPage;
-    const currentArtists = artistsList.slice(start, end);
+      // Групуємо пісні за виконавцями
+      filteredData.forEach(({ title, artist }) => {
+        if (!groupedResults[artist]) {
+          groupedResults[artist] = [];
+        }
+        groupedResults[artist].push(title);
+      });
 
-    // Відображаємо виконавців та пісні з співпадіннями
-    currentArtists.forEach((artist) => {
-      const li = document.createElement('li');
-      li.classList.add('artist');
-      li.innerHTML = `<strong>${highlightText(artist, query)}</strong>`;
+      // Відображаємо виконавців та їх пісні
+      Object.keys(groupedResults).forEach((artist) => {
+        const li = document.createElement('li');
+        li.classList.add('artist');
+        li.innerHTML = `<strong>${highlightText(artist, query)}</strong>`;
+        
+        const ul = document.createElement('ul');
+        ul.classList.add('songs-list');
+        ul.style.maxHeight = '0'; // Спочатку приховуємо список
 
-      const ul = document.createElement('ul');
-      ul.classList.add('songs-list');
-      ul.style.maxHeight = '0'; // Спочатку приховуємо список (закритий стан)
-
-      let hasMatch = false; // Для перевірки, чи є співпадіння в піснях
-
-      groupedResults[artist].forEach((title) => {
-        // Якщо пісня має співпадіння, підсвічуємо її
-        if (title.toLowerCase().includes(query)) {
-          hasMatch = true;
+        groupedResults[artist].forEach((title) => {
           const songLi = document.createElement('li');
           songLi.innerHTML = highlightText(title, query);
           ul.appendChild(songLi);
-        }
-      });
+        });
 
-      if (ul.children.length > 0) {
         li.appendChild(ul);
         resultsList.appendChild(li);
 
@@ -101,44 +122,73 @@ function displayResults(query) {
           }
         });
 
-        // Якщо є співпадіння, автоматично відкриваємо акордеон
-        if (hasMatch) {
+        // Автоматично відкриваємо список, якщо знайдена пісня
+        if (query) {
           const songsList = li.querySelector('.songs-list');
           songsList.style.maxHeight = songsList.scrollHeight + 'px'; // Відкриваємо список
         }
+      });
+    } else {
+      resultsList.innerHTML = '<li>Не знайдено результатів</li>';
+    }
+  } else {
+    // Якщо запит порожній, показуємо всі результати з пагінацією
+    pagination.style.display = 'block';
+
+    filteredData = data;
+    const groupedResults = {};
+    filteredData.forEach(({ title, artist }) => {
+      if (!groupedResults[artist]) {
+        groupedResults[artist] = [];
       }
+      groupedResults[artist].push(title);
     });
 
-    // Оновлюємо кнопки пагінації
-    prevPageBtn.disabled = currentPage === 1;
-    nextPageBtn.disabled = currentPage === totalPages;
-  } else {
-    resultsList.innerHTML = '<li>Не знайдено результатів</li>';
+    const artistsList = Object.keys(groupedResults);
+    const totalPages = Math.ceil(artistsList.length / itemsPerPage);
+    currentPage = Math.min(currentPage, totalPages) || 1;
+
+    const start = (currentPage - 1) * itemsPerPage;
+    const end = start + itemsPerPage;
+    const currentArtists = artistsList.slice(start, end);
+
+    currentArtists.forEach((artist) => {
+      const li = document.createElement('li');
+      li.classList.add('artist');
+      li.innerHTML = `<strong>${highlightText(artist, '')}</strong>`;
+      const ul = document.createElement('ul');
+      ul.classList.add('songs-list');
+      ul.style.maxHeight = '0'; // Спочатку приховуємо список
+
+      groupedResults[artist].forEach((title) => {
+        const songLi = document.createElement('li');
+        songLi.innerHTML = highlightText(title, '');
+        ul.appendChild(songLi);
+      });
+
+      li.appendChild(ul);
+      resultsList.appendChild(li);
+
+      li.addEventListener('click', () => {
+        const songsList = li.querySelector('.songs-list');
+        if (songsList.style.maxHeight === '0px') {
+          songsList.style.maxHeight = songsList.scrollHeight + 'px';
+        } else {
+          songsList.style.maxHeight = '0';
+        }
+      });
+    });
+
+    updatePagination(totalPages);
   }
 }
-
-// Обробники подій для пагінації
-prevPageBtn.addEventListener('click', () => {
-  if (currentPage > 1) {
-    currentPage--;
-    displayResults(searchInput.value.trim().toLowerCase());
-  }
-});
-
-nextPageBtn.addEventListener('click', () => {
-  const totalPages = Math.ceil(filteredData.length / itemsPerPage);
-  if (currentPage < totalPages) {
-    currentPage++;
-    displayResults(searchInput.value.trim().toLowerCase());
-  }
-});
-
-// Ініціалізація
-displayResults('');
 
 // Оновлення результатів під час введення
 searchInput.addEventListener('input', (e) => {
   const query = e.target.value.trim().toLowerCase();
-  currentPage = 1; // Скидаємо на першу сторінку при зміні запиту
+  currentPage = 1; // Скидаємо сторінку на 1 при новому пошуку
   displayResults(query);
 });
+
+// Початкове відображення
+displayResults('');
