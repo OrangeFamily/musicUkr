@@ -14884,3 +14884,5 @@ const data = [
     "artist": "ЯЦУК ХРИСТИНА"
   }
 ];
+
+export default data;
