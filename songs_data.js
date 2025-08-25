@@ -1,10 +1,22 @@
 const data = [
   {
+    "title": "MADE IN UKRAINE",
+    "artist": "100ЛИЦЯ"
+  },
+  {
+    "title": "ЗСУ",
+    "artist": "100ЛИЦЯ"
+  },
+  {
+    "title": "КАРІ ОЧІ",
+    "artist": "100ЛИЦЯ"
+  },
+  {
     "title": "ЛЕТИ",
     "artist": "100ЛИЦЯ"
   },
   {
-    "title": "MADE IN UKRAINE",
+    "title": "ЛЕТИ [БЕК ВОКАЛ]",
     "artist": "100ЛИЦЯ"
   },
   {
@@ -12,7 +24,19 @@ const data = [
     "artist": "100ЛИЦЯ"
   },
   {
+    "title": "МАДАМ [БЕК ВОКАЛ]",
+    "artist": "100ЛИЦЯ"
+  },
+  {
     "title": "МАРУСЯ",
+    "artist": "100ЛИЦЯ"
+  },
+  {
+    "title": "МАРУСЯ [БЕК ВОКАЛ]",
+    "artist": "100ЛИЦЯ"
+  },
+  {
+    "title": "НА ПАФОСІ",
     "artist": "100ЛИЦЯ"
   },
   {
@@ -32,6 +56,10 @@ const data = [
     "artist": "100ЛИЦЯ"
   },
   {
+    "title": "ТАНЦЮЄШ I ПЛАЧЕШ [БЕК ВОКАЛ]",
+    "artist": "100ЛИЦЯ"
+  },
+  {
     "title": "ТРОЯНДИ",
     "artist": "100ЛИЦЯ"
   },
@@ -44,11 +72,11 @@ const data = [
     "artist": "100ЛИЦЯ & CHICO & QATOSHI"
   },
   {
-    "title": "АУ",
-    "artist": "100ЛИЦЯ & SKYLERR"
+    "title": "ЗАБУВАЮ",
+    "artist": "100ЛИЦЯ & DOMIY"
   },
   {
-    "title": "ВЕЧОРНИЦІ (-).kfn",
+    "title": "АУ",
     "artist": "100ЛИЦЯ & SKYLERR"
   },
   {
@@ -56,11 +84,19 @@ const data = [
     "artist": "100ЛИЦЯ & SKYLERR"
   },
   {
-    "title": "НЕМАЄ КУЛЬ (-,+).kfn",
-    "artist": "5NIZZA (ПЯТНИЦА)"
+    "title": "ВЕЧОРНИЦІ [БЕК ВОКАЛ]",
+    "artist": "100ЛИЦЯ & SKYLERR"
   },
   {
-    "title": "ГОВОРИЛИ I КУРИЛИ (IЗ КФ",
+    "title": "НЕМАЄ КУЛЬ",
+    "artist": "5NIZZA"
+  },
+  {
+    "title": "Я НЕ ТОЙ",
+    "artist": "5NIZZA"
+  },
+  {
+    "title": "ГОВОРИЛИ I КУРИЛИ (IЗ К-Ф Я, ПОБЄДА I БЕРЛIН)",
     "artist": "ADAM"
   },
   {
@@ -80,11 +116,11 @@ const data = [
     "artist": "ADAM"
   },
   {
-    "title": "А Я ПЛИВУ (КЛІП).kfn",
+    "title": "А Я ПЛИВУ",
     "artist": "ALEKSEEV"
   },
   {
-    "title": "А Я ПЛИВУ",
+    "title": "А Я ПЛИВУ [БЕК ВОКАЛ]",
     "artist": "ALEKSEEV"
   },
   {
@@ -100,7 +136,7 @@ const data = [
     "artist": "ALEKSEEV"
   },
   {
-    "title": "ОКЕАНАМИ СТАЛИ",
+    "title": "ОКЕАНАМИ СТАЛИ UA",
     "artist": "ALEKSEEV"
   },
   {
@@ -116,11 +152,11 @@ const data = [
     "artist": "ALEKSEEV, DZIDZIO, ПИВОВАРОВ, ПОНОМАРЬОВ"
   },
   {
-    "title": "УКРАЇНА ПЕРЕМОЖЕ (-).kfn",
+    "title": "УКРАЇНА ПЕРЕМОЖЕ",
     "artist": "ALEKSEEV, ДЗІДЗЬО, ПИВОВАРОВ, ПОНОМАРЬОВ"
   },
   {
-    "title": "УКРАЇНА ПЕРЕМОЖЕ",
+    "title": "УКРАЇНА ПЕРЕМОЖЕ [БЕК ВОКАЛ]",
     "artist": "ALEKSEEV, ДЗІДЗЬО, ПИВОВАРОВ, ПОНОМАРЬОВ"
   },
   {
@@ -144,7 +180,11 @@ const data = [
     "artist": "ALYONA ALYONA"
   },
   {
-    "title": "ПАМ'ЯТАЮ",
+    "title": "ПАМ'ЯТАЮ [БЕК ВОКАЛ]",
+    "artist": "ALYONA ALYONA"
+  },
+  {
+    "title": "ТАТО",
     "artist": "ALYONA ALYONA"
   },
   {
@@ -156,7 +196,7 @@ const data = [
     "artist": "ALYONA ALYONA"
   },
   {
-    "title": "СВІТ ПОТРЕБУЄ КРАСИ.kfn",
+    "title": "СВІТ ПОТРЕБУЄ КРАСИ",
     "artist": "ALYONA ALYONA & DOVE"
   },
   {
@@ -172,7 +212,7 @@ const data = [
     "artist": "ALYONA ALYONA & JERRY HEIL & ELA"
   },
   {
-    "title": "НЕБО ХИЛИТЬСЯ",
+    "title": "НЕБО ХИЛИТЬСЯ [БЕК ВОКАЛ]",
     "artist": "ALYONA ALYONA & KOLA"
   },
   {
@@ -180,51 +220,127 @@ const data = [
     "artist": "ALYONA ALYONA, JERRY HEIL"
   },
   {
-    "title": "ГОРДА",
-    "artist": "ALYOSHA"
-  },
-  {
-    "title": "ДАМА",
-    "artist": "ALYOSHA"
-  },
-  {
-    "title": "ЛЕБЕДI",
-    "artist": "ALYOSHA"
-  },
-  {
-    "title": "НА ФОНІ ПАРИЖ",
-    "artist": "ALYOSHA"
-  },
-  {
-    "title": "НЕ ВОНА",
-    "artist": "ALYOSHA"
-  },
-  {
-    "title": "НЕВОНА",
-    "artist": "ALYOSHA"
+    "title": "TERESA & MARIA [БЕК ВОКАЛ]",
+    "artist": "ALYONA ALYONA, JERRY HEIL"
   },
   {
     "title": "ПОРУЧ",
     "artist": "ALYOSHA"
   },
   {
-    "title": "ТЕКІЛА",
+    "title": "ТЕКІЛА [БЕК ВОКАЛ]",
     "artist": "ALYOSHA"
   },
   {
+    "title": "SWEET PEOPLE",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "TO BE FREE [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ГОРДА",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ДАМА",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ЛЕБЕДI",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "НА ФОНІ ПАРИЖ",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "НА ФОНІ ПАРИЖ [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "НА ФОНІ ПАРІЖ [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "НАС КОХАЮТЬ [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "НЕ ВОНА",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "НЕВОНА",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ТИ НАЙКРАЩА",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ТИ НАЙКРАЩА [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "УКРАЇНА ЄДИНА КРАЇНА [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ТИ НАЙКРАЩА",
+    "artist": "ALYOSHA (АЛЬОША) & ДАРВІН ВЛАД"
+  },
+  {
+    "title": "ТИ НАЙКРАЩА [БЕК ВОКАЛ]",
+    "artist": "ALYOSHA (АЛЬОША) & ДАРВІН ВЛАД"
+  },
+  {
     "title": "ТИ НАЙКРАЩA З ЛЮДЕЙ",
-    "artist": "ALYOSHA, ДАРВИН ВЛАД"
+    "artist": "ALYOSHA (АЛЬОША), ДАРВИН ВЛАД"
   },
   {
     "title": "ТИ НАЙКРАЩИЙ З ЛЮДЕЙ",
-    "artist": "ALYOSHA, ДАРВИН ВЛАД"
+    "artist": "ALYOSHA (АЛЬОША), ДАРВИН ВЛАД"
   },
   {
     "title": "ТРОЯНДИ",
-    "artist": "ALYOSHA, ДАРВИН ВЛАД"
+    "artist": "ALYOSHA (АЛЬОША), ДАРВИН ВЛАД"
+  },
+  {
+    "title": "ФЕРОМОНИ",
+    "artist": "ALYOSHA (ТОПОЛЯ ОЛЕНА)"
+  },
+  {
+    "title": "НІЧ (БОКАЛ ПРОСЕКО)",
+    "artist": "AMAYA ROMA"
+  },
+  {
+    "title": "НІЧ (БОКАЛ ПРОСЕКО) [БЕК ВОКАЛ]",
+    "artist": "AMAYA ROMA"
   },
   {
     "title": "БУТИ ЩАСЛИВИМИ",
+    "artist": "ANNA MARIA"
+  },
+  {
+    "title": "ВІР МОЯ ДІВЧИНКО",
+    "artist": "ANNA MARIA"
+  },
+  {
+    "title": "ЛЮДИ У ТАКСІ",
+    "artist": "ANNA MARIA"
+  },
+  {
+    "title": "МОЛЮСЬ",
+    "artist": "ANNA MARIA"
+  },
+  {
+    "title": "САМУРАЙ",
     "artist": "ANNA MARIA"
   },
   {
@@ -256,15 +372,43 @@ const data = [
     "artist": "AVERIN & CHURSANOV"
   },
   {
+    "title": "НЕЗАБУДКИ [БЕК ВОКАЛ]",
+    "artist": "AVERIN & CHURSANOV"
+  },
+  {
+    "title": "НА ГЛИБИНІ",
+    "artist": "BAHROMA"
+  },
+  {
+    "title": "ЗОДІАК",
+    "artist": "BALSAM"
+  },
+  {
+    "title": "КВІТКА",
+    "artist": "BALSAM"
+  },
+  {
+    "title": "КОСИ",
+    "artist": "BALSAM"
+  },
+  {
+    "title": "НЕ БОЖЕВОЛІЙ",
+    "artist": "BALSAM"
+  },
+  {
     "title": "МАЙЖЕ IДЕАЛЬНИЙ",
     "artist": "BARABANOVA"
   },
   {
-    "title": "LAST DAY OF SUMMER (КЛИП).kfn",
+    "title": "МАЙЖЕ IДЕАЛЬНИЙ [БЕК ВОКАЛ]",
+    "artist": "BARABANOVA"
+  },
+  {
+    "title": "LAST DAY OF SUMMER",
     "artist": "BARSKIH MAX"
   },
   {
-    "title": "LOST IN LOVE (+,-,КЛИП).kfn",
+    "title": "LOST IN LOVE",
     "artist": "BARSKIH MAX"
   },
   {
@@ -280,19 +424,35 @@ const data = [
     "artist": "BARSKIH MAX"
   },
   {
+    "title": "ЗАМАЛО",
+    "artist": "BARSKIH MAX"
+  },
+  {
     "title": "ЗОРЕПАД",
     "artist": "BARSKIH MAX"
   },
   {
-    "title": "ЛИЙ НЕ ЖАЛІЙ",
+    "title": "ЗОРЕПАД [БЕК ВОКАЛ]",
     "artist": "BARSKIH MAX"
   },
   {
-    "title": "МАМО НЕ ПЛАЧ",
+    "title": "ЛИЙ НЕ ЖАЛІЙ [БЕК ВОКАЛ]",
+    "artist": "BARSKIH MAX"
+  },
+  {
+    "title": "МАМО НЕ ПЛАЧ [БЕК ВОКАЛ]",
     "artist": "BARSKIH MAX"
   },
   {
     "title": "НЕ ПЛАЧ",
+    "artist": "BARSKIH MAX"
+  },
+  {
+    "title": "НЕБО [-,+,UA] [БЕК ВОКАЛ]",
+    "artist": "BARSKIH MAX"
+  },
+  {
+    "title": "НЕБО [БЕК ВОКАЛ]",
     "artist": "BARSKIH MAX"
   },
   {
@@ -304,7 +464,15 @@ const data = [
     "artist": "BARSKIH MAX"
   },
   {
-    "title": "ТУМАНИ",
+    "title": "ПОДРУГА-НІЧ",
+    "artist": "BARSKIH MAX"
+  },
+  {
+    "title": "ПОДРУГА-НІЧ [БЕК ВОКАЛ]",
+    "artist": "BARSKIH MAX"
+  },
+  {
+    "title": "ТУМАНИ [БЕК ВОКАЛ]",
     "artist": "BARSKIH MAX"
   },
   {
@@ -320,11 +488,15 @@ const data = [
     "artist": "BARSKIH MAX"
   },
   {
-    "title": "РИМУЮ",
+    "title": "Я ВЖЕ НЕ ТИ 2",
+    "artist": "BARSKIH MAX"
+  },
+  {
+    "title": "РИМУЮ [-,+,VID]",
     "artist": "BARSKIH MAX & ETOLUBOV"
   },
   {
-    "title": "BESTSELER",
+    "title": "BESTSELER [UA,-,RMX] [БЕК ВОКАЛ]",
     "artist": "BARSKIH MAX & ZIVERT"
   },
   {
@@ -332,67 +504,83 @@ const data = [
     "artist": "BARSKIH MAX & СУВОРОВА"
   },
   {
+    "title": "ДОСІ ЛЮБЛЮ",
+    "artist": "BARSKIH MAX & СУВОРОВА ДАША"
+  },
+  {
     "title": "РИТМИ",
     "artist": "BARSKIH MAX, DOROFEEVA"
   },
   {
-    "title": "СПИ, КОТИКУ МИЛИЙ",
+    "title": "РИТМИ [БЕК ВОКАЛ]",
+    "artist": "BARSKIH MAX, DOROFEEVA"
+  },
+  {
+    "title": "СПИ, КОТИКУ МИЛИЙ [БЕК ВОКАЛ]",
     "artist": "BERESTOVYI, TARABAROVA"
   },
   {
-    "title": "UPTOWN FUNK·.kfn",
-    "artist": "BRUNO MARS, MARK RONSON"
-  },
-  {
-    "title": "ДОДОМУ",
+    "title": "ДОДОМУ [БЕК ВОКАЛ]",
     "artist": "BRYANGIN"
   },
   {
-    "title": "ЗАКОХАНИЙ",
+    "title": "ЗАКОХАНИЙ [БЕК ВОКАЛ]",
     "artist": "BRYANGIN"
   },
   {
-    "title": "ОЧІ КОЛЬОРУ БЕЗОДНІ",
+    "title": "ОЧІ КОЛЬОРУ БЕЗОДНІ [БЕК ВОКАЛ]",
     "artist": "BRYANGIN"
   },
   {
-    "title": "ФУРІЯ",
+    "title": "ФУРІЯ [БЕК ВОКАЛ]",
     "artist": "BRYANGIN"
   },
   {
-    "title": "БЕЗ ПОЧУТТЯ",
+    "title": "ЛІЗА",
+    "artist": "BRYKULETS"
+  },
+  {
+    "title": "UP",
+    "artist": "CARDI B"
+  },
+  {
+    "title": "UP [БЕК ВОКАЛ]",
+    "artist": "CARDI B"
+  },
+  {
+    "title": "БЕЗ ПОЧУТТЯ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "ВІДПУСТИ",
+    "title": "ВІДПУСТИ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "КОХАННЯ ПРИЙДЕ",
+    "title": "КОХАННЯ ПРИЙДЕ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "КРАЙ ПОДІЛЬСЬКИЙ",
+    "title": "КРАЙ ПОДІЛЬСЬКИЙ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "МОВА СОЛОВЇНА",
+    "title": "МОВА СОЛОВЇНА [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "НЕ ШУКАЙ",
+    "title": "НЕ ШУКАЙ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "САМОТНІСТЬ",
+    "title": "САМОТНІСТЬ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "Я КОХАЮ ТЕБЕ",
+    "title": "Я КОХАЮ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "CHALLENGE"
   },
   {
-    "title": "БІЛЬШ НЕМАЄ КРИЛ.avi",
+    "title": "БІЛЬШ НЕМАЄ КРИЛ",
     "artist": "CHEEV"
   },
   {
@@ -400,15 +588,15 @@ const data = [
     "artist": "CHEEV"
   },
   {
+    "title": "ДЕ МОЯ ЛЮБОВ ЖИВЕ [БЕК ВОКАЛ]",
+    "artist": "CHEEV"
+  },
+  {
     "title": "ІНШИЙ СВІТ",
     "artist": "CHEEV"
   },
   {
-    "title": "КИМ ЗАВГОДНО (-)·.kfn",
-    "artist": "CHEEV"
-  },
-  {
-    "title": "КИМ ЗАВГОДНО",
+    "title": "КИМ ЗАВГОДНО [БЕК ВОКАЛ]",
     "artist": "CHEEV"
   },
   {
@@ -416,7 +604,7 @@ const data = [
     "artist": "CHEEV"
   },
   {
-    "title": "ОПІВНОЧІ",
+    "title": "ОПІВНОЧІ [БЕК ВОКАЛ]",
     "artist": "CHEEV"
   },
   {
@@ -424,12 +612,20 @@ const data = [
     "artist": "CHEEV"
   },
   {
-    "title": "ЩО ЦЕ В НАС (-)·.kfn",
+    "title": "РАНА",
     "artist": "CHEEV"
   },
   {
-    "title": "ЩО ЦЕ В НАС",
+    "title": "ТИХИЙ ДОЩ",
     "artist": "CHEEV"
+  },
+  {
+    "title": "ЩО ЦЕ В НАС [БЕК ВОКАЛ]",
+    "artist": "CHEEV"
+  },
+  {
+    "title": "ПЕРШИЙ ДЕНЬ [БЕК ВОКАЛ]",
+    "artist": "CHEEV & МУЛЬТИТРЕК"
   },
   {
     "title": "ПЕРШИЙ ДЕНЬ",
@@ -440,23 +636,39 @@ const data = [
     "artist": "CHICO & QATOSHI"
   },
   {
-    "title": "ДОПОМОЖЕ ЗСУ",
+    "title": "ДОПОМОЖЕ ЗСУ [БЕК ВОКАЛ]",
     "artist": "CHICO & QATOSHI"
   },
   {
-    "title": "ЛАСТІВКИ",
+    "title": "ЛАСТІВКИ [БЕК ВОКАЛ]",
     "artist": "CHICO & QATOSHI"
   },
   {
-    "title": "ПАННОЧКА",
+    "title": "ПАННОЧКА [-,+,RMX] [БЕК ВОКАЛ]",
     "artist": "CHICO & QATOSHI"
   },
   {
-    "title": "ПОКОХАЙ МЕНЕ",
+    "title": "ТАЙНОЮ",
+    "artist": "CHICO & QATOSHI"
+  },
+  {
+    "title": "ТАЙНОЮ [БЕК ВОКАЛ]",
+    "artist": "CHICO & QATOSHI"
+  },
+  {
+    "title": "ПОКОХАЙ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "CHICO & QATOSHI & 100ЛИЦЯ"
   },
   {
+    "title": "АКАЦІЯ",
+    "artist": "CHICO & QATOSHI, PAASHEE"
+  },
+  {
     "title": "ДОПОМОЖЕ ЗСУ",
+    "artist": "CHICO FEAT. QATOSHI"
+  },
+  {
+    "title": "ДОПОМОЖЕ ЗСУ [БЕК ВОКАЛ]",
     "artist": "CHICO FEAT. QATOSHI"
   },
   {
@@ -464,7 +676,7 @@ const data = [
     "artist": "DARISHA"
   },
   {
-    "title": "КВІТЛА КАЛИНА",
+    "title": "КВІТЛА КАЛИНА [RMX]",
     "artist": "DAYTON"
   },
   {
@@ -508,8 +720,16 @@ const data = [
     "artist": "DISCOMAN"
   },
   {
-    "title": "ІМЕНА",
+    "title": "ІМЕНА [БЕК ВОКАЛ]",
     "artist": "DISCOMAN"
+  },
+  {
+    "title": "ЗЕЛЕНИЙ ГАЙ [БЕК ВОКАЛ]",
+    "artist": "DJ ALYOSHA"
+  },
+  {
+    "title": "НА ПОРОЗІ",
+    "artist": "DOMIY"
   },
   {
     "title": "НАГАДАЙ",
@@ -528,6 +748,10 @@ const data = [
     "artist": "DOROFEEVA"
   },
   {
+    "title": "ВОТСАП [БЕК ВОКАЛ]",
+    "artist": "DOROFEEVA"
+  },
+  {
     "title": "КОХАЮ АЛЕ НЕ ЗОВСІМ",
     "artist": "DOROFEEVA"
   },
@@ -536,7 +760,7 @@ const data = [
     "artist": "DOROFEEVA"
   },
   {
-    "title": "НА САМОТІ",
+    "title": "НА САМОТІ [БЕК ВОКАЛ]",
     "artist": "DOROFEEVA"
   },
   {
@@ -544,7 +768,15 @@ const data = [
     "artist": "DOROFEEVA"
   },
   {
+    "title": "СПИТАЙ У ЧАТА ДЖИПIТI",
+    "artist": "DOROFEEVA"
+  },
+  {
     "title": "ХАЙ ПИШУТЬ",
+    "artist": "DOROFEEVA"
+  },
+  {
+    "title": "ХАЙ ПИШУТЬ [БЕК ВОКАЛ]",
     "artist": "DOROFEEVA"
   },
   {
@@ -552,11 +784,15 @@ const data = [
     "artist": "DOROFEEVA"
   },
   {
+    "title": "ХАРТБІТ [БЕК ВОКАЛ]",
+    "artist": "DOROFEEVA"
+  },
+  {
     "title": "ЦВІТЕ ТЕРЕН",
     "artist": "DOROFEEVA"
   },
   {
-    "title": "ЩОБ НЕ БУЛО",
+    "title": "ЩОБ НЕ БУЛО [БЕК ВОКАЛ]",
     "artist": "DOROFEEVA"
   },
   {
@@ -568,7 +804,15 @@ const data = [
     "artist": "DOVI"
   },
   {
+    "title": "НА БАЛКОНІ",
+    "artist": "DOVI"
+  },
+  {
     "title": "ПАДАЛИ",
+    "artist": "DOVI"
+  },
+  {
+    "title": "ПОЧНЕМО ЗНОВ",
     "artist": "DOVI"
   },
   {
@@ -596,7 +840,19 @@ const data = [
     "artist": "DOVI, NICHKA"
   },
   {
-    "title": "108 (+,-,КЛІП)·.kfn",
+    "title": "СМАРАГДОВЕ НЕБО",
+    "artist": "DREVO"
+  },
+  {
+    "title": "СМАРАГДОВЕ НЕБО [БЕК ВОКАЛ]",
+    "artist": "DREVO"
+  },
+  {
+    "title": "LOVE AGAIN",
+    "artist": "DUA LIPA"
+  },
+  {
+    "title": "108 [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
@@ -604,19 +860,43 @@ const data = [
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "БАНДА-БАНДА",
+    "title": "3 В 1 (ПОДАРУЮ ТОБІ АЙФОН)",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "БУСЬКУ (-)·.kfn",
+    "title": "DAS IST GUT FANTASTISCH [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "БУСЬКУ (+,-,FV)·.kfn",
+    "title": "JA CIЕ KOCHAM I LOVE YOU [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ВАСИЛИНА (+,-,FV)·.kfn",
+    "title": "А Я А Я БОЯВСЯ ПСА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "БАНДА БАНДА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "БАНДА-БАНДА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "БУСЬКУ [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ВАСИЛИНА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ВАСИЛИНА (RMX)",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ВИХІДНИЙ [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
@@ -624,27 +904,59 @@ const data = [
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ГОПА ГОПА (-)·.kfn",
+    "title": "ГЕЙ ГОПА ГОПА",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ГОПА ГОПА (-.VID)·.kfn",
+    "title": "ГЕЙ ГОПА ГОПА [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "КАДІЛАК",
+    "title": "ГОЛІ ДІВЧАТА [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "КОБІТА (ОРИГ)·.kfn",
+    "title": "ГОПА ГОПА [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "МАРСIК",
+    "title": "ГОПА [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "МЕНІ ПОВЕЗЛО (+,-,КЛІП)·.kfn",
+    "title": "ІСТЕРИКА",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "КАДИЛАК [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "КАДІЛАК [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "КОБІТА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ЛИСТОПАД [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "МАРСIК [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "МАРСИК [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "МЕНІ ПОВЕЗЛО [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "МЕНІ ПОВЕЗЛО",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
@@ -656,11 +968,27 @@ const data = [
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ПАВУК (+,-,КЛІП)·.kfn",
+    "title": "НАРЕЧЕНА",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ПТАХОПОДІБНА (КЛІП).kfn",
+    "title": "НАРЕЧЕНА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ПАВУК [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ПАВУК (RMX)",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ПАВУК",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ПТАХОПОДІБНА",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
@@ -668,27 +996,71 @@ const data = [
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
+    "title": "РОЗЛУК НЕ БУДЕ [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "САМА САМА",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "САМА САМА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
     "title": "САМА-САМА",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "СТАРИЙ РІК МИНАЄ (ОР,-,+).kfn",
+    "title": "СЕРЕНАДА",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "СТАРІ ФОТОГРАФІЇ (КЛІП)·.kfn",
+    "title": "СТАРИЙ РІК МИНАЄ",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "СУСІДИ (+,-,КЛИП)·.kfn",
+    "title": "СТАРІ ФОТОГРАФІЇ [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ТРИ В ОДНОМУ (Я ТОБІ НА ВАЛЕНТИНА) (+,-,КЛІП).kfn",
+    "title": "СУСIДИ [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ХА-ХА! (+,-,КЛІП)·.kfn",
+    "title": "СУСІДИ [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "СУСІДИ",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ТРИ В ОДНОМУ (Я ТОБІ НА ВАЛЕНТИНА)",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ТРИ В ОДНОМУ",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ХА ХА ХА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ХА-ХА! [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ЧЕКАЮ ЦЬОМ",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "Я И САРА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "Я І САРА [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
@@ -696,20 +1068,40 @@ const data = [
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "Я ЛЮБЛЮ ТЕБЕ, КИЇВ",
+    "title": "Я ЇДУ ДО МАМИ [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "Я МІЛІОНЕР",
+    "title": "Я ЛЮБЛЮ ТЕБЕ, КИЇВ [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "ЯЛТА (+,-,КЛІП).kfn",
+    "title": "Я МІЛІОНЕР [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
-    "title": "Я ЧЕ КОХАМ (-,КЛІП)·.kfn",
+    "title": "ЯЛТА",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ЯЛТА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
+  },
+  {
+    "title": "ВАСИЛИНА",
+    "artist": "DZIDZIO (ДЗІДЗЬО) & ПОПОВИЧ"
+  },
+  {
+    "title": "ЦЬОМАЮ",
+    "artist": "DZIDZIO (ДЗІДЗЬО) & ЦИБУЛЬСКА"
+  },
+  {
+    "title": "Я ЧЕ КОХАМ [БЕК ВОКАЛ]",
     "artist": "DZIDZIO (ДЗІДЗЬО) (SEXSHOP BOYS)"
+  },
+  {
+    "title": "НАРЕЧЕНА [БЕК ВОКАЛ]",
+    "artist": "DZIDZIO (ДЗІДЗЬО) (ХОМА МИХАЙЛО)"
   },
   {
     "title": "НАРЕЧЕНА",
@@ -748,12 +1140,40 @@ const data = [
     "artist": "EDMON"
   },
   {
-    "title": "ВРАЗЛИВІСТЬ",
+    "title": "ВРАЗЛИВІСТЬ [БЕК ВОКАЛ]",
     "artist": "EDNY"
   },
   {
-    "title": "ПОРУЧ",
+    "title": "ПОРУЧ [БЕК ВОКАЛ]",
     "artist": "EDNY"
+  },
+  {
+    "title": "ВIЙНА",
+    "artist": "EL КРАВЧУК"
+  },
+  {
+    "title": "ДОЛЯ",
+    "artist": "EL КРАВЧУК"
+  },
+  {
+    "title": "НIЧИЙ",
+    "artist": "EL КРАВЧУК"
+  },
+  {
+    "title": "НАВIЩО",
+    "artist": "EL КРАВЧУК"
+  },
+  {
+    "title": "НАВІЩО (RMX)",
+    "artist": "EL КРАВЧУК"
+  },
+  {
+    "title": "НІЧИЙ [БЕК ВОКАЛ]",
+    "artist": "EL КРАВЧУК"
+  },
+  {
+    "title": "СОНАТА",
+    "artist": "EL КРАВЧУК"
   },
   {
     "title": "IНША ЛЮБОВ",
@@ -800,39 +1220,75 @@ const data = [
     "artist": "FIЇNKA & ІВАН ПОПОВИЧ"
   },
   {
+    "title": "TOCA TOCA",
+    "artist": "FLY PROJECT"
+  },
+  {
     "title": "МОВЧИШ",
     "artist": "GEZWEIRDO"
   },
   {
-    "title": "ШУМ (ВЕСНЯНОЧКА)",
-    "artist": "GO_A"
+    "title": "ЖАЛЬМЕНIНА",
+    "artist": "GO A"
+  },
+  {
+    "title": "РУСАЛОЧКІ (RUSALOCHKI)",
+    "artist": "GO A"
+  },
+  {
+    "title": "СОЛОВЕЙ (SOLOVEY)",
+    "artist": "GO A"
+  },
+  {
+    "title": "СОЛОВЕЙ [-,+,VID]",
+    "artist": "GO-A (GO A)"
+  },
+  {
+    "title": "ШУМ (ВЕСНЯНОЧКА) [БЕК ВОКАЛ]",
+    "artist": "GO-A (GO A)"
   },
   {
     "title": "ШУМ",
-    "artist": "GO_A"
+    "artist": "GO-A (GO A)"
+  },
+  {
+    "title": "ЗАВТРА",
+    "artist": "GOLUBENKO"
+  },
+  {
+    "title": "МОВЧАТИ [-,+,VID]",
+    "artist": "GOLUBENKO"
   },
   {
     "title": "МОВЧАТИ",
     "artist": "GOLUBENKO"
   },
   {
-    "title": "НЕ ВІДПУСКАЙ",
+    "title": "НЕ ВІДПУСКАЙ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO"
   },
   {
-    "title": "РИМИ",
+    "title": "ОБІЙМИ",
     "artist": "GOLUBENKO"
   },
   {
-    "title": "РОЗБУДИ В МЕНІ ЛЮБОВ",
+    "title": "РИМИ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO"
   },
   {
-    "title": "ТЕПЕР ПРОБАЧ",
+    "title": "РОЗБУДИ В МЕНІ ЛЮБОВ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO"
   },
   {
-    "title": "ТИ ЗНАЄШ",
+    "title": "ТЕПЕР ПРОБАЧ [БЕК ВОКАЛ]",
+    "artist": "GOLUBENKO"
+  },
+  {
+    "title": "ТИ ЗНАЄШ [БЕК ВОКАЛ]",
+    "artist": "GOLUBENKO"
+  },
+  {
+    "title": "ТОРКНИСЯ МОЇХ ГУБ",
     "artist": "GOLUBENKO"
   },
   {
@@ -840,27 +1296,27 @@ const data = [
     "artist": "GOLUBENKO"
   },
   {
-    "title": "ЯКБИ ТИ БУЛА ПІСНЕЮ",
+    "title": "ЯКБИ ТИ БУЛА ПІСНЕЮ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO"
   },
   {
-    "title": "МИЛА·.avi",
+    "title": "МИЛА [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO & CLONNEX"
   },
   {
-    "title": "ДОЩ",
+    "title": "ДОЩ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO & KALUSH"
   },
   {
-    "title": "ДОТИКИ",
+    "title": "ДОТИКИ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO & SADSVIT"
   },
   {
-    "title": "НЕ ШУКАЙ",
+    "title": "НЕ ШУКАЙ [БЕК ВОКАЛ]",
     "artist": "GOLUBENKO & YAKTAK"
   },
   {
-    "title": "ДРУЖЕ",
+    "title": "ДРУЖЕ [БЕК ВОКАЛ]",
     "artist": "GREEN GREY"
   },
   {
@@ -880,15 +1336,59 @@ const data = [
     "artist": "HURTOM"
   },
   {
+    "title": "ГАРМАТИ [БЕК ВОКАЛ]",
+    "artist": "HURTOM"
+  },
+  {
+    "title": "ВІДЬМА",
+    "artist": "ILLARIA"
+  },
+  {
+    "title": "ЦВІТЕ ТЕРЕН",
+    "artist": "ILLARIA"
+  },
+  {
+    "title": "ЦВІТЕ ТЕРЕН [БЕК ВОКАЛ]",
+    "artist": "ILLARIA"
+  },
+  {
+    "title": "Я ЖИВА [БЕК ВОКАЛ]",
+    "artist": "ILLARIA"
+  },
+  {
     "title": "ЛЮБЛЮ ТЕБЕ",
     "artist": "ILLUSION & SERGIY"
   },
   {
-    "title": "КОХАЮ (-,+).kfn",
+    "title": "КОХАЮ",
     "artist": "IRIS"
   },
   {
-    "title": "КАЗКОВО",
+    "title": "ШОВКОВИЦЯ",
+    "artist": "IVAN LIULENOV"
+  },
+  {
+    "title": "ШОВКОВИЦЯ [БЕК ВОКАЛ]",
+    "artist": "IVAN LIULENOV"
+  },
+  {
+    "title": "ДИВИСЬ НА СОНЦЕ",
+    "artist": "IVAN NAVI"
+  },
+  {
+    "title": "КАЗКОВО [БЕК ВОКАЛ]",
+    "artist": "IVAN NAVI"
+  },
+  {
+    "title": "КИМ МИ БУЛИ",
+    "artist": "IVAN NAVI"
+  },
+  {
+    "title": "КОЛИВАННЯ",
+    "artist": "IVAN NAVI"
+  },
+  {
+    "title": "КРАЙ [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI"
   },
   {
@@ -896,15 +1396,23 @@ const data = [
     "artist": "IVAN NAVI"
   },
   {
+    "title": "НА МИТЬ",
+    "artist": "IVAN NAVI"
+  },
+  {
     "title": "ТАКІ МОЛОДІ",
     "artist": "IVAN NAVI"
   },
   {
-    "title": "ТАМ ДЕ (REMX)·.avi",
+    "title": "ТАМ ДЕ (REMX) [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI"
   },
   {
-    "title": "ХОЛОДНА НIЧ.kfn",
+    "title": "ХІМІЯ",
+    "artist": "IVAN NAVI"
+  },
+  {
+    "title": "ХОЛОДНА НIЧ",
     "artist": "IVAN NAVI"
   },
   {
@@ -916,31 +1424,31 @@ const data = [
     "artist": "IVAN NAVI"
   },
   {
-    "title": "ЖУРАВЛІ",
+    "title": "ЖУРАВЛІ [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI & KRUTЬ & LEVOICE"
   },
   {
-    "title": "ХІМІЯ",
+    "title": "ХІМІЯ [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI & ЯРЕМЧУК МАРІЯ"
   },
   {
-    "title": "ЗАКОХУЮСЬ",
+    "title": "ЗАКОХУЮСЬ [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI [СЯРКЕВИЧ ІВАН]"
   },
   {
-    "title": "КОЛИ НЕМА ТЕБЕ",
+    "title": "КОЛИ НЕМА ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI [СЯРКЕВИЧ ІВАН]"
   },
   {
-    "title": "ПТАХИ",
+    "title": "ПТАХИ [БЕК ВОКАЛ]",
     "artist": "IVAN NAVI [СЯРКЕВИЧ ІВАН]"
   },
   {
-    "title": "1944 (-)·.kfn",
+    "title": "1944 [БЕК ВОКАЛ]",
     "artist": "JAMALA"
   },
   {
-    "title": "BELLA MORE MIO.kfn",
+    "title": "BELLA MORE MIO",
     "artist": "JAMALA"
   },
   {
@@ -952,15 +1460,15 @@ const data = [
     "artist": "JAMALA"
   },
   {
-    "title": "ДО ПОБАЧЕННЯ",
+    "title": "ДО ПОБАЧЕННЯ [БЕК ВОКАЛ]",
     "artist": "JANE"
   },
   {
-    "title": "БОМБА РАКЕТА ПУШКА ГРАНАТА",
+    "title": "ALLEYESONKIDS",
     "artist": "JERRY HEIL"
   },
   {
-    "title": "БОМБА РАКЕТА ПУШКА ГРАНАТА·.kfn",
+    "title": "БОМБА РАКЕТА ПУШКА ГРАНАТА [БЕК ВОКАЛ]",
     "artist": "JERRY HEIL"
   },
   {
@@ -968,7 +1476,11 @@ const data = [
     "artist": "JERRY HEIL"
   },
   {
-    "title": "ГЕТЬ З УКРАЇНИ ГЕТЬ ГЕТЬ",
+    "title": "ВІЛЬНА КАСА [БЕК ВОКАЛ]",
+    "artist": "JERRY HEIL"
+  },
+  {
+    "title": "ГЕТЬ З УКРАЇНИ ГЕТЬ ГЕТЬ [БЕК ВОКАЛ]",
     "artist": "JERRY HEIL"
   },
   {
@@ -976,11 +1488,15 @@ const data = [
     "artist": "JERRY HEIL"
   },
   {
+    "title": "КОЗАЦЬКОМУ РОДУ [БЕК ВОКАЛ]",
+    "artist": "JERRY HEIL"
+  },
+  {
     "title": "КОХАЙТЕСЯ ЧОРНОБРИВІ",
     "artist": "JERRY HEIL"
   },
   {
-    "title": "КУБИКИ РУБІКА",
+    "title": "КУБИКИ РУБІКА [БЕК ВОКАЛ]",
     "artist": "JERRY HEIL"
   },
   {
@@ -988,7 +1504,11 @@ const data = [
     "artist": "JERRY HEIL"
   },
   {
-    "title": "НЕ БЕЙБІ",
+    "title": "НЕ БЕЙБІ [БЕК ВОКАЛ]",
+    "artist": "JERRY HEIL"
+  },
+  {
+    "title": "ОХРАНА ОТМЕНА",
     "artist": "JERRY HEIL"
   },
   {
@@ -1008,8 +1528,16 @@ const data = [
     "artist": "JERRY HEIL"
   },
   {
+    "title": "ГУБИ У ГУБАХ",
+    "artist": "JERRY HEIL & VOLODYMYR DANTES"
+  },
+  {
+    "title": "ВИМОЛИВ",
+    "artist": "JERRY HEIL, MONATIK & EVGENY KHMARA"
+  },
+  {
     "title": "ГЕТЬ З УКРАЇНИ МОСКАЛЬ НЕКРАСІВИЙ",
-    "artist": "JERRY HEIL, СЕРДЮЧКА ВЕРКА"
+    "artist": "JERRY HEIL, СЕРДЮЧКА (VERKA SERDUCHKA)"
   },
   {
     "title": "ВІДПУСТИ",
@@ -1036,31 +1564,35 @@ const data = [
     "artist": "JEVAGA"
   },
   {
-    "title": "НЕ ТІКАЙ.avi",
+    "title": "НЕ ТІКАЙ",
     "artist": "JULIK"
   },
   {
-    "title": "ПРИГОРНУ",
+    "title": "ПРИГОРНУ [БЕК ВОКАЛ]",
     "artist": "JULIK"
   },
   {
-    "title": "ВІДПУСТИ",
+    "title": "ВІДПУСТИ [-,+,VID]",
     "artist": "KADNAY"
   },
   {
-    "title": "ВІДЧУВАЮ.avi",
+    "title": "ВІДЧУВАЮ",
     "artist": "KADNAY"
   },
   {
-    "title": "ТОБI",
+    "title": "ТОБI [БЕК ВОКАЛ]",
     "artist": "KADNAY"
   },
   {
-    "title": "STEFANIA (СТЕФАНІЯ)",
+    "title": "STEFANIA (СТЕФАНІЯ) [БЕК ВОКАЛ]",
     "artist": "KALUSH"
   },
   {
     "title": "ВІТЕР ВИЄ",
+    "artist": "KALUSH"
+  },
+  {
+    "title": "ЗОРІ [БЕК ВОКАЛ]",
     "artist": "KALUSH"
   },
   {
@@ -1072,7 +1604,11 @@ const data = [
     "artist": "KALUSH"
   },
   {
-    "title": "СТЕФАНІЯ",
+    "title": "СТЕФАНІЯ [-,+,VID]",
+    "artist": "KALUSH"
+  },
+  {
+    "title": "ТІПОК",
     "artist": "KALUSH"
   },
   {
@@ -1080,7 +1616,15 @@ const data = [
     "artist": "KALUSH"
   },
   {
+    "title": "ЦЕ ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "KALUSH"
+  },
+  {
     "title": "ЯНГОЛОМ",
+    "artist": "KALUSH"
+  },
+  {
+    "title": "ЯНГОЛОМ [БЕК ВОКАЛ]",
     "artist": "KALUSH"
   },
   {
@@ -1100,6 +1644,10 @@ const data = [
     "artist": "KALUSH & SKOFKA"
   },
   {
+    "title": "ДОДОМУ [БЕК ВОКАЛ]",
+    "artist": "KALUSH & SKOFKA"
+  },
+  {
     "title": "ФАЙНА",
     "artist": "KALUSH & SKOFKA"
   },
@@ -1116,7 +1664,43 @@ const data = [
     "artist": "KAMINSKA SLAVA (КАМИНСКАЯ)"
   },
   {
+    "title": "БАТІНА ТАЧКА",
+    "artist": "KARTA SVITU"
+  },
+  {
+    "title": "ВОНА ЛЯГАЄ СПАТИ",
+    "artist": "KARTA SVITU"
+  },
+  {
+    "title": "НЕМОВ ПТАХИ",
+    "artist": "KARTA SVITU"
+  },
+  {
+    "title": "НАЗАД В МАЙБУТНЄ",
+    "artist": "KAVA TSIKAVA"
+  },
+  {
+    "title": "ТИША ХИТАЛАСЬ",
+    "artist": "KAVA TSIKAVA"
+  },
+  {
+    "title": "ТРАМВАЇ",
+    "artist": "KAVA TSIKAVA"
+  },
+  {
+    "title": "ДИХАТИ",
+    "artist": "KAVA TSIKAVA & ГРОХОЦЬКИЙ ІГОР"
+  },
+  {
+    "title": "СЕРЦЕБИТТЯ",
+    "artist": "KAVA TSIKAVA & ГРОХОЦЬКИЙ ІГОР"
+  },
+  {
     "title": "ВІДКЛАДЕНЕ ЖИТТЯ",
+    "artist": "KAVABANGA & DEPO & KOLIBRI"
+  },
+  {
+    "title": "ДЕ ТЕБЕ ШУКАТЬ",
     "artist": "KAVABANGA & DEPO & KOLIBRI"
   },
   {
@@ -1140,6 +1724,10 @@ const data = [
     "artist": "KAZKA"
   },
   {
+    "title": "ВИРУЛЮ",
+    "artist": "KAZKA"
+  },
+  {
     "title": "ВІН",
     "artist": "KAZKA"
   },
@@ -1148,7 +1736,27 @@ const data = [
     "artist": "KAZKA"
   },
   {
-    "title": "ЗАПАЛА",
+    "title": "ДИВА [БЕК ВОКАЛ]",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ЗАПАЛА (RMX) [БЕК ВОКАЛ]",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ЗАПАЛА [БЕК ВОКАЛ]",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ЗАПАЛА [+,-,REMIX]",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ЗОЛОТО",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "КРАСИВА СЕРЦЕМ",
     "artist": "KAZKA"
   },
   {
@@ -1156,11 +1764,19 @@ const data = [
     "artist": "KAZKA"
   },
   {
-    "title": "НІХТО",
+    "title": "МУШЛІ",
     "artist": "KAZKA"
   },
   {
-    "title": "ОСТРІВ",
+    "title": "М'ЯТА",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "НІХТО [БЕК ВОКАЛ]",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ОСТРІВ [БЕК ВОКАЛ]",
     "artist": "KAZKA"
   },
   {
@@ -1168,11 +1784,23 @@ const data = [
     "artist": "KAZKA"
   },
   {
+    "title": "ПІСНЯ СМІЛИВИХ ДІВЧАТ [БЕК ВОКАЛ]",
+    "artist": "KAZKA"
+  },
+  {
     "title": "ПЛАКАЛА",
     "artist": "KAZKA"
   },
   {
-    "title": "САМА",
+    "title": "ПЛАКАЛА [БЕК ВОКАЛ]",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "РІЗДВЯНА",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "САМА [БЕК ВОКАЛ]",
     "artist": "KAZKA"
   },
   {
@@ -1180,11 +1808,19 @@ const data = [
     "artist": "KAZKA"
   },
   {
-    "title": "ТАНЦІ",
+    "title": "СОЛОДКІ",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ТАНЦІ [БЕК ВОКАЛ]",
     "artist": "KAZKA"
   },
   {
     "title": "ЦІЛУВАТИ ТЕБЕ",
+    "artist": "KAZKA"
+  },
+  {
+    "title": "ЦІЛУВАТИ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "KAZKA"
   },
   {
@@ -1194,6 +1830,26 @@ const data = [
   {
     "title": "СОЛОДКІ",
     "artist": "KAZKA & DAMIEN ESCOBAR"
+  },
+  {
+    "title": "СОЛОДКІ [БЕК ВОКАЛ]",
+    "artist": "KAZKA & DAMIEN ESCOBAR"
+  },
+  {
+    "title": "НЕ СВОЯ",
+    "artist": "KAZKA & ROXOLANA"
+  },
+  {
+    "title": "АВТОВІДПОВІДАЧ",
+    "artist": "KAZKA & RUNSTAR"
+  },
+  {
+    "title": "ОСТРІВ",
+    "artist": "KAZKA & RUNSTAR"
+  },
+  {
+    "title": "ДО ВЕСНИ [БЕК ВОКАЛ]",
+    "artist": "KISHE"
   },
   {
     "title": "БЕРЕЖИ МЕНЕ",
@@ -1213,6 +1869,22 @@ const data = [
   },
   {
     "title": "ІМПЕРАТОРИ",
+    "artist": "KLAVDIA PETRIVNA"
+  },
+  {
+    "title": "НЕВЖЕ",
+    "artist": "KLAVDIA PETRIVNA"
+  },
+  {
+    "title": "НЕВЖЕ [БЕК ВОКАЛ]",
+    "artist": "KLAVDIA PETRIVNA"
+  },
+  {
+    "title": "ТЕАТР",
+    "artist": "KLAVDIA PETRIVNA"
+  },
+  {
+    "title": "ТЕАТР [БЕК ВОКАЛ]",
     "artist": "KLAVDIA PETRIVNA"
   },
   {
@@ -1240,6 +1912,10 @@ const data = [
     "artist": "KLAVDIA PETRIVNA"
   },
   {
+    "title": "Я ЩАСЛИВА ЛIКАРI КАЖУТЬ [БЕК ВОКАЛ]",
+    "artist": "KLAVDIA PETRIVNA"
+  },
+  {
     "title": "НЕ ЛЯКАЙ",
     "artist": "KLAVDIA PETRIVNA & OSTY"
   },
@@ -1248,7 +1924,15 @@ const data = [
     "artist": "KLAVDIA PETRIVNA & OSTY"
   },
   {
-    "title": "БІЛЯ СЕРЦЯ",
+    "title": "ТІЛЬКИ В ТВОЇХ ОБІЙМАХ",
+    "artist": "KLER & ALYONA ALYONA"
+  },
+  {
+    "title": "SALUT PAPA",
+    "artist": "KOLA"
+  },
+  {
+    "title": "БІЛЯ СЕРЦЯ [-,+,VID]",
     "artist": "KOLA"
   },
   {
@@ -1260,15 +1944,11 @@ const data = [
     "artist": "KOLA"
   },
   {
-    "title": "ДОЧЕКАЮСЬ",
+    "title": "ДОЧЕКАЮСЬ [БЕК ВОКАЛ]",
     "artist": "KOLA"
   },
   {
-    "title": "ЗОМБІ",
-    "artist": "KOLA"
-  },
-  {
-    "title": "ІНШІ МИ",
+    "title": "ЗОМБІ [-,+,VID]",
     "artist": "KOLA"
   },
   {
@@ -1280,7 +1960,7 @@ const data = [
     "artist": "KOLA"
   },
   {
-    "title": "ПАРАСОЛІ",
+    "title": "ПАРАСОЛІ [БЕК ВОКАЛ]",
     "artist": "KOLA"
   },
   {
@@ -1292,11 +1972,15 @@ const data = [
     "artist": "KOLA"
   },
   {
-    "title": "ЧИ РАЗОМ",
+    "title": "ЧИ РАЗОМ [БЕК ВОКАЛ]",
     "artist": "KOLA"
   },
   {
-    "title": "ЗОРЕПАДИ",
+    "title": "ШІ",
+    "artist": "KOLA"
+  },
+  {
+    "title": "ЗОРЕПАДИ [БЕК ВОКАЛ]",
     "artist": "KOLA & ADAM"
   },
   {
@@ -1308,7 +1992,7 @@ const data = [
     "artist": "KOLA & KALUSH"
   },
   {
-    "title": "ВІДЬМА.avi",
+    "title": "ВІДЬМА",
     "artist": "KOLABA & VSIVDOMA"
   },
   {
@@ -1328,11 +2012,19 @@ const data = [
     "artist": "KOLABA & ЗІБРОВ ПАВЛО"
   },
   {
+    "title": "ХРЕЩАТИК [БЕК ВОКАЛ]",
+    "artist": "KOLABA & ЗІБРОВ ПАВЛО"
+  },
+  {
     "title": "ДЕ МОЯ ЛЮБОВ ЖИВЕ",
     "artist": "KOLABA & ІCHEEV"
   },
   {
-    "title": "ВОРОГА ПОБОРЕМО",
+    "title": "ВІРА",
+    "artist": "KOZAK SIROMAHA"
+  },
+  {
+    "title": "ВОРОГА ПОБОРЕМО [БЕК ВОКАЛ]",
     "artist": "KOZAK SIROMAHA"
   },
   {
@@ -1340,7 +2032,19 @@ const data = [
     "artist": "KOZAK SIROMAHA"
   },
   {
+    "title": "ГУЛЯЛИ [БЕК ВОКАЛ]",
+    "artist": "KOZAK SIROMAHA"
+  },
+  {
+    "title": "ОСТАННІЙ МАЯК",
+    "artist": "KOZAK SIROMAHA"
+  },
+  {
     "title": "СВIТ РIЗНОКОЛЬОРОВИЙ",
+    "artist": "KOZAK SIROMAHA"
+  },
+  {
+    "title": "СВIТ РIЗНОКОЛЬОРОВИЙ [БЕК ВОКАЛ]",
     "artist": "KOZAK SIROMAHA"
   },
   {
@@ -1348,15 +2052,23 @@ const data = [
     "artist": "KOZAK SYSTEM"
   },
   {
+    "title": "ЛЮДИ-ТИТАНИ",
+    "artist": "KOZAK SYSTEM"
+  },
+  {
     "title": "НЕ МОЯ",
     "artist": "KOZAK SYSTEM"
   },
   {
-    "title": "СНИ",
+    "title": "СНИ [БЕК ВОКАЛ]",
     "artist": "KOZAK SYSTEM"
   },
   {
-    "title": "ТАКА СПОКУСЛИВА",
+    "title": "ТАКА СПОКУСЛИВА [БЕК ВОКАЛ]",
+    "artist": "KOZAK SYSTEM"
+  },
+  {
+    "title": "ТИ ТАКА СПОКУСЛИВА [БЕК ВОКАЛ]",
     "artist": "KOZAK SYSTEM"
   },
   {
@@ -1382,6 +2094,58 @@ const data = [
   {
     "title": "ЧИ ТИ МІЙ СОН",
     "artist": "KRUTЬ"
+  },
+  {
+    "title": "ABRACADABRA",
+    "artist": "LADY GAGA"
+  },
+  {
+    "title": "DIE WITH A SMILE",
+    "artist": "LADY GAGA, BRUNO MARS"
+  },
+  {
+    "title": "З ТИМ КОГО ЛЮБИЛА",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "ЗНАЄШ ЯК БОЛИТЬ",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "ЛИШ ТІЛЬКИ ТИ",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "ЛИШ ТІЛЬКИ ТИ [БЕК ВОКАЛ]",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "ЛІТАК",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "МЕНІ ТАК ТРЕБА",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "НЕ МАМА [БЕК ВОКАЛ]",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "СВІТЛО І ТІНЬ",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "СЕРЦЕ [БЕК ВОКАЛ]",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "ТРИМАЙ",
+    "artist": "LAMA (ЛАМА)"
+  },
+  {
+    "title": "Я НЕ ТА",
+    "artist": "LAMA (ЛАМА)"
   },
   {
     "title": "ПРОБАЧ",
@@ -1420,19 +2184,51 @@ const data = [
     "artist": "LEVYY MC"
   },
   {
-    "title": "ГРАДУС 100.avi",
+    "title": "НЕЗРУЧНА [БЕК ВОКАЛ]",
+    "artist": "LIDA LEE"
+  },
+  {
+    "title": "ГРАДУС 100",
     "artist": "LOBODA"
   },
   {
-    "title": "ДВА НЕЗНАЙОМЦІ",
+    "title": "ДВА НЕЗНАЙОМЦІ [-,+,VID]",
     "artist": "LOBODA"
   },
   {
-    "title": "ОБЛИШ (МАСТЕР,КЛІП).kfn",
+    "title": "ІНСТИНКТ",
     "artist": "LOBODA"
   },
   {
-    "title": "ГОРІЛА СОСНА",
+    "title": "ІНСТИНКТ [БЕК ВОКАЛ]",
+    "artist": "LOBODA"
+  },
+  {
+    "title": "ОБЛИШ",
+    "artist": "LOBODA"
+  },
+  {
+    "title": "А Я НА МОРI [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "А Я НА МОРІ",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ВЕСНА [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ГОРІЛА СОСНА [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ДВА ДУБКИ [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "МОЛОДА КРОВ [БЕК ВОКАЛ]",
     "artist": "MAD HEADS"
   },
   {
@@ -1440,27 +2236,67 @@ const data = [
     "artist": "MAD HEADS"
   },
   {
-    "title": "ПІСНЯ СИРЕНИ",
+    "title": "НАДІЯ Є (RMX) [БЕК ВОКАЛ]",
     "artist": "MAD HEADS"
   },
   {
-    "title": "СЕРЦЯ ВІДКРИТИ",
+    "title": "НАДІЯ Є",
     "artist": "MAD HEADS"
   },
   {
-    "title": "ЧАС",
+    "title": "НАЙКРАЩА МИТЬ",
     "artist": "MAD HEADS"
   },
   {
-    "title": "ВЕСНА (+,-)·.kfn",
+    "title": "НОВИЙ РІК [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ОЙ МАМО ЛЮБЛЮ ГРИЦЯ [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ПІСНЯ СИРЕНИ [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "П'ЯТНИЦА [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "СЕРЦЯ ВІДКРИТИ [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "СМЕРЕКА [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ЦИГАНИ [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "ЧАС [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS"
+  },
+  {
+    "title": "БУВАЄ",
+    "artist": "MAD HEADS & XL"
+  },
+  {
+    "title": "НАЙКРАЩА МИТЬ",
+    "artist": "MAD HEADS & XL"
+  },
+  {
+    "title": "НОВИЙ РІК [БЕК ВОКАЛ]",
+    "artist": "MAD HEADS & XL"
+  },
+  {
+    "title": "ВЕСНА [БЕК ВОКАЛ]",
     "artist": "MAD HEADS XL"
   },
   {
-    "title": "ВЕСНА",
-    "artist": "MAD HEADS XL"
-  },
-  {
-    "title": "ДВА ДУБКИ",
+    "title": "ДВА ДУБКИ [БЕК ВОКАЛ]",
     "artist": "MAD HEADS XL"
   },
   {
@@ -1468,11 +2304,11 @@ const data = [
     "artist": "MAD HEADS XL"
   },
   {
-    "title": "ОЙ МАМО, ЛЮБЛЮ ГРИЦЯ (+,-,МАСТЕР)·.kfn",
+    "title": "ОЙ МАМО, ЛЮБЛЮ ГРИЦЯ [БЕК ВОКАЛ]",
     "artist": "MAD HEADS XL"
   },
   {
-    "title": "ЦИГАНИ",
+    "title": "ЦИГАНИ [БЕК ВОКАЛ]",
     "artist": "MAD HEADS XL"
   },
   {
@@ -1480,7 +2316,15 @@ const data = [
     "artist": "MAD HEADS XL"
   },
   {
+    "title": "А Я ЧОРНЯВА [БЕК ВОКАЛ]",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
     "title": "БОГИНЯ",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "В САДУ ГУЛЯЛА (RMX)",
     "artist": "MADE IN UKRAINE"
   },
   {
@@ -1488,19 +2332,67 @@ const data = [
     "artist": "MADE IN UKRAINE"
   },
   {
-    "title": "СМЕРЕКО (-)·.kfn",
+    "title": "ЛІЛІЯ",
     "artist": "MADE IN UKRAINE"
   },
   {
-    "title": "ЧОМ ТИ НЕ ПРИЙШОВ (+,-).kfn",
+    "title": "МОЇ БАТЬКИ [БЕК ВОКАЛ]",
     "artist": "MADE IN UKRAINE"
   },
   {
-    "title": "НА ЛЯМКАХ",
+    "title": "ПЛАКУЧА ГІТАРА",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "СМЕРЕКО [БЕК ВОКАЛ]",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "СМЕРЕКО (RMX) [БЕК ВОКАЛ]",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "СМЕРЕКО",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "СМУГЛЯНКА (КЛЕН ЗЕЛЕНИЙ)",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "ТРИ ТОПОЛІ",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "УКРАЇНОНЬКА",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "УКРАЇНОНЬКА [БЕК ВОКАЛ]",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "ХУТОРЯНКА",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "ЧОМ ТИ НЕ ПРИЙШОВ",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "ЧОРНА РЕДЬКА",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "Я КОЗАЧКА ТВОЯ",
+    "artist": "MADE IN UKRAINE"
+  },
+  {
+    "title": "НА ЛЯМКАХ [БЕК ВОКАЛ]",
     "artist": "MALAVITA"
   },
   {
-    "title": "ВІДЧУВАЙ",
+    "title": "ВІДЧУВАЙ [БЕК ВОКАЛ]",
     "artist": "MAMARIKA"
   },
   {
@@ -1520,6 +2412,22 @@ const data = [
     "artist": "MAMARIKA"
   },
   {
+    "title": "ЗВ?ЯЗОК",
+    "artist": "MAMARIKA"
+  },
+  {
+    "title": "ЗОРЯ",
+    "artist": "MAMARIKA"
+  },
+  {
+    "title": "КОЛИШНЯ",
+    "artist": "MAMARIKA"
+  },
+  {
+    "title": "КОЛИШНЯ [БЕК ВОКАЛ]",
+    "artist": "MAMARIKA"
+  },
+  {
     "title": "МАМА РІКА",
     "artist": "MAMARIKA"
   },
@@ -1528,23 +2436,27 @@ const data = [
     "artist": "MAMARIKA"
   },
   {
-    "title": "МРІЯЛА",
+    "title": "МРІЯЛА [БЕК ВОКАЛ]",
     "artist": "MAMARIKA"
   },
   {
-    "title": "НІЧ У БАРІ",
+    "title": "НЕ ЙДИ",
     "artist": "MAMARIKA"
   },
   {
-    "title": "ОСТАННІЙ ДЕНЬ.avi",
+    "title": "НІЧ У БАРІ [БЕК ВОКАЛ]",
     "artist": "MAMARIKA"
   },
   {
-    "title": "СЛЬОЗИ I ПІСНІ",
+    "title": "ОСТАННІЙ ДЕНЬ",
     "artist": "MAMARIKA"
   },
   {
-    "title": "СМАЙЛИК (СОНЦЕ В МОЇХ ДОЛОНЯХ)",
+    "title": "СЛЬОЗИ I ПІСНІ [БЕК ВОКАЛ]",
+    "artist": "MAMARIKA"
+  },
+  {
+    "title": "СМАЙЛИК (СОНЦЕ В МОЇХ ДОЛОНЯХ) [БЕК ВОКАЛ]",
     "artist": "MAMARIKA"
   },
   {
@@ -1552,7 +2464,7 @@ const data = [
     "artist": "MAMARIKA"
   },
   {
-    "title": "ХТОСЬ ЙДЕ",
+    "title": "ХТОСЬ ЙДЕ [БЕК ВОКАЛ]",
     "artist": "MAMARIKA"
   },
   {
@@ -1568,7 +2480,11 @@ const data = [
     "artist": "MAMARIKA"
   },
   {
-    "title": "ДОСТАТНЬО",
+    "title": "ШЕПОЧЕ ДОЩ",
+    "artist": "MAMARIKA & BALSAM"
+  },
+  {
+    "title": "ДОСТАТНЬО [БЕК ВОКАЛ]",
     "artist": "MAMARIKA & DOVI"
   },
   {
@@ -1580,8 +2496,20 @@ const data = [
     "artist": "MAMARIKA & MASHA DANILOVA & AVERIN"
   },
   {
-    "title": "ГІМН УКРАЇНИ",
+    "title": "ЛЕЛЕКА",
+    "artist": "MAMARIKA FEAT. YAKTAK"
+  },
+  {
+    "title": "ЛЕЛЕКА [БЕК ВОКАЛ]",
+    "artist": "MAMARIKA FEAT. YAKTAK"
+  },
+  {
+    "title": "ГІМН УКРАЇНИ [БЕК ВОКАЛ]",
     "artist": "MANSOUND"
+  },
+  {
+    "title": "ЗОЗУЛЯ",
+    "artist": "MARLEN"
   },
   {
     "title": "ДЕ МИ",
@@ -1596,8 +2524,16 @@ const data = [
     "artist": "MAX TRISS"
   },
   {
+    "title": "ЧЕРЕМШИНА [-,+,VID]",
+    "artist": "MAX TRISS"
+  },
+  {
     "title": "ЧЕРЕМШИНА",
     "artist": "MAX TRISS"
+  },
+  {
+    "title": "БЕЗ ТЕБЕ",
+    "artist": "MAYOROVA"
   },
   {
     "title": "НЕЗАМІННИХ",
@@ -1605,6 +2541,18 @@ const data = [
   },
   {
     "title": "ПIДПАЛ",
+    "artist": "MAYOROVA"
+  },
+  {
+    "title": "ПIДПАЛ [БЕК ВОКАЛ]",
+    "artist": "MAYOROVA"
+  },
+  {
+    "title": "ПОВІТРЯ",
+    "artist": "MAYOROVA"
+  },
+  {
+    "title": "ТИ ПЕРШИЙ",
     "artist": "MAYOROVA"
   },
   {
@@ -1616,7 +2564,7 @@ const data = [
     "artist": "MELOVIN"
   },
   {
-    "title": "THAT'S YOUR ROLE",
+    "title": "THAT'S YOUR ROLE [БЕК ВОКАЛ]",
     "artist": "MELOVIN"
   },
   {
@@ -1636,7 +2584,7 @@ const data = [
     "artist": "MELOVIN"
   },
   {
-    "title": "НЕ ЗВОЛІКАЙ",
+    "title": "НЕ ЗВОЛІКАЙ [-,+,VID]",
     "artist": "MELOVIN"
   },
   {
@@ -1644,43 +2592,83 @@ const data = [
     "artist": "MELOVIN"
   },
   {
-    "title": "ШЛЯХ",
+    "title": "ШЛЯХ [БЕК ВОКАЛ]",
     "artist": "MELOVIN & RUZHYNSKI"
   },
   {
-    "title": "СОКОЛИ",
+    "title": "ОБИРАТИМУ СЕБЕ",
+    "artist": "MELOVIN, ISKRA"
+  },
+  {
+    "title": "ОБИРАТИМУ СЕБЕ [БЕК ВОКАЛ]",
+    "artist": "MELOVIN, ISKRA"
+  },
+  {
+    "title": "FEELING GOOD",
+    "artist": "MICHAEL BUBLE"
+  },
+  {
+    "title": "IT HAD BETTER BE TONIGHT",
+    "artist": "MICHAEL BUBLE"
+  },
+  {
+    "title": "МАРГАРИТА",
+    "artist": "MICHELLE ANDRADE"
+  },
+  {
+    "title": "МАРГАРИТА [БЕК ВОКАЛ]",
+    "artist": "MICHELLE ANDRADE"
+  },
+  {
+    "title": "СЕКСУАЛЬНА",
     "artist": "MIRAMI"
   },
   {
-    "title": "БАРМЕН",
+    "title": "СЕКСУАЛЬНА [БЕК ВОКАЛ]",
+    "artist": "MIRAMI"
+  },
+  {
+    "title": "СОКОЛИ [БЕК ВОКАЛ]",
+    "artist": "MIRAMI"
+  },
+  {
+    "title": "Я МАЛЮЮ",
+    "artist": "MIRAMI"
+  },
+  {
+    "title": "СЕКСУАЛЬНА [БЕК ВОКАЛ]",
+    "artist": "MIRAMI & ВОВА ЗІ ЛЬВОВА"
+  },
+  {
+    "title": "БАРМЕН [UA VERSION] [БЕК ВОКАЛ]",
     "artist": "MISHA ROMANOVA"
   },
   {
-    "title": "ЗИМА",
+    "title": "ЗИМА [БЕК ВОКАЛ]",
     "artist": "MISHA ROMANOVA"
   },
   {
-    "title": "ПЕРЕБОЛІЛО",
+    "title": "ПЕРЕБОЛІЛО [БЕК ВОКАЛ]",
     "artist": "MISHA ROMANOVA"
   },
   {
-    "title": "ТИША",
+    "title": "ТИША [БЕК ВОКАЛ]",
     "artist": "MISHA ROMANOVA"
   },
   {
-    "title": "ТИ МІЙ РАЙ",
+    "title": "ТИ МІЙ РАЙ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "MIX DANCE"
   },
   {
-    "title": "АЛХІМІЯ",
+    "title": "АЛХІМІЯ [БЕК ВОКАЛ]",
     "artist": "MOLFAR"
   },
   {
-    "title": "ЧЕКАЄШ",
+    "title": "ЧЕКАЄШ [БЕК ВОКАЛ]",
     "artist": "MOLFAR"
   },
   {
-    "title": "ДІМ.avi",
+    "title": "ДІМ",
     "artist": "MOLODI"
   },
   {
@@ -1696,11 +2684,23 @@ const data = [
     "artist": "MONATIK"
   },
   {
-    "title": "МОЖЕ ВЖЕ ДОСИТЬ",
+    "title": "МОЖЕ ВЖЕ ДОСИТЬ [БЕК ВОКАЛ]",
     "artist": "MONATIK"
   },
   {
-    "title": "СТАРІ ФОТОГРАФІЇ",
+    "title": "МОКРА [БЕК ВОКАЛ]",
+    "artist": "MONATIK"
+  },
+  {
+    "title": "МОЯ ОДЕСА (А ЩО)",
+    "artist": "MONATIK"
+  },
+  {
+    "title": "МОЯ ОДЕСА (А ЩО) [БЕК ВОКАЛ]",
+    "artist": "MONATIK"
+  },
+  {
+    "title": "СТАРІ ФОТОГРАФІЇ [-,+,VID]",
     "artist": "MONATIK"
   },
   {
@@ -1708,7 +2708,19 @@ const data = [
     "artist": "MONATIK"
   },
   {
-    "title": "ПРОМІНЬ·.kfn",
+    "title": "ТЕ, ВIД ЧОГО БЕЗ ТЯМИ [БЕК ВОКАЛ]",
+    "artist": "MONATIK"
+  },
+  {
+    "title": "ПРО ТЕБЕ",
+    "artist": "MONATIK & KAZKA"
+  },
+  {
+    "title": "ПРО ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "MONATIK & KAZKA"
+  },
+  {
+    "title": "ПРОМІНЬ [БЕК ВОКАЛ]",
     "artist": "MOZGI, ВРЕМЯ И СТЕКЛО, MICHELLE ANDRADE"
   },
   {
@@ -1716,15 +2728,15 @@ const data = [
     "artist": "NATIYA"
   },
   {
-    "title": "КОЖЕН ДЕНЬ",
+    "title": "КОЖЕН ДЕНЬ [БЕК ВОКАЛ]",
     "artist": "NAVSI100"
   },
   {
-    "title": "А Я ЛЮБИВ",
+    "title": "А Я ЛЮБИВ [БЕК ВОКАЛ]",
     "artist": "NAVSI100 (НАВСІ СТО)"
   },
   {
-    "title": "ДРУЖЕ МОРЕ.kfn",
+    "title": "ДРУЖЕ МОРЕ",
     "artist": "NICHKA"
   },
   {
@@ -1736,11 +2748,11 @@ const data = [
     "artist": "NICHKA"
   },
   {
-    "title": "СОНЯЧНА СИСТЕМА",
+    "title": "СОНЯЧНА СИСТЕМА [БЕК ВОКАЛ]",
     "artist": "NICHKA"
   },
   {
-    "title": "ЗА СТІНАМИ",
+    "title": "ЗА СТІНАМИ [БЕК ВОКАЛ]",
     "artist": "NICHKA & ASKWHEN"
   },
   {
@@ -1752,11 +2764,11 @@ const data = [
     "artist": "NICHKA & GOLUBENKO"
   },
   {
-    "title": "ОСТАННЯ НІЧ",
+    "title": "ОСТАННЯ НІЧ [БЕК ВОКАЛ]",
     "artist": "NICHKA & VERLOKA"
   },
   {
-    "title": "ПОШТАРІ",
+    "title": "ПОШТАРІ [БЕК ВОКАЛ]",
     "artist": "NICHKA & VERLOKA"
   },
   {
@@ -1764,7 +2776,11 @@ const data = [
     "artist": "OKS"
   },
   {
-    "title": "НЕ ЗГАСАЙ.avi",
+    "title": "РОМАН",
+    "artist": "OKS"
+  },
+  {
+    "title": "НЕ ЗГАСАЙ",
     "artist": "OLEYNIK"
   },
   {
@@ -1776,7 +2792,15 @@ const data = [
     "artist": "OLIVAN & THE BUDCHUK"
   },
   {
-    "title": "ЗАЙВОЮ.avi",
+    "title": "ЗАЙВОЮ",
+    "artist": "OMARGALIEVA OLENA"
+  },
+  {
+    "title": "МУЖЧИНА",
+    "artist": "OMARGALIEVA OLENA"
+  },
+  {
+    "title": "МУЖЧИНА [БЕК ВОКАЛ]",
     "artist": "OMARGALIEVA OLENA"
   },
   {
@@ -1784,7 +2808,11 @@ const data = [
     "artist": "OMARGALIEVA OLENA"
   },
   {
-    "title": "ЗНАЮ.avi",
+    "title": "ЗНАЮ",
+    "artist": "ONUKA"
+  },
+  {
+    "title": "МІСТО",
     "artist": "ONUKA"
   },
   {
@@ -1844,7 +2872,15 @@ const data = [
     "artist": "PARFENIUK"
   },
   {
+    "title": "ДОЛОНІ [БЕК ВОКАЛ]",
+    "artist": "PARFENIUK"
+  },
+  {
     "title": "ПРОВЕЛА ЕКСКУРСІЮ",
+    "artist": "PARFENIUK"
+  },
+  {
+    "title": "ХУББА БУББА",
     "artist": "PARFENIUK"
   },
   {
@@ -1852,7 +2888,11 @@ const data = [
     "artist": "PIANOBOY"
   },
   {
-    "title": "КОХАННЯ",
+    "title": "КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "PIANOBOY"
+  },
+  {
+    "title": "РОДИМКИ [БЕК ВОКАЛ]",
     "artist": "PIANOBOY"
   },
   {
@@ -1860,7 +2900,11 @@ const data = [
     "artist": "PIANOBOY"
   },
   {
-    "title": "КОХАННЯ (КЛІП).kfn",
+    "title": "ШАМПАНСЬКІ ОЧІ [БЕК ВОКАЛ]",
+    "artist": "PIANOBOY"
+  },
+  {
+    "title": "КОХАННЯ",
     "artist": "PIANOBOY, КВАРТАЛ 95"
   },
   {
@@ -1876,7 +2920,15 @@ const data = [
     "artist": "PROBASS & HARDI"
   },
   {
+    "title": "ТИ ЩАСЛИВА БУДЕШ [БЕК ВОКАЛ]",
+    "artist": "PROKOPOV DIMA & KOLABA"
+  },
+  {
     "title": "З ТОБОЮ СПОКІЙНО",
+    "artist": "PROKOPOV DIMA, DASHKOVA POLINA"
+  },
+  {
+    "title": "З ТОБОЮ СПОКІЙНО [БЕК ВОКАЛ]",
     "artist": "PROKOPOV DIMA, DASHKOVA POLINA"
   },
   {
@@ -1888,8 +2940,12 @@ const data = [
     "artist": "PUSTOVIT"
   },
   {
-    "title": "ПЕРШЕ КОХАННЯ",
+    "title": "ПЕРШЕ КОХАННЯ [БЕК ВОКАЛ]",
     "artist": "PUSTOVIT"
+  },
+  {
+    "title": "ТИ НЕЙМОВІРНА [-,+,VID] [БЕК ВОКАЛ]",
+    "artist": "QUEST PISTOLS"
   },
   {
     "title": "ТИ НЕЙМОВІРНА",
@@ -1900,7 +2956,11 @@ const data = [
     "artist": "QUEST PISTOLS"
   },
   {
-    "title": "МІСЯЦЬ (КЛИП)·.kfn",
+    "title": "Я ТВІЙ НАРКОТИК [БЕК ВОКАЛ]",
+    "artist": "QUEST PISTOLS"
+  },
+  {
+    "title": "МІСЯЦЬ [БЕК ВОКАЛ]",
     "artist": "REAL O"
   },
   {
@@ -1908,7 +2968,15 @@ const data = [
     "artist": "RIFFMASTER"
   },
   {
+    "title": "ЗА КРОКОМ КРОК [БЕК ВОКАЛ]",
+    "artist": "RULADA (ЦУКАНОВА ІРИНА)"
+  },
+  {
     "title": "ЗА КРОКОМ КРОК",
+    "artist": "RULADA (ЦУКАНОВА ІРИНА)"
+  },
+  {
+    "title": "МАТИ [БЕК ВОКАЛ]",
     "artist": "RULADA (ЦУКАНОВА ІРИНА)"
   },
   {
@@ -1924,39 +2992,51 @@ const data = [
     "artist": "SADSVIT, СТРУКТУРА ЩАСТЯ"
   },
   {
-    "title": "ТАМ ДЕ МІЙ ДІМ",
+    "title": "ТАМ ДЕ МІЙ ДІМ [БЕК ВОКАЛ]",
     "artist": "SANNA"
   },
   {
-    "title": "ЗЛИВА",
+    "title": "ЗЛИВА [БЕК ВОКАЛ]",
     "artist": "SANNA & MORPHOM"
   },
   {
-    "title": "ВСЕ МОЄ ТЕПЛО",
+    "title": "ВСЕ МОЄ ТЕПЛО [БЕК ВОКАЛ]",
     "artist": "SANTORIN"
   },
   {
-    "title": "НЕ СВЯТИМ",
+    "title": "НЕ СВЯТИМ [БЕК ВОКАЛ]",
     "artist": "SANTORIN"
   },
   {
-    "title": "НЕМАЄ СЕНСУ",
+    "title": "НЕМАЄ СЕНСУ [БЕК ВОКАЛ]",
     "artist": "SANTORIN"
   },
   {
-    "title": "ПІД ШАФЕ",
+    "title": "ПІД ШАФЕ [БЕК ВОКАЛ]",
     "artist": "SANTORIN"
   },
   {
-    "title": "КРАЩЕ НІЖ ТИ",
+    "title": "КРАЩЕ НІЖ ТИ [БЕК ВОКАЛ]",
     "artist": "SANTORIN & БІЛИЙ БО"
   },
   {
-    "title": "БАЛУВАНА ГАЛЯ",
+    "title": "БАЛУВАНА ГАЛЯ [БЕК ВОКАЛ]",
     "artist": "SELFY"
   },
   {
-    "title": "ВИШИВАНОЧКА (МАСТЕР,КЛІП)·.kfn",
+    "title": "ВИШИВАНОЧКА [БЕК ВОКАЛ]",
+    "artist": "SELFY"
+  },
+  {
+    "title": "ВИШИВАНОЧКА",
+    "artist": "SELFY"
+  },
+  {
+    "title": "ГАЛЯ БАЛУВАНА [БЕК ВОКАЛ]",
+    "artist": "SELFY"
+  },
+  {
+    "title": "ОБІЙМИ",
     "artist": "SELFY"
   },
   {
@@ -1992,7 +3072,27 @@ const data = [
     "artist": "SESTRA & YAROSLAV YARMAK"
   },
   {
-    "title": "СУПЕРДІВЧАТА.avi",
+    "title": "ГОПА ГОПА",
+    "artist": "SEX SHOP BOYS"
+  },
+  {
+    "title": "ГОПА ГОПА [БЕК ВОКАЛ]",
+    "artist": "SEX SHOP BOYS"
+  },
+  {
+    "title": "ІСТЕРИКА",
+    "artist": "SEX SHOP BOYS"
+  },
+  {
+    "title": "ІСТЕРИКА [БЕК ВОКАЛ]",
+    "artist": "SEX SHOP BOYS"
+  },
+  {
+    "title": "ЯЛТА",
+    "artist": "SEX SHOP BOYS"
+  },
+  {
+    "title": "СУПЕРДІВЧАТА",
     "artist": "SHADU"
   },
   {
@@ -2000,7 +3100,7 @@ const data = [
     "artist": "SHAKHOV"
   },
   {
-    "title": "ЧЕРВОНА РУТА",
+    "title": "ЧЕРВОНА РУТА [БЕК ВОКАЛ]",
     "artist": "SHAKHOV"
   },
   {
@@ -2016,7 +3116,11 @@ const data = [
     "artist": "SHUMEI"
   },
   {
-    "title": "КАПАЮТЬ",
+    "title": "ВОЛОССЯ [БЕК ВОКАЛ]",
+    "artist": "SHUMEI"
+  },
+  {
+    "title": "КАПАЮТЬ [БЕК ВОКАЛ]",
     "artist": "SHUMEI"
   },
   {
@@ -2024,12 +3128,28 @@ const data = [
     "artist": "SHUMEI"
   },
   {
-    "title": "МАЛЬВИ",
+    "title": "КОМЕТА [БЕК ВОКАЛ]",
+    "artist": "SHUMEI"
+  },
+  {
+    "title": "МАЛЬВИ [-,+,VID]",
     "artist": "SHUMEI"
   },
   {
     "title": "ПРОБАЧ",
     "artist": "SHUMEI"
+  },
+  {
+    "title": "ТРИВОГА",
+    "artist": "SHUMEI"
+  },
+  {
+    "title": "ЦІЛУЙ",
+    "artist": "SHUMEI"
+  },
+  {
+    "title": "БЕРЕВІЯМИ",
+    "artist": "SHUMEI & ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "БУРЕВІЯМИ",
@@ -2041,6 +3161,10 @@ const data = [
   },
   {
     "title": "ЗАГЛОХ",
+    "artist": "SKOFKA"
+  },
+  {
+    "title": "ЗАГЛОХ [БЕК ВОКАЛ]",
     "artist": "SKOFKA"
   },
   {
@@ -2068,7 +3192,7 @@ const data = [
     "artist": "SKYLERR"
   },
   {
-    "title": "КОЛИШНІМИ.avi",
+    "title": "КОЛИШНІМИ",
     "artist": "SKYLERR"
   },
   {
@@ -2084,7 +3208,7 @@ const data = [
     "artist": "SKYLERR & КІСЕЛЬОВ НІКІТА"
   },
   {
-    "title": "ЛЮБИЙ КОХАЙ МЕНЕ·.kfn",
+    "title": "ЛЮБИЙ КОХАЙ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "SMS"
   },
   {
@@ -2096,7 +3220,7 @@ const data = [
     "artist": "SUNGUNS"
   },
   {
-    "title": "МІЙ ГЕРОЙ·.avi",
+    "title": "МІЙ ГЕРОЙ [БЕК ВОКАЛ]",
     "artist": "SVITANKOVA"
   },
   {
@@ -2128,6 +3252,14 @@ const data = [
     "artist": "TARABAROVA"
   },
   {
+    "title": "ПОВЕРТАЙСЯ ЖИВИМ [БЕК ВОКАЛ]",
+    "artist": "TARABAROVA"
+  },
+  {
+    "title": "СВІТЛО В ТОБІ [БЕК ВОКАЛ]",
+    "artist": "TARABAROVA"
+  },
+  {
     "title": "СВІТЛО В ТОБІ",
     "artist": "TARABAROVA"
   },
@@ -2144,7 +3276,7 @@ const data = [
     "artist": "TARABAROVA"
   },
   {
-    "title": "Я КАЖУ ТАК",
+    "title": "Я КАЖУ ТАК [БЕК ВОКАЛ]",
     "artist": "TARABAROVA"
   },
   {
@@ -2152,15 +3284,15 @@ const data = [
     "artist": "TAYANNA"
   },
   {
-    "title": "ПОЦІЛУЙ.avi",
+    "title": "ПОЦІЛУЙ",
     "artist": "TEENSAD & MSBLACK"
   },
   {
-    "title": "ГОПАК.avi",
+    "title": "ГОПАК",
     "artist": "THE DOOX & JULY VITRANIUK"
   },
   {
-    "title": "00 00",
+    "title": "00 00 [БЕК ВОКАЛ]",
     "artist": "THE HARDKISS"
   },
   {
@@ -2168,7 +3300,27 @@ const data = [
     "artist": "THE HARDKISS"
   },
   {
+    "title": "HELPLESS",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "HURRICANE [БЕК ВОКАЛ]",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "IN LOVE [БЕК ВОКАЛ]",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "MAKE UP [БЕК ВОКАЛ]",
+    "artist": "THE HARDKISS"
+  },
+  {
     "title": "MAKE UP",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "RAIN",
     "artist": "THE HARDKISS"
   },
   {
@@ -2184,6 +3336,14 @@ const data = [
     "artist": "THE HARDKISS"
   },
   {
+    "title": "АНТАРКТИДА [БЕК ВОКАЛ]",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "ВСЕ БУЛО ТАК",
+    "artist": "THE HARDKISS"
+  },
+  {
     "title": "ГОРА",
     "artist": "THE HARDKISS"
   },
@@ -2192,11 +3352,27 @@ const data = [
     "artist": "THE HARDKISS"
   },
   {
+    "title": "ДВА ВIКНА [БЕК ВОКАЛ]",
+    "artist": "THE HARDKISS"
+  },
+  {
     "title": "ДВА ВІКНА",
     "artist": "THE HARDKISS"
   },
   {
+    "title": "ДВА ВІКНА [БЕК ВОКАЛ]",
+    "artist": "THE HARDKISS"
+  },
+  {
     "title": "ЖУРАВЛI (МАЛЬВИ)",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "ЖУРАВЛІ",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "ЖУРАВЛІ [БЕК ВОКАЛ]",
     "artist": "THE HARDKISS"
   },
   {
@@ -2216,11 +3392,19 @@ const data = [
     "artist": "THE HARDKISS"
   },
   {
+    "title": "МЕЛОДІЯ",
+    "artist": "THE HARDKISS"
+  },
+  {
     "title": "ОБIЙМИ",
     "artist": "THE HARDKISS"
   },
   {
     "title": "ОБІЙМИ",
+    "artist": "THE HARDKISS"
+  },
+  {
+    "title": "ПРІРВА [-,МАСТЕР,VID]",
     "artist": "THE HARDKISS"
   },
   {
@@ -2244,12 +3428,36 @@ const data = [
     "artist": "THE HARDKISS, MONATIK"
   },
   {
-    "title": "АНТАРКТИДА",
-    "artist": "THE HATTERS"
+    "title": "THE ВЙО [БЕК ВОКАЛ]",
+    "artist": "THE ВЙО"
   },
   {
-    "title": "ТОЛЬКО В ТЕБЕ",
-    "artist": "THE HATTERS"
+    "title": "ЗАЛІЗНИЙ ДУХ",
+    "artist": "THE ВЙО"
+  },
+  {
+    "title": "ЗОРI",
+    "artist": "THE ВЙО"
+  },
+  {
+    "title": "ЗОРI [БЕК ВОКАЛ]",
+    "artist": "THE ВЙО"
+  },
+  {
+    "title": "КІРОВОГРАД [БЕК ВОКАЛ]",
+    "artist": "THE ВЙО"
+  },
+  {
+    "title": "КОСМIШНА",
+    "artist": "THE ВЙО"
+  },
+  {
+    "title": "МАНУНА [БЕК ВОКАЛ]",
+    "artist": "THE ВЙО"
+  },
+  {
+    "title": "НОВА СУМЩИНА [БЕК ВОКАЛ]",
+    "artist": "THE ВЙО"
   },
   {
     "title": "БЕЗ ТЕБЕ Я НЕ Я",
@@ -2264,7 +3472,7 @@ const data = [
     "artist": "VAHA"
   },
   {
-    "title": "САМЕ ТИ",
+    "title": "САМЕ ТИ [БЕК ВОКАЛ]",
     "artist": "VAHA"
   },
   {
@@ -2280,67 +3488,119 @@ const data = [
     "artist": "VAHA"
   },
   {
-    "title": "СЕНСАЦІЯ",
+    "title": "СЕНСАЦІЯ [-,+,VID]",
     "artist": "VARASH"
   },
   {
-    "title": "123",
+    "title": "123 [-,+,VID]",
     "artist": "VARASH & LESAN"
   },
   {
-    "title": "ВИШИВАНКА.avi",
+    "title": "ВИШИВАНКА",
     "artist": "VERA & РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
-    "title": "МЕНІ НАСНИЛОСЬ",
+    "title": "НЕТВЕРЕЗИЙ",
+    "artist": "VERONIKA & PTASHKIN"
+  },
+  {
+    "title": "ВІД ІЛЮЗІЇ [БЕК ВОКАЛ]",
+    "artist": "VIN I VONA"
+  },
+  {
+    "title": "ВОДА [БЕК ВОКАЛ]",
+    "artist": "VIN I VONA"
+  },
+  {
+    "title": "ЗАВОРОЖИ",
+    "artist": "VIN I VONA"
+  },
+  {
+    "title": "ПРОБАЧ [БЕК ВОКАЛ]",
+    "artist": "VIN I VONA"
+  },
+  {
+    "title": "ТОЧКА G [БЕК ВОКАЛ]",
+    "artist": "VIN I VONA"
+  },
+  {
+    "title": "МЕНІ НАСНИЛОСЬ [БЕК ВОКАЛ]",
     "artist": "VIVID ROSE"
   },
   {
-    "title": "ПУСТА НІМА",
+    "title": "ПУСТА НІМА [БЕК ВОКАЛ]",
     "artist": "VIVID ROSE"
   },
   {
-    "title": "ГОДІ ГОВОРИТИ ПРО ТОГО, КОГО НЕМА",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "title": "ВАЛЬС",
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ГОДІ ГОВОРИТИ ПРО ТОГО КОГО НЕМА [БЕК ВОКАЛ]",
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ГОДІ ГОВОРИТИ ПРО ТОГО, КОГО НЕМА [-,+,VID]",
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ГОЛУБКА",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ГРУШЕЧКА",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ІНІЙ",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ЛЕТИ [-,+,VID]",
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ЛЕТИ",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ПЕРСЕФОНА [БЕК ВОКАЛ]",
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ПТАШЕЧКА",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ТВОЯ",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ТИ ЗАБУВ ПРО МЕНЕ",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ТИ ЗАБУВ ПРО МЕНЕ [БЕК ВОКАЛ]",
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ХТО ЦЕ ТУТ",
+    "artist": "VIVIENNE MORT"
+  },
+  {
+    "title": "ЧАС",
+    "artist": "VIVIENNE MORT"
   },
   {
     "title": "ДЕМОНИ",
-    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ) & OMANA"
+    "artist": "VIVIENNE MORT & OMANA"
   },
   {
-    "title": "ВЕСНА",
+    "title": "ВЕСНА [БЕК ВОКАЛ]",
     "artist": "VLADA K"
   },
   {
-    "title": "ЗМІНИ",
+    "title": "ЗМІНИ [БЕК ВОКАЛ]",
     "artist": "VLADA K"
   },
   {
@@ -2360,7 +3620,7 @@ const data = [
     "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
-    "title": "НАРЕЧЕНА.avi",
+    "title": "НАРЕЧЕНА",
     "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
@@ -2376,15 +3636,31 @@ const data = [
     "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
+    "title": "Я НА ЖИГУЛІ",
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
+  },
+  {
+    "title": "Я НА ЖИГУЛІ [БЕК ВОКАЛ]",
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
+  },
+  {
+    "title": "Я НЕ БУДУ ПИТИ [БЕК ВОКАЛ]",
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
+  },
+  {
     "title": "ДО ТАНЦЮ",
     "artist": "VOLKANOV (ВОЛКАНОВ ДІМА) & PAUCHEK"
   },
   {
-    "title": "А ДЕ А ДЕ А ДЕ",
+    "title": "ЗОРІ [БЕК ВОКАЛ]",
+    "artist": "VOLOSHYN"
+  },
+  {
+    "title": "А ДЕ А ДЕ А ДЕ [БЕК ВОКАЛ]",
     "artist": "VOVA CIGAN"
   },
   {
-    "title": "ДОДОМУ",
+    "title": "ДОДОМУ [БЕК ВОКАЛ]",
     "artist": "VOVA CIGAN"
   },
   {
@@ -2396,7 +3672,7 @@ const data = [
     "artist": "WELLBOY"
   },
   {
-    "title": "ВИШНІ",
+    "title": "ВИШНІ [БЕК ВОКАЛ]",
     "artist": "WELLBOY"
   },
   {
@@ -2405,6 +3681,10 @@ const data = [
   },
   {
     "title": "ВОРОГIВ НА НОЖI",
+    "artist": "WELLBOY"
+  },
+  {
+    "title": "ГУСИ [БЕК ВОКАЛ]",
     "artist": "WELLBOY"
   },
   {
@@ -2424,6 +3704,10 @@ const data = [
     "artist": "WELLBOY"
   },
   {
+    "title": "ЖИТТЯ [БЕК ВОКАЛ]",
+    "artist": "WELLBOY"
+  },
+  {
     "title": "ЖОВТІ МАЛЬВИ",
     "artist": "WELLBOY"
   },
@@ -2436,7 +3720,7 @@ const data = [
     "artist": "WELLBOY"
   },
   {
-    "title": "СТИЛЬ",
+    "title": "СТИЛЬ [-,+,VID]",
     "artist": "WELLBOY"
   },
   {
@@ -2445,6 +3729,10 @@ const data = [
   },
   {
     "title": "ЗАБИЙ",
+    "artist": "WELLBOY & PARFENIUK"
+  },
+  {
+    "title": "ЗАБИЙ [БЕК ВОКАЛ]",
     "artist": "WELLBOY & PARFENIUK"
   },
   {
@@ -2476,7 +3764,19 @@ const data = [
     "artist": "YAKTAK"
   },
   {
-    "title": "БАТЬКАМ",
+    "title": "LALALA [БЕК ВОКАЛ]",
+    "artist": "YAKTAK"
+  },
+  {
+    "title": "БАТЬКАМ [БЕК ВОКАЛ]",
+    "artist": "YAKTAK"
+  },
+  {
+    "title": "БАТЬКУ",
+    "artist": "YAKTAK"
+  },
+  {
+    "title": "БАТЬКУ [БЕК ВОКАЛ]",
     "artist": "YAKTAK"
   },
   {
@@ -2488,15 +3788,31 @@ const data = [
     "artist": "YAKTAK"
   },
   {
+    "title": "ВРОДЛИВА [БЕК ВОКАЛ]",
+    "artist": "YAKTAK"
+  },
+  {
     "title": "ГУЦУЛКА КСЕНЯ",
     "artist": "YAKTAK"
   },
   {
-    "title": "ЛИСТОПАДАМИ",
+    "title": "ЕНДОРФІН",
     "artist": "YAKTAK"
   },
   {
-    "title": "НЕ ЗАБУВАЙ",
+    "title": "ЛА ЛА ЛА",
+    "artist": "YAKTAK"
+  },
+  {
+    "title": "ЛИСТОПАДАМИ [БЕК ВОКАЛ]",
+    "artist": "YAKTAK"
+  },
+  {
+    "title": "НАРЕЧЕНА [БЕК ВОКАЛ]",
+    "artist": "YAKTAK"
+  },
+  {
+    "title": "НЕ ЗАБУВАЙ [БЕК ВОКАЛ]",
     "artist": "YAKTAK"
   },
   {
@@ -2504,11 +3820,15 @@ const data = [
     "artist": "YAKTAK"
   },
   {
+    "title": "ПЕРЕМОЖЕ ДОБРО [БЕК ВОКАЛ]",
+    "artist": "YAKTAK"
+  },
+  {
     "title": "ПОВІСТКА",
     "artist": "YAKTAK"
   },
   {
-    "title": "ПОРУЧ",
+    "title": "ПОРУЧ [БЕК ВОКАЛ]",
     "artist": "YAKTAK"
   },
   {
@@ -2532,11 +3852,11 @@ const data = [
     "artist": "YAKTAK & DOVI"
   },
   {
-    "title": "ЧЕКАЄ ВДОМА",
+    "title": "ЧЕКАЄ ВДОМА [БЕК ВОКАЛ]",
     "artist": "YAKTAK & DOVI"
   },
   {
-    "title": "НЕ ШУКАЙ.avi",
+    "title": "НЕ ШУКАЙ",
     "artist": "YAKTAK & GOLUBENKO"
   },
   {
@@ -2552,15 +3872,27 @@ const data = [
     "artist": "YAKTAK & SOBOL"
   },
   {
+    "title": "БУКЕТИ",
+    "artist": "YAKTAK, KOSMIRAK"
+  },
+  {
     "title": "ПАРОВА МАШИНА",
     "artist": "YARAYA"
   },
   {
-    "title": "НЕ ДОВІРЯЙ·.avi",
+    "title": "ПАРОВА МАШИНА [БЕК ВОКАЛ]",
+    "artist": "YARAYA"
+  },
+  {
+    "title": "НЕ ДОВІРЯЙ [БЕК ВОКАЛ]",
     "artist": "YARIMA"
   },
   {
     "title": "ЖУРАВЛІ",
+    "artist": "YAROMIYA"
+  },
+  {
+    "title": "МАМО МОЯ",
     "artist": "YAROMIYA"
   },
   {
@@ -2584,7 +3916,7 @@ const data = [
     "artist": "ZELENOOKA"
   },
   {
-    "title": "ТАМ ДЕ ТИ.avi",
+    "title": "ТАМ ДЕ ТИ",
     "artist": "ZLOTNYTSKYI"
   },
   {
@@ -2600,55 +3932,51 @@ const data = [
     "artist": "АВІАТОР"
   },
   {
-    "title": "ПОВЕРТАЙСЯ",
-    "artist": "АВІАТОР"
-  },
-  {
     "title": "НЕ ЗНАЮ",
     "artist": "АНДРАДЕ МІШЕЛЬ"
   },
   {
-    "title": "FREEWAY",
+    "title": "FREEWAY [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "LOVE STORIYA",
+    "title": "LOVE STORIYA [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "MON AMI",
+    "title": "MON AMI [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "В НАШОМУ СЕРЦІ (-,+,ОР).kfn",
+    "title": "В НАШОМУ СЕРЦІ",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "ВІЛЬНА ДУША",
+    "title": "ВІЛЬНА ДУША [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "ЕКСПЕРИМЕНТ",
+    "title": "ЕКСПЕРИМЕНТ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "ЛА-ЛА-ЛА (-,+,КЛІП,ОР)·.kfn",
+    "title": "ЛА-ЛА-ЛА [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "НАЗАВЖДИ",
+    "title": "НАЗАВЖДИ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "НАЗОВСІМ·.kfn",
+    "title": "НАЗОВСІМ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "НЕ ДАЛА",
+    "title": "НЕ ДАЛА [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "НІЧИЯ",
+    "title": "НІЧИЯ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
@@ -2656,31 +3984,23 @@ const data = [
     "artist": "АНДРІАНА"
   },
   {
-    "title": "ПРИГОРНИ МЕНЕ",
+    "title": "ПРИГОРНИ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "РОЗКАЖУ ТОБІ (-,+,ОР)·.kfn",
+    "title": "РОЗКАЖУ ТОБІ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "РОЗКАЖУ ТОБІ",
+    "title": "СЕРЦЕ ЗНАЄ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "СЕРЦЕ ЗНАЄ",
+    "title": "ТРИ СВІТИ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
-    "title": "ТРИ СВІТИ",
-    "artist": "АНДРІАНА"
-  },
-  {
-    "title": "Я НЕ ЗАБУДУ (-)·.kfn",
-    "artist": "АНДРІАНА"
-  },
-  {
-    "title": "Я НЕ ЗАБУДУ",
+    "title": "Я НЕ ЗАБУДУ [БЕК ВОКАЛ]",
     "artist": "АНДРІАНА"
   },
   {
@@ -2692,12 +4012,24 @@ const data = [
     "artist": "АНДРІАНА & PUSTOVIT"
   },
   {
-    "title": "ПОВЕРНИСЯ СОЛОВЕЙКО",
+    "title": "ГРАЙ СКРИПАЛЬ [БЕК ВОКАЛ]",
+    "artist": "АНІСІМОВА ЛЮБОВ"
+  },
+  {
+    "title": "ПОВЕРНИСЯ СОЛОВЕЙКО [БЕК ВОКАЛ]",
+    "artist": "АНІСІМОВА ЛЮБОВ"
+  },
+  {
+    "title": "ПОВЕРНИСЯ СОЛОВЕЙКУ [БЕК ВОКАЛ]",
     "artist": "АНІСІМОВА ЛЮБОВ"
   },
   {
     "title": "МОЇ БАТЬКИ",
     "artist": "АНІСІМОВИ ЛЮБОВ І ВІКТОР"
+  },
+  {
+    "title": "LEGO [БЕК ВОКАЛ]",
+    "artist": "АНТИТIЛА"
   },
   {
     "title": "TDME (ТАМ ДЕ МИ Є)",
@@ -2708,11 +4040,11 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "БІЛА ВОРОНА (КЛІП).kfn",
+    "title": "БІЛА ВОРОНА",
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "БІЛА ВОРОНА",
+    "title": "БІЛА ВОРОНА [БЕК ВОКАЛ]",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2720,7 +4052,7 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "БУДУ ВУДУ",
+    "title": "БУДУ ВУДУ [БЕК ВОКАЛ]",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2728,11 +4060,15 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
+    "title": "ВДОМА",
+    "artist": "АНТИТІЛА"
+  },
+  {
     "title": "ВЕРНУТИ ТЕБЕ",
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "ВЕСНА ЛЮБОВЬ (ОРИГ).kfn",
+    "title": "ВЕСНА ЛЮБОВЬ",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2744,7 +4080,19 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
+    "title": "ВІРИЛА [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
     "title": "ВСЕ КРАСИВО",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "ВСЮ НІЧ [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "ЗАВЖДИ МОЯ",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2752,11 +4100,15 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "І ВСЮ НІЧ",
+    "title": "ЗАСИНАЙ",
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "ІВ КУСТО",
+    "title": "І ВСЮ НІЧ [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "ІВ КУСТО [БЕК ВОКАЛ]",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2764,11 +4116,15 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
+    "title": "ЇДЕМ ЇДЕМ [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
     "title": "КІНО",
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "ЛОВИ МОМЕНТ (+.-).kfn",
+    "title": "ЛОВИ МОМЕНТ",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2784,11 +4140,47 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
+    "title": "МАЯМИ",
+    "artist": "АНТИТІЛА"
+  },
+  {
     "title": "МЕНІ ТЕБЕ МАЛО",
     "artist": "АНТИТІЛА"
   },
   {
     "title": "МОЛОКОМ",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "НАД ПОЛЮСАМИ",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "НЕЗАЛЕЖНИЙ",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "ПОЛИНЕЗИЙСКАЯ ЗИМА [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "РОЖЕВІ ДІВИ [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "САМА [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "СМОТРИ В МЕНЯ",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "СМОТРИ В МЕНЯ [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "ТОПИТИ ЗА СВОЄ",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2800,7 +4192,11 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "ХОРОША ПІСНЯ (+,-)·.kfn",
+    "title": "ХОРОША ПІСНЯ [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА"
+  },
+  {
+    "title": "ЧОРНОБИЛЬ ФОРЕВА",
     "artist": "АНТИТІЛА"
   },
   {
@@ -2808,19 +4204,23 @@ const data = [
     "artist": "АНТИТІЛА"
   },
   {
-    "title": "СОНЯЧНИЙ ДОЩ (-,VID).kfn",
+    "title": "САМА [БЕК ВОКАЛ]",
+    "artist": "АНТИТІЛА & ПАРА НОРМАЛЬНИХ"
+  },
+  {
+    "title": "СОНЯЧНИЙ ДОЩ",
     "artist": "АРНІКА"
   },
   {
-    "title": "ЇХАВ КОЗАК ЗА ДУНАЙ",
+    "title": "ЇХАВ КОЗАК ЗА ДУНАЙ [БЕК ВОКАЛ]",
     "artist": "АРТУР В. & ДОМІНО"
   },
   {
-    "title": "НЕСЕ ГАЛЯ ВОДУ",
+    "title": "НЕСЕ ГАЛЯ ВОДУ [БЕК ВОКАЛ]",
     "artist": "АРТУР В. & ДОМІНО"
   },
   {
-    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ",
+    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ [БЕК ВОКАЛ]",
     "artist": "АРТУР В. & ДОМІНО"
   },
   {
@@ -2828,15 +4228,19 @@ const data = [
     "artist": "БIЛИК IРИНА"
   },
   {
-    "title": "ТАНГО ЗАБУТИХ МРІЙ",
+    "title": "ОДИНОКАЯ",
+    "artist": "БIЛИК ІРИНА"
+  },
+  {
+    "title": "ТАНГО ЗАБУТИХ МРІЙ [БЕК ВОКАЛ]",
     "artist": "БIЛОНОЖКО В. & СВIТЛАНА"
   },
   {
-    "title": "ЦВІТЕ, ЦВІТЕ ЧЕРЕМШИНА",
+    "title": "ЦВІТЕ, ЦВІТЕ ЧЕРЕМШИНА [БЕК ВОКАЛ]",
     "artist": "БАБИЧ АНЖЕЛА"
   },
   {
-    "title": "ВОНА ЗНАЄ",
+    "title": "ВОНА ЗНАЄ [-,+,FV,ОР]",
     "artist": "БАБКІН СЕРГІЙ"
   },
   {
@@ -2844,7 +4248,7 @@ const data = [
     "artist": "БАБКІН СЕРГІЙ"
   },
   {
-    "title": "ДИХАЙ ПОВІЛЬНО (+,-).kfn",
+    "title": "ДИХАЙ ПОВІЛЬНО",
     "artist": "БАБКІН СЕРГІЙ"
   },
   {
@@ -2864,19 +4268,19 @@ const data = [
     "artist": "БАБКІН СЕРГІЙ, КРАВЕЦЬ ОЛЕНА"
   },
   {
-    "title": "СОСЕ.kfn",
+    "title": "СОСЕ",
     "artist": "БАЙРАКТАР"
   },
   {
-    "title": "ГРАЙ МУЗИКО ГРАЙ",
+    "title": "ГРАЙ МУЗИКО ГРАЙ [БЕК ВОКАЛ]",
     "artist": "БАРИЛЯК ТЕТЯНА"
   },
   {
-    "title": "ТИ В МЕНЕ Є",
+    "title": "ТИ В МЕНЕ Є [БЕК ВОКАЛ]",
     "artist": "БАРИЛЯК ТЕТЯНА"
   },
   {
-    "title": "24_02",
+    "title": "24_02 [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2892,11 +4296,7 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "ГЕРОЯМ (UA)",
-    "artist": "БЕЗ ОБМЕЖЕНЬ"
-  },
-  {
-    "title": "ДИМ (МАСТЕР).kfn",
+    "title": "ГЕРОЯМ (UA) [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2904,11 +4304,11 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "ДО НЕБЕС",
+    "title": "ДИМ [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "ЗОРІ ЗАПАЛАЛИ (-,+).kfn",
+    "title": "ДО НЕБЕС",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2924,7 +4324,7 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "ЛИСТОПАД",
+    "title": "ЛИСТОПАД [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2936,7 +4336,7 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "МОЯ ЗЕМЛЯ",
+    "title": "МОЯ ЗЕМЛЯ [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2944,7 +4344,7 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "НА МЕЛІ",
+    "title": "НА МЕЛІ [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2952,11 +4352,15 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "НАЛИЙ МЕНІ ВИНА",
+    "title": "НАЙ БИ ВЖЕ ВЕСНА [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
-    "title": "НЕ ЗНАЮ ЯК",
+    "title": "НАЛИЙ МЕНІ ВИНА [БЕК ВОКАЛ]",
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
+  },
+  {
+    "title": "НЕ ЗНАЮ ЯК [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2969,6 +4373,10 @@ const data = [
   },
   {
     "title": "ТВОЇ ОЧІ",
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
+  },
+  {
+    "title": "ТОНУ [БЕК ВОКАЛ]",
     "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
@@ -2992,7 +4400,7 @@ const data = [
     "artist": "БЕЗ ОБМЕЖЕНЬ & VRODA & ЛЕНЬО ІВАН"
   },
   {
-    "title": "БІЛИЙ СНІГ",
+    "title": "БІЛИЙ СНІГ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
@@ -3000,39 +4408,39 @@ const data = [
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ЗАВОРОЖИЛА",
+    "title": "ЗАВОРОЖИЛА [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ЗАКАРПАТСКИЙ КРАЙ",
+    "title": "ЗАКАРПАТСКИЙ КРАЙ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "КОХАНА ДІВЧИНО",
+    "title": "КОХАНА ДІВЧИНО [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ЛИСТОПАД",
+    "title": "ЛИСТОПАД [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "НАРЕЧЕНА",
+    "title": "НАРЕЧЕНА [-,+,REMIX] [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "НЕ ПИТАЙ МЕНЕ",
+    "title": "НЕ ПИТАЙ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ПОЛОВИНА",
+    "title": "ПОЛОВИНА [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "СЛУХАЙ СВОЄ СЕРЦЕ",
+    "title": "СЛУХАЙ СВОЄ СЕРЦЕ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "СОЛОДКІ НЕБЕСА",
+    "title": "СОЛОДКІ НЕБЕСА [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
@@ -3040,15 +4448,15 @@ const data = [
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ТВОЇ ОЧІ",
+    "title": "ТВОЇ ОЧІ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ТИ ЗАБУЛА ВСЕ",
+    "title": "ТИ ЗАБУЛА ВСЕ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ТИ НЕ ТА",
+    "title": "ТИ НЕ ТА [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
@@ -3060,7 +4468,7 @@ const data = [
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ЧАРІВНИЦЯ",
+    "title": "ЧАРІВНИЦЯ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
@@ -3068,11 +4476,11 @@ const data = [
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "ЩІЧКИ-ЯМОЧКИ",
+    "title": "ЩІЧКИ-ЯМОЧКИ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "Я СУМУЮ ЗА ТОБОЮ (-,+)·.kfn",
+    "title": "Я СУМУЮ ЗА ТОБОЮ [БЕК ВОКАЛ]",
     "artist": "БЕМА АНДРІЙ"
   },
   {
@@ -3080,7 +4488,7 @@ const data = [
     "artist": "БЕМА АНДРІЙ"
   },
   {
-    "title": "А ТИ МЕНЕ ЧЕКАЄШ",
+    "title": "А ТИ МЕНЕ ЧЕКАЄШ [БЕК ВОКАЛ]",
     "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
@@ -3092,11 +4500,11 @@ const data = [
     "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "В НАШIМ СЕЛI НА ВЕСIЛЛI",
+    "title": "В НАШIМ СЕЛI НА ВЕСIЛЛI [БЕК ВОКАЛ]",
     "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "ЗОЗУЛЕНЬКА",
+    "title": "ЗОЗУЛЕНЬКА [БЕК ВОКАЛ]",
     "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
@@ -3104,11 +4512,11 @@ const data = [
     "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "ВЕСІЛЛЯ ЗОЛОТЕ",
+    "title": "ВЕСІЛЛЯ ЗОЛОТЕ [БЕК ВОКАЛ]",
     "artist": "БЕРЕЗУЦЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "ТЕЧЕ РІЧЕНЬКА",
+    "title": "ТЕЧЕ РІЧЕНЬКА [БЕК ВОКАЛ]",
     "artist": "БЕРЕЗУЦЬКИЙ МИХАЙЛО"
   },
   {
@@ -3116,15 +4524,19 @@ const data = [
     "artist": "БІЛИЙ БО"
   },
   {
-    "title": "ЯК ДИТИНА",
+    "title": "ЯК ДИТИНА [БЕК ВОКАЛ]",
     "artist": "БІЛИЙ БО"
   },
   {
-    "title": "ДО ЗІРОК",
+    "title": "ДО ЗІРОК [БЕК ВОКАЛ]",
     "artist": "БІЛИЙ БО & PRBLSK"
   },
   {
     "title": "А Я ПЛИВУ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "БАНДУРИСТЕ ОРЛЕ СИЗИЙ",
     "artist": "БІЛИК ІРИНА"
   },
   {
@@ -3136,7 +4548,19 @@ const data = [
     "artist": "БІЛИК ІРИНА"
   },
   {
+    "title": "ВIТЕР",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
     "title": "ДОЩЕМ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "КРАЇНА [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "КУВАЛА ЗОЗУЛЯ [МАСТЕР,VID]",
     "artist": "БІЛИК ІРИНА"
   },
   {
@@ -3144,7 +4568,7 @@ const data = [
     "artist": "БІЛИК ІРИНА"
   },
   {
-    "title": "МАЛО·.avi",
+    "title": "МАЛО [БЕК ВОКАЛ]",
     "artist": "БІЛИК ІРИНА"
   },
   {
@@ -3152,7 +4576,27 @@ const data = [
     "artist": "БІЛИК ІРИНА"
   },
   {
+    "title": "МИ БУДЕМ РАЗОМ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
     "title": "МОВЧАТИ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "МОВЧАТИ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "НЕ ХОВАЙ ОЧЕЙ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "ОДИНОКАЯ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "ОДИНОКАЯ [БЕК ВОКАЛ]",
     "artist": "БІЛИК ІРИНА"
   },
   {
@@ -3160,7 +4604,23 @@ const data = [
     "artist": "БІЛИК ІРИНА"
   },
   {
+    "title": "СНІГ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "ТВОЇ РУКИ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "ТИ МІЙ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
     "title": "ТИ МІЙ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "ФАРБИ",
     "artist": "БІЛИК ІРИНА"
   },
   {
@@ -3168,27 +4628,79 @@ const data = [
     "artist": "БІЛИК ІРИНА"
   },
   {
-    "title": "Я ВІДРІЖУ ХВИЛІ",
+    "title": "ХАЙ ЖИВЕ НАДІЯ",
     "artist": "БІЛИК ІРИНА"
   },
   {
-    "title": "ВІДПУСТИ·.avi",
-    "artist": "БІЛИК ІРИНА & МИРОНЕНКО СЕРГІЙ"
+    "title": "ЦВІТЕ ТЕРЕН",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "Я ВІДРІЖУ ХВИЛІ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "Я ПЛИВУ У ЧОВНІ",
+    "artist": "БІЛИК ІРИНА"
+  },
+  {
+    "title": "МОВЧАТИ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА & СКРЯБІН"
+  },
+  {
+    "title": "НЕ ЦІЛУЙ",
+    "artist": "БІЛИК ІРИНА & ТІК"
+  },
+  {
+    "title": "ВІДПУСТИ [БЕК ВОКАЛ]",
+    "artist": "БІЛИК ІРИНА, МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "НЕ ЦІЛУЙ",
     "artist": "БІЛИК ІРИНА, ТІК"
   },
   {
+    "title": "А ЗІ МНОЮ БУВ КРАСИВИЙ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "БАТЬКIВСЬКА ПIСНЯ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "БАТЬКIВСЬКЕ ЖИТО",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "БАТЬКИ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
     "title": "ВЧИТЕЛЬКО МОЯ",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ГОРОБИНА НІЧ (+,-)·.kfn",
+    "title": "ГОРОБИНА НIЧ [БЕК ВОКАЛ]",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ЗАГАДАЙ БАЖАННЯ",
+    "title": "ГОРОБИНА НІЧ [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ГОРОБИНА НІЧ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ДЗВОНАР",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ДУМ ДУМ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ЗАГАДАЙ БАЖАННЯ [БЕК ВОКАЛ]",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
@@ -3196,7 +4708,23 @@ const data = [
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
+    "title": "ЗЕЛЕНЕЄ ЖИТО",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ИВАНКУ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
     "title": "ІВАНКУ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "КАФЕ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ЛЕЛЕКИ [БЕК ВОКАЛ]",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
@@ -3204,19 +4732,63 @@ const data = [
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ЛИСТОПАД",
+    "title": "ЛИСТОПАД [БЕК ВОКАЛ]",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ОЙ, КАЛИНОНЬКА ЧЕРВОНА",
+    "title": "МАМИНА ПІСНЯ [БЕК ВОКАЛ]",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ПШЕНИЧНЕ ПЕРЕВЕСЛО",
+    "title": "МРІЯ ЦЕ ТИ",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ЧАР-ЗІЛЛЯ",
+    "title": "НІБИ ВЧОРА РІДНА МАМО [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ОЙ КАЛИНОНЬКО ЧЕРВОНА [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ОЙ, КАЛИНОНЬКА ЧЕРВОНА [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ПШЕНИЧНЕ ПЕРЕВЕСЛО [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "РОЗКВІТАЮ Я",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "РОЗПИТАЮ ПРО ЛЮБОВ",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "СВЯТКОВА",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "СТОРОНА МОЯ [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "УКРАИНОЧКА [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "УКРАЇНОЧКА",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ЧАР ЗІЛЛЯ [БЕК ВОКАЛ]",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ЧАР-ЗІЛЛЯ [БЕК ВОКАЛ]",
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
@@ -3224,7 +4796,39 @@ const data = [
     "artist": "БІЛОЗІР ОКСАНА"
   },
   {
-    "title": "ЗА ДОБРО",
+    "title": "ЧОРНА КВІТКА",
+    "artist": "БІЛОЗІР ОКСАНА"
+  },
+  {
+    "title": "ДАРУЮ ВАМ ПIСНЮ",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "ДІВЧИНА ВЕСЕЛКА",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "ЗА ДОБРО [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "ЗОРЯ ЗІЙДЕ [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "КВIТУЄ САД",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "КВIТУЄ САД [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "КВІТУЄ САД [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "КОВТОК ХОЛОДНОГО ВИНА [БЕК ВОКАЛ]",
     "artist": "БІЛОКОНЬ ОЛЕНА"
   },
   {
@@ -3232,12 +4836,92 @@ const data = [
     "artist": "БІЛОКОНЬ ОЛЕНА"
   },
   {
-    "title": "БУДЕ СВЯТО",
+    "title": "КОЗАЧЕ [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "МАМИНІ ПІСНІ_ [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "МАМИНІ ПІСНІ [БЕК ВОКАЛ]",
+    "artist": "БІЛОКОНЬ ОЛЕНА"
+  },
+  {
+    "title": "АНТОНIВКА",
     "artist": "БІЛОНОЖКО ВІТАЛІЙ"
   },
   {
-    "title": "А ВЖЕ ОСІНЬ ПРИЙШЛА У МІЙ САД (+,-).kfn",
-    "artist": "БОБУЛ ІВО"
+    "title": "БIЛИЙ ПРИЧАЛ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "БУДЕ СВЯТО [БЕК ВОКАЛ]",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ВIВАТ ЧОЛОВIКИ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ГЕЙ ЛIТА",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ДОДОМУ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "КОЛИСКОВА",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ЛОЖКА ДЬОГТЮ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ЛЮБОВЕ МОЯ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ПЕРШИЙ ОНУК",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "Я ТЕБЕ НIКОЛИ НЕ ЗАБУДУ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "ЯБЛУНЕВИЙ ТУМАН",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
+  },
+  {
+    "title": "АНТОНIВКА",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
+  },
+  {
+    "title": "БIЛИЙ ПРИЧАЛ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
+  },
+  {
+    "title": "ДОДОМУ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
+  },
+  {
+    "title": "ЛОЖКА ДЬОГТЮ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
+  },
+  {
+    "title": "ЛЮБОВЕ МОЯ",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
+  },
+  {
+    "title": "ПЕРШИЙ ОНУК",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
+  },
+  {
+    "title": "ТАНГО ЗАБУТИХ МРІЙ [БЕК ВОКАЛ]",
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ & СВІТЛАНА"
   },
   {
     "title": "А ВЖЕ ОСІНЬ ПРИЙШЛА У МІЙ САД",
@@ -3256,7 +4940,7 @@ const data = [
     "artist": "БОБУЛ ІВО"
   },
   {
-    "title": "ВСЕ ЗОЛОТО СВІТУ (-)·.kfn",
+    "title": "ВСЕ ЗОЛОТО СВІТУ [БЕК ВОКАЛ]",
     "artist": "БОБУЛ ІВО"
   },
   {
@@ -3272,7 +4956,7 @@ const data = [
     "artist": "БОБУЛ ІВО"
   },
   {
-    "title": "ЛЮБОВ КРІЗЬ ЛІТА (-)·.kfn",
+    "title": "ЛЮБОВ КРІЗЬ ЛІТА [БЕК ВОКАЛ]",
     "artist": "БОБУЛ ІВО"
   },
   {
@@ -3280,7 +4964,7 @@ const data = [
     "artist": "БОБУЛ ІВО"
   },
   {
-    "title": "МІСЯЧНЕ КОЛЕСО",
+    "title": "МІСЯЧНЕ КОЛЕСО [БЕК ВОКАЛ]",
     "artist": "БОБУЛ ІВО"
   },
   {
@@ -3308,7 +4992,119 @@ const data = [
     "artist": "БОБУЛ ІВО"
   },
   {
-    "title": "БАЙРАКТАР",
+    "title": "БЕРЕГ ЛЮБОВI",
+    "artist": "БОБУЛ ІВО & САНДУЛЕСА ЛІЛІЯ"
+  },
+  {
+    "title": "СПАЛЕНI МОСТИ",
+    "artist": "БОБУЛ ІВО & САНДУЛЕСА ЛІЛІЯ"
+  },
+  {
+    "title": "ВІТЕР",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "ВОГОНЬ",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "ДВIЧI В ОДНУ РIЧКУ [БЕК ВОКАЛ]",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "ДВІЧІ В ОДНУ РІЧКУ",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "ТИ МЕНЕ ПОЛЮБИШ [БЕК ВОКАЛ]",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "ЩАСТЯ [БЕК ВОКАЛ]",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "Я НЕ ПРОЖИВУ БЕЗ ТЕБЕ ЦЕ ЖИТТЯ",
+    "artist": "БОДАЙ (РАЙ) ЮЛІЯ"
+  },
+  {
+    "title": "А ЗА ЛІТОМ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ВЕСІЛІТЬСЯ ЛЮДИ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ДЯКУЮ ТОБІ МАМО",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ДЯКУЮ ТОБІ МАМО [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "З ДНЕМ НАРОДЖЕННЯ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ЗЕЛЕН КЛЕН",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "КВІТКА НАДІЇ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "КВІТКА [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "НОВИЙ РІК",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ОСТАННЯ ЗИМА [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "РАДУЙСЯ ЗЕМЛЕ МОЯ [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ТАНОЧКИ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ТАНОЧКИ [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "УКРАЇНА",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "УКРАЇНА [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "УКРАЇНКА МОЛОДА [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ЧАС НЕ ВЕРТАЄТЬСЯ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ЧАС НЕ ВЕРТАЄТЬСЯ [БЕК ВОКАЛ]",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "ЧОМ ТИ НЕ ПРИЙШОВ",
+    "artist": "БОЙКО КАТЯ"
+  },
+  {
+    "title": "БАЙРАКТАР [БЕК ВОКАЛ]",
     "artist": "БОРОВИК ТАРАС"
   },
   {
@@ -3324,6 +5120,10 @@ const data = [
     "artist": "БОРОДІН МАКСИМ"
   },
   {
+    "title": "НЕ ВІДПУСКАЙ [БЕК ВОКАЛ]",
+    "artist": "БОРОДІН МАКСИМ"
+  },
+  {
     "title": "СКАЖИ МЕНI",
     "artist": "БОРОДІН МАКСИМ"
   },
@@ -3332,23 +5132,23 @@ const data = [
     "artist": "БОРОДІН МАКСИМ & KOLABA"
   },
   {
-    "title": "ЗНАЮ",
+    "title": "ЗНАЮ [БЕК ВОКАЛ]",
     "artist": "БОССО АРТУР"
   },
   {
-    "title": "КУРОРТНИЙ РОМАН",
+    "title": "КУРОРТНИЙ РОМАН [БЕК ВОКАЛ]",
     "artist": "БОССО АРТУР"
   },
   {
-    "title": "МЕНІ ДО ВЕСНИ",
+    "title": "МЕНІ ДО ВЕСНИ [БЕК ВОКАЛ]",
     "artist": "БОССО АРТУР"
   },
   {
-    "title": "СНЕГ",
+    "title": "СНЕГ [БЕК ВОКАЛ]",
     "artist": "БОССО АРТУР"
   },
   {
-    "title": "ТИ ТІЛЬКИ ТИ",
+    "title": "ТИ ТІЛЬКИ ТИ [БЕК ВОКАЛ]",
     "artist": "БОССО АРТУР"
   },
   {
@@ -3356,15 +5156,19 @@ const data = [
     "artist": "БОССО АРТУР"
   },
   {
-    "title": "ЯК БЕЗ ТЕБЕ ЖИТИ",
+    "title": "Я БЕЗ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "БОССО АРТУР"
   },
   {
-    "title": "ВЕЧІРНЄ СОНЦЕ (+,-,VID).kfn",
+    "title": "ЯК БЕЗ ТЕБЕ ЖИТИ [БЕК ВОКАЛ]",
+    "artist": "БОССО АРТУР"
+  },
+  {
+    "title": "ВЕЧІРНЄ СОНЦЕ",
     "artist": "БРУТТО (BRUTTO)"
   },
   {
-    "title": "ЗАДЗВОНИ",
+    "title": "ЗАДЗВОНИ [БЕК ВОКАЛ]",
     "artist": "БУДЬМО"
   },
   {
@@ -3372,15 +5176,35 @@ const data = [
     "artist": "БУДЬМО"
   },
   {
-    "title": "ПОВЕДИ МЕНЕ",
+    "title": "ПОВЕДИ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "БУДЬМО"
   },
   {
-    "title": "ДУХМЯНА НIЧ (VID).kfn",
+    "title": "ДУХМЯНА НIЧ",
     "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
-    "title": "УКРАЇНА ВИШИВАНКА",
+    "title": "ДУХМЯНА НІЧ",
+    "artist": "БУЖИНСЬКА КАТЯ"
+  },
+  {
+    "title": "КРАСИВА ВЕСНА [БЕК ВОКАЛ]",
+    "artist": "БУЖИНСЬКА КАТЯ"
+  },
+  {
+    "title": "РОМАНСЕРО [UA,+,-,VID]",
+    "artist": "БУЖИНСЬКА КАТЯ"
+  },
+  {
+    "title": "РОМАНСЕРО [UA,+,-,VID] [БЕК ВОКАЛ]",
+    "artist": "БУЖИНСЬКА КАТЯ"
+  },
+  {
+    "title": "УКРАЇНА ВИШИВАНКА [БЕК ВОКАЛ]",
+    "artist": "БУЖИНСЬКА КАТЯ"
+  },
+  {
+    "title": "ЯК У НАС НА УКРАЇНI [БЕК ВОКАЛ]",
     "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
@@ -3388,19 +5212,19 @@ const data = [
     "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
-    "title": "ВИШЕНЬКА ЧЕРЕШЕНЬКА",
-    "artist": "БУЙНИЙ ПАНАС"
+    "title": "ЯК У НАС НА УКРАЇНІ [БЕК ВОКАЛ]",
+    "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
-    "title": "ГОРНЯТКО КАПУЧІНО",
-    "artist": "БУЙНИЙ ПАНАС"
+    "title": "КОРОЛЕВА НАТХНЕННЯ",
+    "artist": "БУЖИНСЬКА КАТЯ & ГРИЦКАН"
   },
   {
-    "title": "ОБА-НА",
-    "artist": "БУЙНИЙ ПАНАС"
+    "title": "ДВІ ЗОРІ [БЕК ВОКАЛ]",
+    "artist": "БУЖИНСЬКА КАТЯ & ЧОРНИЙ ПЕТРО"
   },
   {
-    "title": "ПОЦЬОМАЙ",
+    "title": "ГОРНЯТКО КАПУЧІНО [БЕК ВОКАЛ]",
     "artist": "БУЙНИЙ ПАНАС"
   },
   {
@@ -3408,19 +5232,23 @@ const data = [
     "artist": "БУЙНИЙ ПАНАС"
   },
   {
-    "title": "ЩАСТЯ ЗДОРОВ'Я МНОГАЯ ЛІТА",
-    "artist": "БУЙНИЙ ПАНАС"
-  },
-  {
     "title": "ЩАСТЯ, ЗДОРОВ’Я, МНОГАЯ ЛІТА",
     "artist": "БУЙНИЙ ПАНАС"
   },
   {
-    "title": "HAPPY END (-).kfn",
+    "title": "E-MAIL",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "EVA",
     "artist": "БУМБОКС"
   },
   {
     "title": "HAPPY END",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "HAPPY END [БЕК ВОКАЛ]",
     "artist": "БУМБОКС"
   },
   {
@@ -3432,11 +5260,11 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
-    "title": "ДЕНЬ",
+    "title": "ДЕНЬ [БЕК ВОКАЛ]",
     "artist": "БУМБОКС"
   },
   {
-    "title": "ДИТИНА (COVER,+,-).kfn",
+    "title": "ДИТИНА (COVER,+,-)",
     "artist": "БУМБОКС"
   },
   {
@@ -3444,11 +5272,15 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
-    "title": "ЗА БУЙКИ (САНДАЛИ)",
+    "title": "ДІАГНОЗ",
     "artist": "БУМБОКС"
   },
   {
-    "title": "ЗА БУЙКИ (САНДАЛИ) {D,NO OR}.kfn",
+    "title": "ЗЦАПАЛА ЗЛАПАЛА",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "ІСТОРІЯ [БЕК ВОКАЛ]",
     "artist": "БУМБОКС"
   },
   {
@@ -3456,7 +5288,7 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
-    "title": "КИМ МИ БУЛИ (+,-,КЛІП).kfn",
+    "title": "КЕШ MONEY БАБУЛЄС",
     "artist": "БУМБОКС"
   },
   {
@@ -3464,11 +5296,23 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
+    "title": "КИМ МИ БУЛИ [БЕК ВОКАЛ]",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "КОЛИШНЯ",
+    "artist": "БУМБОКС"
+  },
+  {
     "title": "ЛЮДИ",
     "artist": "БУМБОКС"
   },
   {
-    "title": "МАЛЕНЬКА ДИТИНА (COVER,КЛІП).kfn",
+    "title": "МАЛА",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "МАЛЕНЬКА ДИТИНА (COVER,КЛІП)",
     "artist": "БУМБОКС"
   },
   {
@@ -3480,7 +5324,19 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
-    "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА",
+    "title": "НАОДИНЦІ",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "ОДНА",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "ОДНА [БЕК ВОКАЛ]",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА [БЕК ВОКАЛ]",
     "artist": "БУМБОКС"
   },
   {
@@ -3488,11 +5344,19 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
-    "title": "ПЕПЕЛ (-,+,КЛІП).kfn",
+    "title": "ПЕПЕЛ",
     "artist": "БУМБОКС"
   },
   {
     "title": "ПЛЮЩ",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "ПОБАЧИМОСЬ",
+    "artist": "БУМБОКС"
+  },
+  {
+    "title": "ПОЛІНА [БЕК ВОКАЛ]",
     "artist": "БУМБОКС"
   },
   {
@@ -3504,11 +5368,15 @@ const data = [
     "artist": "БУМБОКС"
   },
   {
+    "title": "ТРИМАЙ [-,+,VID]",
+    "artist": "БУМБОКС"
+  },
+  {
     "title": "ТРИМАЙ",
     "artist": "БУМБОКС"
   },
   {
-    "title": "ФІРТКА",
+    "title": "ФІРТКА [БЕК ВОКАЛ]",
     "artist": "БУМБОКС"
   },
   {
@@ -3524,10 +5392,6 @@ const data = [
     "artist": "БУМБОКС & THE GITAS"
   },
   {
-    "title": "НЕ ЗНАЮ",
-    "artist": "БУМБОКС & НАДИН"
-  },
-  {
     "title": "ЗЛИВА",
     "artist": "БУМБОКС, JAMALA, PIANOБОЙ"
   },
@@ -3536,7 +5400,95 @@ const data = [
     "artist": "БУМБОКС, ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "Є У ЛІСІ КАЛИНА",
+    "artist": "БУНЬ НАТАЛІЯ"
+  },
+  {
+    "title": "АНГЕЛ ОХОРОНЕЦЬ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ІЗ ЯНГОЛОМ НА ПЛЕЧІ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ЛЕТИ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "НЕ БІЙСЯ ЖИТИ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ОЙ У ПОЛІ ПРИ ДОРОЗІ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ПО РIЗДВI",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "РОЗЛЮБИ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "СОНЦЕМ НЕБОМ ДОЩЕМ",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ТИХА ВОДА РАННЯ РОСА",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ХТО Я ТАКА Є",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "ЧОРНI ЧЕРЕШНI",
+    "artist": "БУРМАКА МАРІЯ"
+  },
+  {
+    "title": "I LOVE DANCE",
+    "artist": "БУЧАК МИКОЛА"
+  },
+  {
+    "title": "БУДУ КОХАТИ [БЕК ВОКАЛ]",
+    "artist": "БУЧАК МИКОЛА"
+  },
+  {
+    "title": "ГЕРОЇ НЕ ВМИРАЮТЬ [БЕК ВОКАЛ]",
+    "artist": "БУЧАК МИКОЛА"
+  },
+  {
+    "title": "МРІЯ МОЯ",
+    "artist": "БУЧАК МИКОЛА"
+  },
+  {
+    "title": "ПАТРІОТИ [БЕК ВОКАЛ]",
+    "artist": "БУЧАК МИКОЛА"
+  },
+  {
+    "title": "ПІДКУПИВ АЙФОНОМ [БЕК ВОКАЛ]",
+    "artist": "БУЧАК МИКОЛА"
+  },
+  {
+    "title": "ЗЕЛЕНИЙ ГАЙ [БЕК ВОКАЛ]",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
     "title": "ЗЕЛЕНИЙ ГАЙ",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
+    "title": "ІДЕАЛ",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
+    "title": "ІДЕАЛ [БЕК ВОКАЛ]",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
+    "title": "КОЛОШМАТИТЬ ВІТЕР [БЕК ВОКАЛ]",
     "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
@@ -3544,7 +5496,19 @@ const data = [
     "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
-    "title": "КОХАННЯ ЧАРИ",
+    "title": "КОХАННЯ ЧАРИ [БЕК ВОКАЛ]",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
+    "title": "МОЯ МАМА [БЕК ВОКАЛ]",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
+    "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
+  },
+  {
+    "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА",
     "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
@@ -3560,7 +5524,11 @@ const data = [
     "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
-    "title": "Я У ТЕБЕ ОДНА",
+    "title": "НАЛИЙТЕ ШАМПАНСЬКОГО  [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛIЯ"
+  },
+  {
+    "title": "Я У ТЕБЕ ОДНА  [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
@@ -3568,11 +5536,31 @@ const data = [
     "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
-    "title": "ГРІШНАЯ ЛЮБОВ (-,+,ОР)·.kfn",
+    "title": "АЛО КОХАННЯ [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ГРІШНАЯ ЛЮБОВ",
+    "title": "ВОДА [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ВОЗИ КОЛЬОРОВІ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ГРIШНА ЛЮБОВ",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ГРIШНА ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ГРІШНАЯ ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ДІВЧИНА ВЕСНА [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
@@ -3580,15 +5568,15 @@ const data = [
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ДІВЧИНА-ВЕСНА (МАСТЕР)·.kfn",
-    "artist": "БУЧИНСЬКА НАТАЛІЯ"
-  },
-  {
     "title": "ЗА ХМАРАМИ",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "КАРПАТИ (-,+)·.kfn",
+    "title": "ЗА ХМАРАМИ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "КАРПАТИ [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
@@ -3596,19 +5584,51 @@ const data = [
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
+    "title": "КОХАННЯ ЗОЛОТО [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ЛЮБИ МЕНЯ ТАК [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "МОВА ЄДНАННЯ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
     "title": "МОЯ УКРАЇНА",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "НЕ ПИТАЙ (-,+)·.kfn",
+    "title": "НЕ ПИТАЙ [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ОЙ, У ВИШНЕВОМУ САДУ",
+    "title": "НЕ СПИТЬ КОХАННЯ [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ПЕРЕМОГА",
+    "title": "ОЙ У ВИШНЕВОМУ САДУ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ОЙ, У ВИШНЕВОМУ САДУ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ПЕРЕМОГА [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ПЕРШЕ КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ТИ ЦIЛУЙ [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ТИ ЦІЛУЙ [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
@@ -3616,11 +5636,19 @@ const data = [
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ТО ЛЮБОВ",
+    "title": "ТО ЛЮБОВ [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ТО ЛЮБОВ·.kfn",
+    "title": "УКРАЇНА",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "УКРАЇНА [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "ЧЕРВОНИЙ МАК [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
@@ -3628,7 +5656,11 @@ const data = [
     "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
-    "title": "УКРАЇНСЬКА ДІВЧИНА",
+    "title": "Я У ТЕБЕ ОДНА [БЕК ВОКАЛ]",
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "УКРАЇНСЬКА ДІВЧИНА [БЕК ВОКАЛ]",
     "artist": "БУЧИНСЬКА НАТАЛІЯ & IKSIY"
   },
   {
@@ -3636,24 +5668,56 @@ const data = [
     "artist": "ВАКАРЧУК СВЯТОСЛАВ (БРЮССЕЛЬ)"
   },
   {
-    "title": "МИР НАД УКРАЇНОЮ",
+    "title": "МИР НАД УКРАЇНОЮ [БЕК ВОКАЛ]",
     "artist": "ВАЛЕВСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ПАЛАЛА",
+    "title": "ПАЛАЛА [БЕК ВОКАЛ]",
     "artist": "ВАЛЕВСЬКА НАТАЛІЯ"
   },
   {
-    "title": "УКРАЇНСЬКЕ ПОПУРІ (-).kfn",
+    "title": "УКРАЇНСЬКЕ ПОПУРІ",
     "artist": "ВАЛЕВСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ЧОРНА ГОРА (-).kfn",
+    "title": "КОЗАК [БЕК ВОКАЛ]",
+    "artist": "ВАНЯН АРТУР & ДОМІНО"
+  },
+  {
+    "title": "НЕСЕ ГАЛЯ ВОДУ  [БЕК ВОКАЛ]",
+    "artist": "ВАНЯН АРТУР & ДОМІНО"
+  },
+  {
+    "title": "НЕСЕ ГАЛЯ ВОДУ [БЕК ВОКАЛ]",
+    "artist": "ВАНЯН АРТУР & ДОМІНО"
+  },
+  {
+    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ [БЕК ВОКАЛ]",
+    "artist": "ВАНЯН АРТУР & ДОМІНО"
+  },
+  {
+    "title": "ТАНЯ МОЯ ТАНЯ [БЕК ВОКАЛ]",
+    "artist": "ВАСИЛЬКІВСЬКИЙ ЮРІЙ"
+  },
+  {
+    "title": "НЕ ПУСКАЙ ДІВЧА ГУЛЯТИ",
     "artist": "ВАСЯ CLUB"
   },
   {
-    "title": "ЧОРНА ГОРА.kfn",
+    "title": "ОЙ ВЭЙ",
     "artist": "ВАСЯ CLUB"
+  },
+  {
+    "title": "ЧОРНА ГОРА",
+    "artist": "ВАСЯ CLUB"
+  },
+  {
+    "title": "МАМИНА СВІТЛИЦЯ",
+    "artist": "ВАТРА"
+  },
+  {
+    "title": "ПЕРШИЙ СНІГ",
+    "artist": "ВАТРА"
   },
   {
     "title": "ЦЕ КРАЙ ДЕ Я РОДИЛАСЬ",
@@ -3668,11 +5732,11 @@ const data = [
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ВОВЧИЦЯ (КЛІП)·.kfn",
+    "title": "ВІЗЬМИ МЕНЕ В ПОЛОН [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ВОВЧИЦЯ",
+    "title": "ВОВЧИЦЯ [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
@@ -3680,11 +5744,11 @@ const data = [
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "МАРІЯ-МАРІЧКО",
+    "title": "ГОЛУБЕ СИВИЙ [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "МАТИ КАЖЕ ПРАВДУ (-).kfn",
+    "title": "МАРІЯ-МАРІЧКО [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
@@ -3692,7 +5756,11 @@ const data = [
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "МОЇ БАТЬКИ",
+    "title": "МАТИ КАЖЕ ПРАВДУ [БЕК ВОКАЛ]",
+    "artist": "ВИННИК ОЛЕГ"
+  },
+  {
+    "title": "МОЇ БАТЬКИ [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
@@ -3700,15 +5768,15 @@ const data = [
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "НАДКУСИЛИ МІСЯЦЬ ЗОРІ",
+    "title": "НАДКУСИЛИ МІСЯЦЬ ЗОРІ [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "НАТАЛЯ-НАТАЛІ",
+    "title": "НАТАЛЯ-НАТАЛІ [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ПА-ПА (UA)",
+    "title": "ПА-ПА (UA) [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
@@ -3720,23 +5788,27 @@ const data = [
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ПОВЕРТАЙ ДОДОМУ",
+    "title": "ПОВЕРТАЙ ДОДОМУ [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ПОЛІСМЕН (+,-)·.kfn",
+    "title": "ПОЛІСМЕН [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "СЧАСТЬЕ (ЩАСТЯ) (КЛІП,UA).kfn",
+    "title": "ПОЛОН [БЕК ВОКАЛ]",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ЯК ЖИТИ БЕЗ ТЕБЕ (+,-,КЛІП)·.kfn",
+    "title": "СЧАСТЬЕ (ЩАСТЯ)",
     "artist": "ВИННИК ОЛЕГ"
   },
   {
-    "title": "ДІАМАНТИ",
+    "title": "ЯК ЖИТИ БЕЗ ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ВИННИК ОЛЕГ"
+  },
+  {
+    "title": "ДІАМАНТИ [-,+,VID]",
     "artist": "ВИННИК ОЛЕГ & ІВАЩЕНКО"
   },
   {
@@ -3744,15 +5816,19 @@ const data = [
     "artist": "ВИННИК ОЛЕГ, ПОТАП"
   },
   {
-    "title": "ТИ ПОПРАВИЛАСЬ НАТАША",
+    "title": "ТИ ПОПРАВИЛАСЬ НАТАША [БЕК ВОКАЛ]",
     "artist": "ВИТАЛЬКА"
   },
   {
-    "title": "ОЙ ГОВОРИЛА ЧИСТА ВОДА",
+    "title": "ОЙ ГОВОРИЛА ЧИСТА ВОДА [БЕК ВОКАЛ]",
     "artist": "ВІА ГРА"
   },
   {
-    "title": "ДАЙ МЕНІ ШАНС",
+    "title": "ВИПУСКНИЙ",
+    "artist": "ВІА КИП'ЯТОК"
+  },
+  {
+    "title": "ДАЙ МЕНІ ШАНС [БЕК ВОКАЛ]",
     "artist": "ВОЙТЮК АРКАДІЙ"
   },
   {
@@ -3764,19 +5840,95 @@ const data = [
     "artist": "ВОПЛI ВIДОПЛЯСОВА"
   },
   {
+    "title": "НЕСЕ ГАЛЯ ВОДУ [БЕК ВОКАЛ]",
+    "artist": "ВОПЛI ВIДОПЛЯСОВА"
+  },
+  {
+    "title": "БУЛИ НА СЕЛI",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ВЕСНА [БЕК ВОКАЛ]",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
     "title": "ВЕСНА",
     "artist": "ВОПЛІ ВІДОПЛЯСОВА"
   },
   {
-    "title": "ПIДМАНУЛА (+,-).kfn",
+    "title": "ВІДПУСТКА",
     "artist": "ВОПЛІ ВІДОПЛЯСОВА"
   },
   {
-    "title": "ПІСЕНЬКА (-).kfn",
+    "title": "ГАЛЕЛУЯ",
     "artist": "ВОПЛІ ВІДОПЛЯСОВА"
   },
   {
-    "title": "ДИМ (+,-,КЛІП)·.kfn",
+    "title": "ГОРІЛА СОСНА",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ДЕНЬ НАРОДЖЕННЯ",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "Є Є",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "КОЛИСЬ",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ЛЮБОВ",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "МАНА",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ОЙ ТИ ГАЛЮ [БЕК ВОКАЛ]",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ПIДМАНУЛА",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ПЕСЕНКА",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ПЕСНЯ ВАКУЛЫ [БЕК ВОКАЛ]",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ПІСЕНЬКА",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "СТРИВАЙ ПАРОВОЗЕ",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ТАНЦI",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА [БЕК ВОКАЛ]",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ТОВАРИЩ МАЙОР",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ЧУДОВИЙ СВІТ [БЕК ВОКАЛ]",
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
+  },
+  {
+    "title": "ДИМ [БЕК ВОКАЛ]",
     "artist": "ВРЕМЯ И СТЕКЛО"
   },
   {
@@ -3784,7 +5936,7 @@ const data = [
     "artist": "ВРЕМЯ И СТЕКЛО"
   },
   {
-    "title": "ЖУРАВЛІ",
+    "title": "ЖУРАВЛІ [БЕК ВОКАЛ]",
     "artist": "ВРОДА"
   },
   {
@@ -3792,15 +5944,59 @@ const data = [
     "artist": "ВСІ ЗІРКИ"
   },
   {
-    "title": "ВІДШУКАЮ (+,-,КЛІП)·.kfn",
+    "title": "МАМИНІ ОЧІ",
+    "artist": "ГАВРИЛЮК ОЛЕГ"
+  },
+  {
+    "title": "ГРІХ [БЕК ВОКАЛ]",
+    "artist": "ГАВРИЛЮК ОЛЕГ & КВІТКА РУСЛАНА"
+  },
+  {
+    "title": "BE MY GUEST [БЕК ВОКАЛ]",
     "artist": "ГАЙТАНА"
   },
   {
-    "title": "ДВА ВIКНА",
+    "title": "АБУНАЕ [БЕК ВОКАЛ]",
     "artist": "ГАЙТАНА"
   },
   {
-    "title": "ДВА ВІКНА (+,-,ОР)·.kfn",
+    "title": "АФРИКА",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ВIДШУКАЮ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ВІДШУКАЮ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ДIТИ СВIТЛА [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ДВА ВIКНА [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ДВА ВІКНА (+,-,ОР) [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ДВА ВІКНА [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ДІТИ СВІТЛА АФРИКА",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ДІТИ СВІТЛА [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "НЕ ЙДИ [БЕК ВОКАЛ]",
     "artist": "ГАЙТАНА"
   },
   {
@@ -3808,27 +6004,87 @@ const data = [
     "artist": "ГАЙТАНА"
   },
   {
-    "title": "СЛІДОМ ЗА ТОБОЮ (-)·.kfn",
+    "title": "САМОТНЯ БОССА [БЕК ВОКАЛ]",
     "artist": "ГАЙТАНА"
   },
   {
-    "title": "ШАЛЕНІЙ",
+    "title": "СЛIДОМ ЗА ТОБОЮ [БЕК ВОКАЛ]",
     "artist": "ГАЙТАНА"
   },
   {
-    "title": "НЕ ЙДИ (КЛІП).kfn",
+    "title": "СЛІДОМ ЗА ТОБОЮ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "СОНЦЕ В ТОБІ",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "СОНЦЕ В ТОБІ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ТАМ ДЕ ГОЛОС ТВІЙ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ТАНУ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ТАНЦI [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ТЕКІЛА",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ТЕПЛО СЛIВ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "УКРАЇНО БУДЬМО",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ШАЛЕНIЙ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "ШАЛЕНІЙ [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА"
+  },
+  {
+    "title": "АФРИКА",
+    "artist": "ГАЙТАНА & ДІТИ СВІТЛА"
+  },
+  {
+    "title": "НОВИЙ РІК [БЕК ВОКАЛ]",
+    "artist": "ГАЙТАНА & ДІТИ СВІТЛА"
+  },
+  {
+    "title": "НЕ ЙДИ",
     "artist": "ГАЙТАНА, СКАЙ"
   },
   {
-    "title": "НЕ ЙДИ (КЛІП)·.kfn",
+    "title": "НЕ ЙДИ [БЕК ВОКАЛ]",
     "artist": "ГАЙТАНА, СКАЙ"
   },
   {
-    "title": "БЕЛЛА ЧАО.avi",
+    "title": "БУЙНО ЦВІТЕ В КАРПАТАХ (ВЕСІЛЛЯ В КАРПАТАХ)",
+    "artist": "ГАЛИЦЬКА ЗАБАВА"
+  },
+  {
+    "title": "НЕСПОКІЙНА РІЧКА",
+    "artist": "ГАЛИЦЬКА ЗАБАВА"
+  },
+  {
+    "title": "БЕЛЛА ЧАО",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "ЗА УКРАЇНУ ДО КІНЦЯ",
+    "title": "КОЗА МАР'ЯНА [БЕК ВОКАЛ]",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
@@ -3836,19 +6092,7 @@ const data = [
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "КОЗА МАР'ЯНА·.kfn",
-    "artist": "ГАНЗЕРА ІВАН"
-  },
-  {
-    "title": "КОЗАЦЬКА",
-    "artist": "ГАНЗЕРА ІВАН"
-  },
-  {
-    "title": "КОЗАЦЬКА·.kfn",
-    "artist": "ГАНЗЕРА ІВАН"
-  },
-  {
-    "title": "НАЛИВАЙ КУМА",
+    "title": "КОЗАЦЬКА [БЕК ВОКАЛ]",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
@@ -3856,67 +6100,111 @@ const data = [
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "НЕ ТАК ЦВІТУТЬ САДИ",
+    "title": "НЕ ТАК ЦВІТУТЬ САДИ [БЕК ВОКАЛ]",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "НЕ ТАК ЦВІТУТЬ САДИ·.kfn",
+    "title": "ХТО МАЄ ДОЛАР САЛО ЇСТЬ",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "ХТО МАЄ ДОЛАР САЛО ЇСТЬ·.kfn",
+    "title": "ХТО МАЄ ДОЛАР САЛО ЇСТЬ [БЕК ВОКАЛ]",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "ХТО МАЄ ДОЛАР, САЛО ЇСТЬ (+,-,КЛІП).kfn",
+    "title": "ХТО МАЄ ДОЛАР, САЛО ЇСТЬ",
     "artist": "ГАНЗЕРА ІВАН"
   },
   {
-    "title": "ПЕРЕЛАЗ.kfn",
+    "title": "ПЕРЕЛАЗ",
+    "artist": "ГАНЗЕРА ІВАН & ДЕНИСЮК ТЕТЯНА"
+  },
+  {
+    "title": "ПЕРЕЛАЗ",
     "artist": "ГАНЗЕРА ІВАН, ДЕНИСЮК Т."
   },
   {
-    "title": "КОЗА МАР'ЯНА (+,-,КЛІП).kfn",
+    "title": "КОЗА МАР'ЯНА",
     "artist": "ГАНЗЕРА ІВАН, ЯНЧЕНКО МИКОЛА"
   },
   {
-    "title": "КОЗА МАР'ЯНА (+,-,КЛІП)·.kfn",
+    "title": "КОЗА МАР'ЯНА [БЕК ВОКАЛ]",
     "artist": "ГАНЗЕРА ІВАН, ЯНЧЕНКО МИКОЛА"
   },
   {
-    "title": "МІЙ BOY.avi",
+    "title": "МІЙ BOY",
     "artist": "ГЕЛЯ"
   },
   {
-    "title": "ДРУЗІ МОЇ",
-    "artist": "ГИГА СТЕПАН"
+    "title": "А СЛЬОЗА ТЕЧЕ",
+    "artist": "ГЕЛЯ ЗОЗУЛЯ"
   },
   {
-    "title": "ТРЕТІЙ ТОСТ",
-    "artist": "ГИГА СТЕПАН"
+    "title": "ЗЛА КОРОЛЕВА",
+    "artist": "ГЕЛЯ ЗОЗУЛЯ"
   },
   {
-    "title": "У РАЙСЬКІМ САДУ",
-    "artist": "ГИГА СТЕПАН"
+    "title": "НАРОБИЛА ЛИХА [БЕК ВОКАЛ]",
+    "artist": "ГЕЛЯ ЗОЗУЛЯ"
   },
   {
-    "title": "ЦЕЙ СОН",
-    "artist": "ГИГА СТЕПАН"
+    "title": "ТЕМНО ТАК [БЕК ВОКАЛ]",
+    "artist": "ГЕЛЯ ЗОЗУЛЯ"
   },
   {
-    "title": "ЯВОРИНА (НА МОГИЛІ МОЇЙ)",
-    "artist": "ГИГА СТЕПАН"
+    "title": "ОСОБИСТИЙ РАЙ",
+    "artist": "ГЕЛЯ ЗОЗУЛЯ & ADAM"
   },
   {
-    "title": "СОН",
+    "title": "БIЛА ВУАЛЬ",
     "artist": "ГІГА СТЕПАН"
   },
   {
-    "title": "ТИ НЕ МОЯ",
+    "title": "ВЕСІЛЛЯ [БЕК ВОКАЛ]",
     "artist": "ГІГА СТЕПАН"
   },
   {
-    "title": "ТРЕТІЙ ТОСТ",
+    "title": "ДОСТИГАЄ ВИШНЯ",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ДОСТИГАЄ ВИШНЯ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ДРУЖИНІ",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ДРУЗІ МОЇ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ДРУЗІ МОЇ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЗОЛОТО КАРПАТ",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЗОЛОТО КАРПАТ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЛЮБОВ ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ОСТАННЯ НІЧ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ТИ НЕ МОЯ [-,+,VID]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ТРЕТІЙ ТОСТ [БЕК ВОКАЛ]",
     "artist": "ГІГА СТЕПАН"
   },
   {
@@ -3924,23 +6212,75 @@ const data = [
     "artist": "ГІГА СТЕПАН"
   },
   {
-    "title": "ЦЕЙ СОН·.kfn",
+    "title": "У РАЙСЬКIМ САДУ [БЕК ВОКАЛ]",
     "artist": "ГІГА СТЕПАН"
   },
   {
-    "title": "МІЙ ОКЕАН",
+    "title": "У РАЙСЬКІМ САДУ [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЦЕЙ СОН",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЦЕЙ СОН [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "Я ПОКЛАВ СВОЄ КОХАННЯ НА ВIВТАР",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЯВОРИНА (НА МОГИЛІ МОЇЙ)",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ЯВОРИНА [БЕК ВОКАЛ]",
+    "artist": "ГІГА СТЕПАН"
+  },
+  {
+    "title": "ГІМН УКРАЇНИ (ORCHESTRA, SHORT OFFICIAL VERSION)",
+    "artist": "ГІМН"
+  },
+  {
+    "title": "ГІМН УКРАЇНИ",
+    "artist": "ГІМН"
+  },
+  {
+    "title": "МІЙ ОКЕАН [БЕК ВОКАЛ]",
     "artist": "ГЛАМУР"
+  },
+  {
+    "title": "МЕНІ ТАК ДОБРЕ З ТОБОЮ",
+    "artist": "ГЛАМУР (GLAMOUR)"
+  },
+  {
+    "title": "МІЙ ОКЕАН",
+    "artist": "ГЛАМУР (GLAMOUR)"
+  },
+  {
+    "title": "Я ВСЕ ВІДДАЮ",
+    "artist": "ГЛАМУР (GLAMOUR)"
   },
   {
     "title": "ЗАПАМ'ЯТАЙ ТОЙ ДЕНЬ",
     "artist": "ГНАТИШЕН ВАНЯ"
   },
   {
-    "title": "ХОЧЕТЬСЯ ЖИТИ",
+    "title": "ОЙ СМЕРЕКО",
+    "artist": "ГНАТЮК МИКОЛА"
+  },
+  {
+    "title": "ПРОЩАВАЙ РІДНА ШКОЛО",
+    "artist": "ГОЛОВАТЕНКО МАРІЯ"
+  },
+  {
+    "title": "ХОЧЕТЬСЯ ЖИТИ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН & ШАК"
   },
   {
-    "title": "БАТЬКУ МІЙ (+,-)·.kfn",
+    "title": "БАТЬКУ МІЙ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
@@ -3952,19 +6292,23 @@ const data = [
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
-    "title": "ВІЙСЬКОВИЙ МЕДИК",
+    "title": "БЕЗ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
-    "title": "ЛЮБЛЮ ТЕБЕ",
+    "title": "ЛЮБЛЮ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
-    "title": "МАМИНА ПІСНЯ (-)·.kfn",
+    "title": "МАМИНА ПІСНЯ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
-    "title": "НЕ ВІДЛІТАЙ (-)·.kfn",
+    "title": "МІЙ КРАЙ [БЕК ВОКАЛ]",
+    "artist": "ГРИЦКАН МИХАЙЛО"
+  },
+  {
+    "title": "НЕ ВІДЛІТАЙ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
@@ -3972,7 +6316,19 @@ const data = [
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
-    "title": "ТИ (-)·.kfn",
+    "title": "РАЗОМ СПІВАЙМО ДРУЗІ МОЇ [БЕК ВОКАЛ]",
+    "artist": "ГРИЦКАН МИХАЙЛО"
+  },
+  {
+    "title": "СТО ТИСЯЧ КРОКІВ",
+    "artist": "ГРИЦКАН МИХАЙЛО"
+  },
+  {
+    "title": "ТАРІРІРІМ (ГУЛЯЮ САМ)",
+    "artist": "ГРИЦКАН МИХАЙЛО"
+  },
+  {
+    "title": "ТИ [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
@@ -3980,8 +6336,16 @@ const data = [
     "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
-    "title": "Я ДО ТЕБЕ ГОРНУСЬ УКРАЇНО (-)·.kfn",
+    "title": "Я ДО ТЕБЕ ГОРНУСЬ УКРАЇНО [БЕК ВОКАЛ]",
     "artist": "ГРИЦКАН МИХАЙЛО"
+  },
+  {
+    "title": "СТАРИЙ СКРИПАЛЬ",
+    "artist": "ГРИЦЮК ЮРІЙ"
+  },
+  {
+    "title": "БАТЬКІВЩИНА",
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "ГРОЗАМИ 1",
@@ -4000,7 +6364,15 @@ const data = [
     "artist": "ГРОСУ АЛІНА"
   },
   {
-    "title": "МІРІАДА",
+    "title": "МІРІАДА [БЕК ВОКАЛ]",
+    "artist": "ГРОСУ АЛІНА"
+  },
+  {
+    "title": "РАЗОМ ЗІ МНОЮ",
+    "artist": "ГРОСУ АЛІНА"
+  },
+  {
+    "title": "РУШНИЧОК",
     "artist": "ГРОСУ АЛІНА"
   },
   {
@@ -4008,19 +6380,115 @@ const data = [
     "artist": "ГРОСУ АЛІНА"
   },
   {
+    "title": "IХАВ КОЗАК ЗА ДУНАЙ",
+    "artist": "ГУЛЯЄВ ЮРІЙ"
+  },
+  {
+    "title": "ЇХАВ КОЗАК НА ВIЙНОНЬКУ",
+    "artist": "ГУЛЯЄВ ЮРІЙ"
+  },
+  {
+    "title": "КИЄВЕ МIЙ",
+    "artist": "ГУЛЯЄВ ЮРІЙ"
+  },
+  {
+    "title": "ПIСНЯ ПРО КИЇВ",
+    "artist": "ГУЛЯЄВ ЮРІЙ"
+  },
+  {
+    "title": "ЛЕБЕДИНА ВЕРНОСТЬ",
+    "artist": "ГУМЕНЧУК & МЕЛЬНИК"
+  },
+  {
+    "title": "ГОРIЛКУ П'Ю [БЕК ВОКАЛ]",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР"
+  },
+  {
+    "title": "ГОРIЛКУ ПЬЮ",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "ГОРІЛОЧКА [БЕК ВОКАЛ]",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "ДВА ЧОВНИ",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "ЛЕБЕДИНА ВІРНІСТЬ",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "ОЙ ДІЖДАТИСЯ Б НЕДІЛІ [БЕК ВОКАЛ]",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "ТИ І Я",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "ЩАСТЯ ДОБРА И ЛЮБОВІ [БЕК ВОКАЛ]",
+    "artist": "ГУМЕНЧУК ВОЛОДИМИР & МЕЛЬНИК НАТАЛЯ"
+  },
+  {
+    "title": "НАРЕЧЕНА",
+    "artist": "ГУРАЛЬ НАДІЯ"
+  },
+  {
     "title": "САМА П’Ю САМА НАЛИВАЮ",
     "artist": "ГУРТ VIP"
+  },
+  {
+    "title": "В САМОТІ",
+    "artist": "ДАВНЯ КАЗКА"
+  },
+  {
+    "title": "ВИП'ЄМО КУМЕ [БЕК ВОКАЛ]",
+    "artist": "ДАНИЛО АНДРІЙ"
+  },
+  {
+    "title": "СИНI ФIАЛКИ",
+    "artist": "ДАНИЛО АНДРІЙ"
+  },
+  {
+    "title": "СИНІ ФІАЛКИ",
+    "artist": "ДАНИЛО АНДРІЙ"
+  },
+  {
+    "title": "СИХIВСЬКА ДIВЧИНА",
+    "artist": "ДАНИЛО АНДРІЙ"
+  },
+  {
+    "title": "ШЛЬОНДРА",
+    "artist": "ДАНИЛО АНДРІЙ"
+  },
+  {
+    "title": "БУДЬМО [БЕК ВОКАЛ]",
+    "artist": "ДАНИЛЮК ВАСИЛЬ"
+  },
+  {
+    "title": "ВІД КОХАННЯ ВІД ЛЮБОВІ [БЕК ВОКАЛ]",
+    "artist": "ДАНИЛЮК ВАСИЛЬ"
+  },
+  {
+    "title": "ДОДОМУ ПОВЕРНУСЬ [БЕК ВОКАЛ]",
+    "artist": "ДАНИЛЮК ВАСИЛЬ"
+  },
+  {
+    "title": "ЗАКОХАНІ",
+    "artist": "ДАНИЛЮК ВАСИЛЬ"
   },
   {
     "title": "ДІВЧИНА ОЛЯ",
     "artist": "ДАНТЕС"
   },
   {
-    "title": "КОЛИСКОВА.avi",
+    "title": "КОЛИСКОВА",
     "artist": "ДАНТЕС"
   },
   {
-    "title": "СУМНІ ТАНЦІ.avi",
+    "title": "СУМНІ ТАНЦІ",
     "artist": "ДАНТЕС"
   },
   {
@@ -4028,47 +6496,171 @@ const data = [
     "artist": "ДАНТЕС"
   },
   {
-    "title": "СТЕРЕОДЕНЬ (UA).kfn",
+    "title": "СТЕРЕОДЕНЬ (UA)",
     "artist": "ДАНТЕС & ОЛІЙНИК"
   },
   {
-    "title": "ТИ НАЙКРАЩА З ЛЮДЕЙ",
-    "artist": "ДАРВІН ВЛАД, ALYOSHA"
+    "title": "ТИ НАЙКРАЩA З ЛЮДЕЙ",
+    "artist": "ДАРВІН ВЛАД, ALYOSHA (АЛЬОША)"
   },
   {
-    "title": "ДЖЕНЕЛЕЙ",
+    "title": "ТИ НАЙКРАЩА З ЛЮДЕЙ",
+    "artist": "ДАРВІН ВЛАД, ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "ТИ НАЙКРАЩА [БЕК ВОКАЛ]",
+    "artist": "ДАРВІН ВЛАД, ALYOSHA (АЛЬОША)"
+  },
+  {
+    "title": "СТЕРЕОДЕНЬ",
+    "artist": "ДАРВІН ВЛАД, BARSKIH MAX"
+  },
+  {
+    "title": "ДЖЕНЕЛЕЙ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "ДАРВІН ВЛАД, ДАНТЕС & ОЛІЙНИК"
   },
   {
-    "title": "СМЕРЕКОВА ХАТА (МАСТЕР,VID).kfn",
+    "title": "ВIТРИЛА [БЕК ВОКАЛ]",
+    "artist": "ДАРВІН ВЛАД, ДАРА"
+  },
+  {
+    "title": "ДІВЧИНА ВІТЕР",
+    "artist": "ДАШИН ЄВГЕН"
+  },
+  {
+    "title": "НОВИЙ РІК [БЕК ВОКАЛ]",
+    "artist": "ДАШИН ЄВГЕН"
+  },
+  {
+    "title": "СТЕЖКА ДО БАТЬКІВ [БЕК ВОКАЛ]",
+    "artist": "ДАШИН ЄВГЕН"
+  },
+  {
+    "title": "ВСЕ МИНАЄ [БЕК ВОКАЛ]",
     "artist": "ДВОРСЬКИЙ ПАВЛО"
   },
   {
-    "title": "ЗИМОВЕ КОХАННЯ (-)·.kfn",
+    "title": "ЗАДИВЛЮСЬ В ТВОЇ ОЧІ",
+    "artist": "ДВОРСЬКИЙ ПАВЛО"
+  },
+  {
+    "title": "СМЕРЕКОВА ХАТА",
+    "artist": "ДВОРСЬКИЙ ПАВЛО"
+  },
+  {
+    "title": "СМЕРЕКОВА ХАТА 2",
+    "artist": "ДВОРСЬКИЙ ПАВЛО"
+  },
+  {
+    "title": "СТОЖАРИ [БЕК ВОКАЛ]",
+    "artist": "ДВОРСЬКИЙ ПАВЛО"
+  },
+  {
+    "title": "А ЇЙ ТАК ХОЧЕТЬСЯ ТЕПЛА [БЕК ВОКАЛ]",
     "artist": "ДЕ ВИ Є"
   },
   {
-    "title": "ГОРИТЬ МОСКВА",
-    "artist": "ДЕТИ ФРИСТАЙЛА"
+    "title": "ЗИМОВЕ КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "ДЕ ВИ Є"
   },
   {
-    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА (-)·.kfn",
+    "title": "НА ЩАСТЯ НА ДОЛЮ [БЕК ВОКАЛ]",
+    "artist": "ДЕ ВИ Є"
+  },
+  {
+    "title": "УКРАЇНКА [БЕК ВОКАЛ]",
+    "artist": "ДЕНИСЕНКО ВІКТОРІЯ"
+  },
+  {
+    "title": "ОЙ ЧОГО Ж ТИ МАМО",
+    "artist": "ДЕНИСЮК ТЕТЯНА"
+  },
+  {
+    "title": "ПІСНЯ УКРАЇНСЬКА [БЕК ВОКАЛ]",
+    "artist": "ДЕНИСЮК ТЕТЯНА"
+  },
+  {
+    "title": "АХ МАРІЧКА",
+    "artist": "ДЕРЕНЮК АНДРІЙ"
+  },
+  {
+    "title": "1944 [БЕК ВОКАЛ]",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "BELLAMOREMIO",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "I BELIEVE IN U",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "SMILE",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "ЗАПЛУТАЛАСЬ",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "ЧОМУ КВІТИ МАЮТЬ ОЧІ",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "ЧОМУ КВІТИ МАЮТЬ ОЧІ [БЕК ВОКАЛ]",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "ШЛЯХ ДОДОМУ",
+    "artist": "ДЖАМАЛА"
+  },
+  {
+    "title": "ЛЮБИВ ЛЮБИТИМУ",
+    "artist": "ДИКІ СЕРЦЕМ"
+  },
+  {
+    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА [БЕК ВОКАЛ]",
     "artist": "ДИЛИЖАНС"
   },
   {
-    "title": "ЖОРСТОКА ЛЮБОВ",
+    "title": "ВІКНА МОЄЇ ХАТИ",
     "artist": "ДІТИ ФРИСТАЙЛА"
   },
   {
-    "title": "А Я ТЕБЕ КОХАЮ (-)·.kfn",
+    "title": "ВІКНА МОЄЇ ХАТИ [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "ЗІРОНЬКА [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "МОЯ КОХАНА [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "ТАНЦЮЮТЬ ВСІ [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "ТИ МОЯ ДІВЧИНОНЬКА [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "ЩАСТЯ ТИ МОЄ [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "ЩАСТЯЧКО МОЄ [БЕК ВОКАЛ]",
+    "artist": "ДІТИ ФРИСТАЙЛА"
+  },
+  {
+    "title": "А Я ТЕБЕ КОХАЮ [БЕК ВОКАЛ]",
     "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
-    "title": "А Я ТЕБЕ КОХАЮ",
-    "artist": "ДІТИ ФРІСТАЙЛА"
-  },
-  {
-    "title": "ВІЙСЬКОВО ПОЛЬОВИЙ РОМАН",
+    "title": "ВІКНА МОЄЇ ХАТИ [БЕК ВОКАЛ]",
     "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
@@ -4076,15 +6668,7 @@ const data = [
     "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
-    "title": "ВСЕ ІДЕ ЗА ПЛАНОМ",
-    "artist": "ДІТИ ФРІСТАЙЛА"
-  },
-  {
     "title": "ГОРИТЬ МОСКВА",
-    "artist": "ДІТИ ФРІСТАЙЛА"
-  },
-  {
-    "title": "ЧОРНОБАЇВКА",
     "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
@@ -4096,16 +6680,56 @@ const data = [
     "artist": "ДОБРИДНЄВА АННА"
   },
   {
-    "title": "ЧЕКАЛА Я НА ТЕБЕ ДО ВЕСНИ (+,-,КЛІП)·.kfn",
+    "title": "БЛАГОСЛОВИ БОЖЕ НА НОВИЙ РІК",
+    "artist": "ДОЛИШНИЙ МИКОЛА"
+  },
+  {
+    "title": "ЧЕКАЛА Я НА ТЕБЕ ДО ВЕСНИ [БЕК ВОКАЛ]",
     "artist": "ДОМІНО"
   },
   {
-    "title": "НЕСКОРЕНА",
+    "title": "НЕСКОРЕНА [-,+,VID]",
     "artist": "ДОРН ІВАН"
   },
   {
-    "title": "ДНIСТРЯНКА",
+    "title": "БАТЬКОВІ ДОЛОНІ",
+    "artist": "ДОРОШ ВОЛОДИМИР"
+  },
+  {
+    "title": "ВЛАДА [БЕК ВОКАЛ]",
+    "artist": "ДОРОШ ВОЛОДИМИР"
+  },
+  {
+    "title": "ДЕНЬ І НІЧ",
+    "artist": "ДОРОШ ВОЛОДИМИР"
+  },
+  {
+    "title": "ЗИМА",
+    "artist": "ДОРОШ ВОЛОДИМИР"
+  },
+  {
+    "title": "ДНIСТРЯНКА [БЕК ВОКАЛ]",
     "artist": "ДОСКОЧ ПАВЕЛ"
+  },
+  {
+    "title": "ДНІСТРЯНКА [БЕК ВОКАЛ]",
+    "artist": "ДОСКОЧ ПАВЛО"
+  },
+  {
+    "title": "НОВОРІЧНА",
+    "artist": "ДОСКОЧ ПАВЛО"
+  },
+  {
+    "title": "САД МОЄЇ ДУШІ [БЕК ВОКАЛ]",
+    "artist": "ДОСКОЧ ПАВЛО"
+  },
+  {
+    "title": "ТИ ПРОЙШЛА ПОВЗ МЕНЕ",
+    "artist": "ДОСКОЧ ПАВЛО"
+  },
+  {
+    "title": "ТИ ПРОЙШЛА ПОВЗ МЕНЕ [БЕК ВОКАЛ]",
+    "artist": "ДОСКОЧ ПАВЛО"
   },
   {
     "title": "Я ПЬЮ З ТВОIХ ДОЛОНЬ",
@@ -4120,7 +6744,27 @@ const data = [
     "artist": "ДРУГА РІКА"
   },
   {
+    "title": "ВПУСТИ МЕНЕ",
+    "artist": "ДРУГА РІКА"
+  },
+  {
+    "title": "ЗАЗНАЙКО",
+    "artist": "ДРУГА РІКА"
+  },
+  {
+    "title": "П’Ю З ТВОЇХ ДОЛОНЬ",
+    "artist": "ДРУГА РІКА"
+  },
+  {
+    "title": "П’Ю З ТВОЇХ ДОЛОНЬ [БЕК ВОКАЛ]",
+    "artist": "ДРУГА РІКА"
+  },
+  {
     "title": "СЕКРЕТ",
+    "artist": "ДРУГА РІКА"
+  },
+  {
+    "title": "СНИ",
     "artist": "ДРУГА РІКА"
   },
   {
@@ -4128,11 +6772,27 @@ const data = [
     "artist": "ДРУГА РІКА"
   },
   {
+    "title": "ТАК МАЛО ТУТ ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ДРУГА РІКА"
+  },
+  {
     "title": "ТРИ ХВИЛИНИ",
     "artist": "ДРУГА РІКА"
   },
   {
+    "title": "ФУРІЯ",
+    "artist": "ДРУГА РІКА"
+  },
+  {
     "title": "ХВИЛЮ ТРИМАЙ",
+    "artist": "ДРУГА РІКА"
+  },
+  {
+    "title": "Я Є",
+    "artist": "ДРУГА РІКА"
+  },
+  {
+    "title": "Я П'Ю З ТВОIХ ДОЛОНЬ",
     "artist": "ДРУГА РІКА"
   },
   {
@@ -4144,31 +6804,207 @@ const data = [
     "artist": "ДУМАНСКАЯ ЮЛИЯ"
   },
   {
+    "title": "ДВІЧІ В ОДНУ РІЧКУ НЕ ВІЙДЕШ [БЕК ВОКАЛ]",
+    "artist": "ДУМАНСЬКА ЮЛІЯ"
+  },
+  {
+    "title": "ДВІЧІ В ОДНУ РІЧКУ [БЕК ВОКАЛ]",
+    "artist": "ДУМАНСЬКА ЮЛІЯ"
+  },
+  {
+    "title": "ЗАКОХАНА",
+    "artist": "ДУМАНСЬКА ЮЛІЯ"
+  },
+  {
+    "title": "ПРОБАЧ",
+    "artist": "ДУМАНСЬКА ЮЛІЯ"
+  },
+  {
+    "title": "ПРОБАЧ [БЕК ВОКАЛ]",
+    "artist": "ДУМАНСЬКА ЮЛІЯ"
+  },
+  {
+    "title": "ЗАВАРИ КАВИ",
+    "artist": "ДУТКА РОМАН"
+  },
+  {
+    "title": "БРОВА",
+    "artist": "ДЯДЯ ЖОРА"
+  },
+  {
     "title": "ВІДМІНИМО ПЛАНИ",
     "artist": "ДЯДЯ ЖОРА"
   },
   {
-    "title": "ГОП-СТОП, ОРИСЯ (-)·.kfn",
+    "title": "НIЧ ЯКА МIСЯЧНА",
+    "artist": "ДЯТЛОВ ЄВГЕНІЙ"
+  },
+  {
+    "title": "КОХАННЯ У ЛЬВОВІ",
+    "artist": "ЕДЕЛЬВЕЙС"
+  },
+  {
+    "title": "А Я НЕ ЖЕНЮСЯ [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "НЕХАЙ БУДЕ УСЕ ЯК Є (-,+).kfn",
+    "title": "ВЕРБОНЬКА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ОЙ ХТО П'Є ТОМУ НАЛИВАЙТЕ",
+    "title": "ВЕСІЛЬНА ОБРУЧКА",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ОЙ ЧИЙ ТО КIНЬ СТОIТЬ (-,+,VID)·.kfn",
+    "title": "ВИЙДИ МИЛА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ОЙ, ХТО П'Є, ТОМУ НАЛИВАЙТЕ (-,+)·.kfn",
+    "title": "ВИНОГРАД (UKR)",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ПІСНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ) (ВАЛЬС).kfn",
+    "title": "ВИШНІ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ВУСА",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ГЕЙ ХЛОПЦІ ШИКИДИМ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ГЕЙ ХЛОПЦІ ШИКИДИМ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ГОП СТОП ОРИСЯ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ГОП СТОП ОРИСЯ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ГОП ЦА ЦА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ГОП-СТОП, ОРИСЯ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ДВА КОЛЬОРИ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ДЯДЬКО ЙОСИП",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ДЯДЬКО ЙОСИП [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ДЯДЬКУ ЯША Я НЕ ВАША [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЇХАВ ІВАСЬ НА КОНІ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЇХАВ ІВАСЬ НА КОНІ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "КОЛО МЛИНУ КОЛО БРОДУ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "КОХАНА ТЕЩА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "КУМА МЕНЕ В ГУБИ ЦЬОМ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "КУЧЕРІ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЛІЛІЯ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "МАРІЧКО ЧАРІВНИЧКО [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "МІСЯЦЬ НА НЕБІ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "НЕ ЛЮБИШ ТИ МЕНЕ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "НЕХАЙ БУДЕ УСЕ ЯК Є",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ ЛЕТІЛИ ЖУРАВЛІ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ МАРІЧКО ЧИЧЕРІ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ НА ГОРІ СТОЇТЬ ХАТА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ ТИ МАРІЧКО [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ ХТО П'Є ТОМУ НАЛИВАЙТЕ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ ХТО П'Є",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ ЧИЙ ТО КIНЬ СТОIТЬ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ОЙ, ХТО П'Є, ТОМУ НАЛИВАЙТЕ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ПІСНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ) (ВАЛЬС)",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ПРОЩАЙ ДIВЧИНО МОЛОДАЯ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "РУШНИК",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "СМЕРЕКА (СМЕРЕКО) [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
@@ -4176,27 +7012,55 @@ const data = [
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "СТАРА БАБА (-)·.kfn",
+    "title": "СМЕРЕКА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА (-)·.kfn",
+    "title": "СТАРА БАБА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ЧЕРВОНА РУТА",
+    "title": "ТАКА П’ЯНА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ЧЕРЕМШИНА (-)·.kfn",
+    "title": "ТЕЧЕ ВОДА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ЧИЧЕРІ (-).kfn",
+    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
-    "title": "ЧИЧЕРІ (+,-)·.kfn",
+    "title": "ТРЕТЯ ЧАРКА ЗА ЖIНОК",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "УКРАЇНСЬКЕ ПИВО [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ХТО РОДИВСЯ В СІЧНІ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЧЕРВОНА КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЧЕРЕМШИНА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЧИЧЕРІ",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "ЧИЧЕРІ [БЕК ВОКАЛ]",
     "artist": "ЕКСПРЕС"
   },
   {
@@ -4204,39 +7068,51 @@ const data = [
     "artist": "ЕКСПРЕС"
   },
   {
+    "title": "ЧОБОТИ ТЕЩІ [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "Я КОЗАЧКА МОЛОДА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
+    "title": "Я ПИВ І ТИ ПИЛА [БЕК ВОКАЛ]",
+    "artist": "ЕКСПРЕС"
+  },
+  {
     "title": "ВРАЖЕ",
     "artist": "ЕНДЖI КРЕЙДА"
   },
   {
-    "title": "БРАТЕ",
+    "title": "БРАТЕ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
-    "title": "ВІЧНА МОЛОДІСТЬ",
+    "title": "ВІЧНА МОЛОДІСТЬ [БЕК ВОКАЛ]",
     "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
-    "title": "ПРОЙДЕ ЗИМА",
+    "title": "ПРОЙДЕ ЗИМА [БЕК ВОКАЛ]",
     "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
-    "title": "ХОЛОДНО",
+    "title": "ХОЛОДНО [БЕК ВОКАЛ]",
     "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
-    "title": "ХТО ТИ",
+    "title": "ХТО ТИ [БЕК ВОКАЛ]",
     "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
-    "title": "БІЛЯ ТОПОЛІ.kfn",
+    "title": "БІЛЯ ТОПОЛІ",
     "artist": "ЕНЕЙ"
   },
   {
-    "title": "ЗЕЛЕНЕЄ ЖИТО, ЗЕЛЕНЕ",
+    "title": "ЗЕЛЕНЕЄ ЖИТО, ЗЕЛЕНЕ [БЕК ВОКАЛ]",
     "artist": "ЕРІКА"
   },
   {
-    "title": "КРИШТАЛЬ ГОРИТЬ (ТРОЯНДА РУЖА)",
+    "title": "КРИШТАЛЬ ГОРИТЬ (ТРОЯНДА РУЖА) [-,+,VID]",
     "artist": "ЕРІКА"
   },
   {
@@ -4244,8 +7120,12 @@ const data = [
     "artist": "ЕРІКА"
   },
   {
-    "title": "ЧЕКАЙ",
+    "title": "ЧЕКАЙ [-,+,VID]",
     "artist": "ЕРІКА"
+  },
+  {
+    "title": "БРАТТЯ",
+    "artist": "ЖАДАН ВАСИЛЬ"
   },
   {
     "title": "МАЛЬВИ",
@@ -4256,7 +7136,19 @@ const data = [
     "artist": "ЖАДАН І СОБАКИ"
   },
   {
-    "title": "ПІСНЯ ПРО МАМАЯ (-).kfn",
+    "title": "ВЕСЕЛКОВА ПІСНЯ",
+    "artist": "ЖИЛІНСЬКИЙ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ПІСНЯ ПРО МАМАЯ",
+    "artist": "ЗАБАВА"
+  },
+  {
+    "title": "ПРИ ДОЛИНІ КУЩ КАЛИНИ",
+    "artist": "ЗАБАВА"
+  },
+  {
+    "title": "САМА ФАЙНА [БЕК ВОКАЛ]",
     "artist": "ЗАБАВА"
   },
   {
@@ -4264,51 +7156,119 @@ const data = [
     "artist": "ЗАБОЛОТНИЙ СЕРГIЙ"
   },
   {
-    "title": "ВИТРИ СЛЬОЗИ",
+    "title": "ЛЕЛЕКИ [БЕК ВОКАЛ]",
     "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
-    "title": "ЛЕЛЕКИ",
+    "title": "МОЯ [БЕК ВОКАЛ]",
     "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
-    "title": "МОЯ",
+    "title": "НЕ ЗАБУВАЙ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
-    "title": "НАЗАВЖДИ",
-    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
-  },
-  {
-    "title": "НЕ ЗАБУВАЙ МЕНЕ",
-    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
-  },
-  {
-    "title": "НЕ ТОРКАЙСЯ ЇЇ ВОЛОССЯ",
-    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
-  },
-  {
-    "title": "ВСЕ БУДЕ ТАК",
+    "title": "ВСЕ БУДЕ ТАК [БЕК ВОКАЛ]",
     "artist": "ЗАЛIСКО АНДРІЙ"
+  },
+  {
+    "title": "ЗА ТОБОЮ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛIСКО АНДРІЙ"
+  },
+  {
+    "title": "ПО ДОЛИНІ РІЧКА",
+    "artist": "ЗАЛIСКО АНДРІЙ"
+  },
+  {
+    "title": "ХЛОПЦІ БУДЕМ ЖИТИ [-,+,VID] [БЕК ВОКАЛ]",
+    "artist": "ЗАЛIСКО АНДРІЙ"
+  },
+  {
+    "title": "ПІДУ ВТОПЛЮСЯ",
+    "artist": "ЗАЛIСКО, ХАС"
+  },
+  {
+    "title": "ВСЕ БУДЕ ТАК [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ГАРАЗД [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ДАВНІ ДРУЗІ",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ДВІ РІЧЕНЬКИ",
+    "artist": "ЗАЛІСКО АНДРІЙ"
   },
   {
     "title": "ЗА ТОБОЮ",
-    "artist": "ЗАЛIСКО АНДРІЙ"
+    "artist": "ЗАЛІСКО АНДРІЙ"
   },
   {
-    "title": "ПО ДОЛИНІ РІЧКА.avi",
-    "artist": "ЗАЛIСКО АНДРІЙ"
+    "title": "ЗА ТОБОЮ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
   },
   {
-    "title": "ХЛОПЦІ БУДЕМ ЖИТИ",
-    "artist": "ЗАЛIСКО АНДРІЙ"
+    "title": "ЗНАЙДИ МЕНЕ ЗНАЙДИ",
+    "artist": "ЗАЛІСКО АНДРІЙ"
   },
   {
-    "title": "ВАХТЕРАМ (БУМБОКС UA COVER).kfn",
+    "title": "ЗНОВУ ПОБАЧУ Я ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ЇХАЛИ КОЗАКИ",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "НЕ БIЙСЯ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "НЕ БІЙСЯ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "НІКОЛИ НЕ ПІЗНО",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ОДНА ЛЮБОВ",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ОДНА ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "РІКА ЖИТТЯ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ТИ МОЯ [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ЦИГАНКА [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ЦІЛУВАЛА [БЕК ВОКАЛ]",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "Я НЕ ЗРАДЖУ ТОБI НІКОЛИ",
+    "artist": "ЗАЛІСКО АНДРІЙ"
+  },
+  {
+    "title": "ВАХТЕРАМ (БУМБОКС UA COVER)",
     "artist": "ЗАХАР"
   },
   {
-    "title": "ДО РАНА",
+    "title": "ДО РАНА [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "ЗАХАР & АНДРIАНА"
   },
   {
@@ -4316,11 +7276,23 @@ const data = [
     "artist": "ЗАХАРКО НАЗАР"
   },
   {
+    "title": "БАТЬКІВСЬКЕ СЛОВО [БЕК ВОКАЛ]",
+    "artist": "ЗІБРОВ ПАВЛО"
+  },
+  {
+    "title": "БІЛИЙ ЦВІТ НА КАЛИНІ",
+    "artist": "ЗІБРОВ ПАВЛО"
+  },
+  {
+    "title": "БЛУДНИЙ СИН [БЕК ВОКАЛ]",
+    "artist": "ЗІБРОВ ПАВЛО"
+  },
+  {
     "title": "ВИКРАДУ",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "ВЧОРА (-)·.kfn",
+    "title": "ВЧОРА [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
@@ -4328,15 +7300,15 @@ const data = [
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "ДЕВ'ЯТЕ ТРАВНЯ",
+    "title": "ДЕВ'ЯТЕ ТРАВНЯ [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "ДЕНЬ НАРОДЖЕННЯ",
+    "title": "ДЕНЬ НАРОДЖЕННЯ [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "ДОРОГИ",
+    "title": "ДОРОГИ [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
@@ -4344,15 +7316,15 @@ const data = [
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "КРІЗЬ КОРДОНИ",
-    "artist": "ЗІБРОВ ПАВЛО"
-  },
-  {
     "title": "КУПАЙТЕСЬ В ЩАСТІ",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "МАМИНЕ БЕЗСОННЯ (+,-).kfn",
+    "title": "МАМИНЕ БЕЗСОННЯ",
+    "artist": "ЗІБРОВ ПАВЛО"
+  },
+  {
+    "title": "МАРИНА",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
@@ -4360,15 +7332,11 @@ const data = [
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "НЕ СМIЙ",
+    "title": "НЕ СМIЙ [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "ОСТАННЯ НІЧ КОХАННЯ (-)·.kfn",
-    "artist": "ЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "ОСТАННЯ НІЧ КОХАННЯ",
+    "title": "ОСТАННЯ НІЧ КОХАННЯ [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
@@ -4376,11 +7344,11 @@ const data = [
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "УКРАЇНСЬКЄ ВЕСІЛЛЯ",
+    "title": "УКРАЇНСЬКЄ ВЕСІЛЛЯ [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "ХРЕЩАТИК (-)·.kfn",
+    "title": "ХРЕЩАТИК [БЕК ВОКАЛ]",
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
@@ -4388,27 +7356,15 @@ const data = [
     "artist": "ЗІБРОВ ПАВЛО"
   },
   {
-    "title": "Я БЕЗ ПІСНІ НЕ Я",
-    "artist": "ЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "Я ПОВЕРТАЮСЬ ДО ДОМУ",
-    "artist": "ЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "ЯСНООКА НАРЕЧЕНА",
-    "artist": "ЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "А КОХАННЯ ТІЛЬКИ ПОЧИНАЄТЬСЯ (+,-).kfn",
+    "title": "А КОХАННЯ ТІЛЬКИ ПОЧИНАЄТЬСЯ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ВІД ТЮЛЬПАНІВ ДО ХРИЗАНТЕМ.avi",
+    "title": "ВІД ТЮЛЬПАНІВ ДО ХРИЗАНТЕМ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ДВА ОСТРОВИ (+,-).kfn",
+    "title": "ДВА ОСТРОВИ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
@@ -4416,115 +7372,199 @@ const data = [
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ДОЛИНОЮ ТУМАН (+,-).kfn",
+    "title": "ДОЛИНОЮ ТУМАН",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ДОПОКИ ВІРИМО (+,-).kfn",
+    "title": "ДОПОКИ ВІРИМО",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ДОЩ (+,-)·.kfn",
+    "title": "ДОЩ [БЕК ВОКАЛ]",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ЛЮБОВ ВОГОНЬ.avi",
+    "title": "ЛЮБОВ ВОГОНЬ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "НЕПЕРЕМОЖНА УКРАЇНА",
+    "title": "ПІСНЯ ОСЕНІ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ПІСНЯ ОСЕНІ (+,-).kfn",
+    "title": "ПОВЕРТАЙСЯ В УКРАЇНУ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ПОВЕРТАЙСЯ В УКРАЇНУ (+,-).kfn",
+    "title": "ПОДАРУЙ МЕНІ СКРИПКУ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ПОДАРУЙ МЕНІ СКРИПКУ (+,-).kfn",
+    "title": "РІДНА УКРАЇНА",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "РІДНА УКРАЇНА (+,-).kfn",
+    "title": "ТАТУ НА СЕРЦІ [БЕК ВОКАЛ]",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "ТАТУ НА СЕРЦІ",
+    "title": "УКРАЇНЦІ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "УКРАЇНЦІ (+,-).kfn",
+    "title": "Я ЗАПРОШУЮ ВАС ДРУЗІ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "Я ЗАПРОШУЮ ВАС ДРУЗІ",
+    "title": "Я ТЕБЕ ПОКЛИЧУ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "Я ТЕБЕ ПОКЛИЧУ (+,-).kfn",
+    "title": "Я ТЕБЕ ШУКАЮ",
     "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
-    "title": "Я ТЕБЕ ШУКАЮ (+,-).kfn",
-    "artist": "ЗІНКОВСЬКА ІРИНА"
+    "title": "ЛЮДИ",
+    "artist": "ЗОЗУЛЯ ВАСИЛИНА (ZOZULYA)"
+  },
+  {
+    "title": "НАМАЛЮЙ",
+    "artist": "ЗОЗУЛЯ ВАСИЛИНА (ZOZULYA)"
   },
   {
     "title": "ЧОРНЕ І БІЛЕ",
     "artist": "ЗОЗУЛЯ ВАСИЛИНА (ZOZULYA)"
   },
   {
+    "title": "ЧЕРВОНА РУТА",
+    "artist": "ІВАСЮК ВОЛОДИМИР"
+  },
+  {
+    "title": "ВЕСІЛЛЯ [БЕК ВОКАЛ]",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "ВИЙШЛИ КОЗАКИ",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
     "title": "ЗОЛОТІ КРИЛЕЧКА",
     "artist": "ІЖИЦЬКИЙ ВОЛОДИМИР"
   },
   {
-    "title": "ЛІТНЯ НІЧ·.kfn",
+    "title": "ЗОЛОТІ КРИЛЕЧКА",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "МАРIЧКА [БЕК ВОКАЛ]",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "ОЙ ВЕРБА ВЕРБА [БЕК ВОКАЛ]",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "ОЙ КУМ ТА КУМА [БЕК ВОКАЛ]",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "ТЕЩА [БЕК ВОКАЛ]",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "ЧЕРВОНА РУЖА",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "Я ДО ТЕБЕ НЕ ПРИЙДУ [БЕК ВОКАЛ]",
+    "artist": "ЇЖИЦЬКИЙ ВОЛОДИМИР"
+  },
+  {
+    "title": "У ЛОНІ СНІВ",
+    "artist": "ІНШИЙ ДЕНЬ"
+  },
+  {
+    "title": "ВIТЕРЕЦЬ",
     "artist": "ІРЕНА"
   },
   {
-    "title": "МОЯ ОСТАННЯ ЛЮБОВ (-)·.kfn",
+    "title": "ВІТЕРЕЦЬ [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "НЕ МОВЧИ·.kfn",
+    "title": "ЛІТНЯ НІЧ [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "НІЖНОМУ МИЛОМУ·.kfn",
+    "title": "МОЯ ОСТАННЯ ЛЮБОВ [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "ПЕРЕДУМАЛА·.kfn",
+    "title": "МОЯ ОСТАННЯ ЛЮБОВ",
     "artist": "ІРЕНА"
   },
   {
-    "title": "СВІЧЕЧКА·.kfn",
+    "title": "НIЖНОМУ МИЛОМУ [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "ТИ БУВ НАЙКРАЩИМ·.kfn",
+    "title": "НЕ МОВЧИ [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "ТРЕТЄ ЛІТО·.kfn",
+    "title": "ПЕРЕДУМАЛА [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "Я ВТОМИЛАСЬ.kfn",
+    "title": "СВІЧЕЧКА [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "Я НЕ ЗРАДЖУ·.kfn",
+    "title": "ТИ БУВ НАЙКРАЩИМ [БЕК ВОКАЛ]",
     "artist": "ІРЕНА"
   },
   {
-    "title": "ДИВА",
+    "title": "ТРЕТЄ ЛIТО [БЕК ВОКАЛ]",
+    "artist": "ІРЕНА"
+  },
+  {
+    "title": "ТРЕТЄ ЛІТО [БЕК ВОКАЛ]",
+    "artist": "ІРЕНА"
+  },
+  {
+    "title": "Я ВТОМИЛАСЬ",
+    "artist": "ІРЕНА"
+  },
+  {
+    "title": "Я ВТОМИЛАСЬ [БЕК ВОКАЛ]",
+    "artist": "ІРЕНА"
+  },
+  {
+    "title": "Я НЕ ЗРАДЖУ [БЕК ВОКАЛ]",
+    "artist": "ІРЕНА"
+  },
+  {
+    "title": "КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "ІРЧИК ЗІ ЛЬВОВА"
+  },
+  {
+    "title": "УКРАЇНА",
+    "artist": "ІРЧИК ЗІ ЛЬВОВА"
+  },
+  {
+    "title": "УКРАЇНА [БЕК ВОКАЛ]",
+    "artist": "ІРЧИК ЗІ ЛЬВОВА"
+  },
+  {
+    "title": "ДИВА [БЕК ВОКАЛ]",
     "artist": "КАZКА"
   },
   {
-    "title": "КОХАНИЙ.avi",
+    "title": "ТАНЦІ [БЕК ВОКАЛ]",
+    "artist": "КАZКА"
+  },
+  {
+    "title": "КОХАНИЙ",
     "artist": "КАВА ЛЮСЯ"
   },
   {
@@ -4532,19 +7572,15 @@ const data = [
     "artist": "КАВА ЛЮСЯ"
   },
   {
-    "title": "ЛОМАЛА",
-    "artist": "КАМЕНСКИХ НАСТЯ"
-  },
-  {
-    "title": "ELEFANTE",
+    "title": "ELEFANTE [БЕК ВОКАЛ]",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
-    "title": "PELICULA",
+    "title": "PELICULA [FV]",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
-    "title": "БАЖАЙ",
+    "title": "БАЖАЙ [БЕК ВОКАЛ]",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
@@ -4552,11 +7588,15 @@ const data = [
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
+    "title": "ДІВЧАТА РУЛЯТЬ [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
     "title": "ДОДОМУ",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
-    "title": "ЗІРКА В НЕБІ",
+    "title": "ЗІРКА В НЕБІ [БЕК ВОКАЛ]",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
@@ -4564,7 +7604,23 @@ const data = [
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
-    "title": "КРИШТАЛЬ",
+    "title": "КОХАЮ [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
+    "title": "КРИШТАЛЬ [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
+    "title": "МОЯ ЛЮБОВ",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
+    "title": "МОЯ ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
+    "title": "ОБІЦЯЮ [БЕК ВОКАЛ]",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
@@ -4580,11 +7636,23 @@ const data = [
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
+    "title": "ПОЧУТТЯ [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
     "title": "СЯЙВО",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
+    "title": "ТРИМАЙ [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
     "title": "ТРИМАЙ",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
+    "title": "ЦЕ Є МОЯ НІЧ [БЕК ВОКАЛ]",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
@@ -4596,15 +7664,19 @@ const data = [
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
+    "title": "ЧЕРВОНЕ ВИНО [БЕК ВОКАЛ]",
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
+  },
+  {
     "title": "Я УКРАЇНА",
     "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
-    "title": "СЯЙВО",
+    "title": "СЯЙВО [БЕК ВОКАЛ]",
     "artist": "КАМЕНСЬКИХ НАСТЯ & SWOIIA"
   },
   {
-    "title": "SHOW ME YOUR LOVE (VID).kfn",
+    "title": "SHOW ME YOUR LOVE",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
@@ -4616,19 +7688,19 @@ const data = [
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "ЗАКРИЛИ ТВОЇ ОЧІ (+,-,VID).kfn",
+    "title": "ЗАКРИЛИ ТВОЇ ОЧІ",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "КОСМIЧНI ПОЧУТТЯ (-,+,МАСТЕР,VID).kfn",
+    "title": "КОСМIЧНI ПОЧУТТЯ",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "НАМАЛЮЮ ТОБI (+,-,КЛІП).kfn",
+    "title": "НАМАЛЮЮ ТОБI",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "НЕ ДОЩ (+,-,КЛІП).kfn",
+    "title": "НЕ ДОЩ",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
@@ -4644,7 +7716,19 @@ const data = [
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "НІЖНО 2",
+    "title": "НІЖНО 2 [БЕК ВОКАЛ]",
+    "artist": "КАРОЛЬ ТІНА"
+  },
+  {
+    "title": "СКАНДАЛ",
+    "artist": "КАРОЛЬ ТІНА"
+  },
+  {
+    "title": "СКАНДАЛ [БЕК ВОКАЛ]",
+    "artist": "КАРОЛЬ ТІНА"
+  },
+  {
+    "title": "ТВОЇ ГРІХИ [БЕК ВОКАЛ]",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
@@ -4660,19 +7744,27 @@ const data = [
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "УКРАЇНА ЦЕ ТИ",
+    "title": "УКРАЇНА ЦЕ ТИ [БЕК ВОКАЛ]",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "УКРАЇНА ЦЕ Я",
+    "title": "УКРАЇНА ЦЕ Я [БЕК ВОКАЛ]",
     "artist": "КАРОЛЬ ТІНА"
   },
   {
-    "title": "ЗІРОЧКА",
+    "title": "ЩО ТИ НАРОБИЛА",
+    "artist": "КАРОЛЬ ТІНА"
+  },
+  {
+    "title": "ЩО ТИ НАРОБИЛА [БЕК ВОКАЛ]",
+    "artist": "КАРОЛЬ ТІНА"
+  },
+  {
+    "title": "ЗІРОЧКА [БЕК ВОКАЛ]",
     "artist": "КАРОЛЬ ТІНА & KAZKA"
   },
   {
-    "title": "ДЗВОНИ",
+    "title": "ДЗВОНИ [БЕК ВОКАЛ]",
     "artist": "КАРОЛЬ ТІНА & SHUMEI"
   },
   {
@@ -4680,7 +7772,15 @@ const data = [
     "artist": "КАРОЛЬ ТІНА & SHUMEI"
   },
   {
+    "title": "СТЕРВА [БЕК ВОКАЛ]",
+    "artist": "КАРОЛЬ ТІНА & SHUMEI"
+  },
+  {
     "title": "ВІЛЬНА",
+    "artist": "КАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
+  },
+  {
+    "title": "ВІЛЬНА [БЕК ВОКАЛ]",
     "artist": "КАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
   },
   {
@@ -4688,11 +7788,11 @@ const data = [
     "artist": "КАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
   },
   {
-    "title": "ВІД МЕНЕ ДО ТЕБЕ",
+    "title": "ВІД МЕНЕ ДО ТЕБЕ [-,RMX]",
     "artist": "КАРПА НАТАЛКА"
   },
   {
-    "title": "ВПЕРШЕ",
+    "title": "ВПЕРШЕ [БЕК ВОКАЛ]",
     "artist": "КАРПА НАТАЛКА"
   },
   {
@@ -4700,7 +7800,7 @@ const data = [
     "artist": "КАРПА НАТАЛКА"
   },
   {
-    "title": "ДОБРИЙ ВЕЧІР ТОБІ ПАНЕ ГОСПОДАРЮ",
+    "title": "ДОБРИЙ ВЕЧІР ТОБІ ПАНЕ ГОСПОДАРЮ [БЕК ВОКАЛ]",
     "artist": "КАРПА НАТАЛКА"
   },
   {
@@ -4708,43 +7808,71 @@ const data = [
     "artist": "КАРПА НАТАЛКА"
   },
   {
-    "title": "ДУБАЇ",
+    "title": "ДУБАЇ [БЕК ВОКАЛ]",
     "artist": "КАРПА НАТАЛКА"
   },
   {
-    "title": "ПІВНІ",
+    "title": "OLEI",
+    "artist": "КАТАМАДЗЕ НІНО & INSIGHT"
+  },
+  {
+    "title": "ПІВНІ [БЕК ВОКАЛ]",
     "artist": "КАТЯ CHILLY"
   },
   {
-    "title": "КОХАНИЙ (-).kfn",
+    "title": "SPRING'S SONG (ЧЕРЕМШИНА)",
     "artist": "КВІТКА ЦІСИК"
   },
   {
-    "title": "МІСТО СПИТЬ (-)·.kfn",
+    "title": "КОХАНИЙ",
     "artist": "КВІТКА ЦІСИК"
   },
   {
-    "title": "НУ ЯКА ГАРНА ЖІНОЧКА",
-    "artist": "КЕНЗОВ ОЛЕГ"
+    "title": "МІСТО СПИТЬ [БЕК ВОКАЛ]",
+    "artist": "КВІТКА ЦІСИК"
   },
   {
-    "title": "ПІДПАЛ ПОЖЕЖА.avi",
+    "title": "ПІДПАЛ ПОЖЕЖА",
     "artist": "КЕНЗОВ ОЛЕГ & ПРИНЦИПОВА ЗМІНА"
   },
   {
-    "title": "ВЕСНЯНЕ ВЕСІЛЛЯ",
+    "title": "НОВИЙ РІК [БЕК ВОКАЛ]",
+    "artist": "КИЇВЕЛЕКТРО"
+  },
+  {
+    "title": "ВЕСНЯНЕ ВЕСІЛЛЯ [БЕК ВОКАЛ]",
     "artist": "КИЇВЄЛЕКТРО"
   },
   {
-    "title": "ЧЕРНІВЦІ",
+    "title": "ЧЕРНІВЦІ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "КИЇВЄЛЕКТРО"
+  },
+  {
+    "title": "КОЗАЧКА",
+    "artist": "КИРИЧЕНКО РАЇСА"
+  },
+  {
+    "title": "МАМИНА ПIСНЯ",
+    "artist": "КИРИЧЕНКО РАЇСА"
+  },
+  {
+    "title": "МОЯ УКРАЇНА",
+    "artist": "КИРИЧЕНКО РАЇСА"
+  },
+  {
+    "title": "СВЯТИЙ ВЕЧIР",
+    "artist": "КИРИЧЕНКО РАЇСА"
+  },
+  {
+    "title": "Я КОЗАЧКА ТВОЯ",
+    "artist": "КИРИЧЕНКО РАЇСА"
   },
   {
     "title": "В ПОЛОНІ",
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
-    "title": "ВІЛЬНИЙ ПТАХ .avi",
+    "title": "ВІЛЬНИЙ ПТАХ",
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
@@ -4752,7 +7880,7 @@ const data = [
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
-    "title": "КВАРТИРА 156.avi",
+    "title": "КВАРТИРА 156",
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
@@ -4760,11 +7888,11 @@ const data = [
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
-    "title": "РОМАНТИЧНО",
+    "title": "РОМАНТИЧНО [-,+,VID]",
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
-    "title": "СТАНЦІЯ ЛЮБОВ",
+    "title": "СТАНЦІЯ ЛЮБОВ [-,+,VID]",
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
@@ -4772,59 +7900,155 @@ const data = [
     "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
+    "title": "У ВОЛОССІ ОСІНЬ",
+    "artist": "КІСЕЛЬОВ НІКІТА & SKYLERR"
+  },
+  {
     "title": "ДВА ЛІХТАРІ",
     "artist": "КІСЕЛЬОВ НІКІТА & TAYANNA"
   },
   {
     "title": "А МЛИН КРУТИТЬСЯ",
-    "artist": "КНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІННА"
   },
   {
-    "title": "А Я ЗНАЮ, ЩО ГРІХ МАЮ",
-    "artist": "КНИЖНИК ІРИНА"
+    "title": "А МЛИН КРУТИТЬСЯ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
   },
   {
-    "title": "А Я ШИНКАРОЧКА",
-    "artist": "КНИЖНИК ІРИНА"
+    "title": "А Я ЗНАЮ ЩО ГРІХ МАЮ",
+    "artist": "КНИЖНИК ІННА"
   },
   {
-    "title": "ВЕРБА",
-    "artist": "КНИЖНИК ІРИНА"
+    "title": "А Я ЗНАЮ ЩО ГРІХ МАЮ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "А Я ШИНКАРОЧКА [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ВЕРБА [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
   },
   {
     "title": "ВИШЕНЬКИ ЧЕРЕШЕНЬКИ",
-    "artist": "КНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІННА"
   },
   {
-    "title": "ДЯДЬКУ ЯША, Я НЕ ВАША",
-    "artist": "КНИЖНИК ІРИНА"
+    "title": "ВИШЕНЬКИ ЧЕРЕШЕНЬКИ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ДЯДЬКУ ЯША Я НЕ ВАША",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ДЯДЬКУ ЯША Я НЕ ВАША [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "КОЛИ Я ПОБАЧУ КУМА",
+    "artist": "КНИЖНИК ІННА"
   },
   {
     "title": "КРАЩЕ Б ВИ ХЛОПЦІ НЕ ХОДИЛИ",
-    "artist": "КНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "КРАЩЕ Б ВИ ХЛОПЦІ НЕ ХОДИЛИ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
   },
   {
     "title": "НА ВЕСІЛЛІ",
-    "artist": "КНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІННА"
   },
   {
-    "title": "ОЙ ЗРАДИВ МЕНЕ МИЛИЙ",
-    "artist": "КНИЖНИК ІРИНА"
+    "title": "НА ВЕСІЛЛІ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
   },
   {
-    "title": "ПИЙТЕ, ЛЮДИ, ГОРІЛОЧКУ",
-    "artist": "КНИЖНИК ІРИНА"
+    "title": "ОЙ ЗРАДИВ МЕНЕ МИЛИЙ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ПИЙТЕ ЛЮДИ ГОРІЛОЧКУ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ЧЕРЕШЕНЬКА",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ЧЕРЕШЕНЬКА [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ЧИ ТИ ЧУВ",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "ЧИ ТИ ЧУВ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
   },
   {
     "title": "Я НЕ БУДУ ЖУРИТИСЯ",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "Я НЕ БУДУ ЖУРИТИСЯ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІННА"
+  },
+  {
+    "title": "А МЛИН КРУТИТЬСЯ [БЕК ВОКАЛ]",
     "artist": "КНИЖНИК ІРИНА"
   },
   {
-    "title": "ГУЦУЛКА КСЕНЯ",
+    "title": "А Я ЗНАЮ, ЩО ГРІХ МАЮ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "А Я ШИНКАРОЧКА [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "ВЕРБА [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "ВИШЕНЬКИ ЧЕРЕШЕНЬКИ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "ДЯДЬКУ ЯША, Я НЕ ВАША [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "КРАЩЕ Б ВИ ХЛОПЦІ НЕ ХОДИЛИ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "НА ВЕСІЛЛІ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "ОЙ ЗРАДИВ МЕНЕ МИЛИЙ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "ПИЙТЕ, ЛЮДИ, ГОРІЛОЧКУ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "Я НЕ БУДУ ЖУРИТИСЯ [БЕК ВОКАЛ]",
+    "artist": "КНИЖНИК ІРИНА"
+  },
+  {
+    "title": "ГУЦУЛКА КСЕНЯ [БЕК ВОКАЛ]",
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
-    "title": "ДЯКУЮ ТОБІ МАМО",
+    "title": "ДЯКУЮ ТОБІ МАМО [БЕК ВОКАЛ]",
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
@@ -4832,15 +8056,15 @@ const data = [
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
-    "title": "МОЯ КРАЇНА",
+    "title": "МОЯ КРАЇНА [БЕК ВОКАЛ]",
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
-    "title": "НI ТО НЕ Я",
+    "title": "НI ТО НЕ Я [БЕК ВОКАЛ]",
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
-    "title": "НЕ ЙДИ",
+    "title": "НЕ ЙДИ [БЕК ВОКАЛ]",
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
@@ -4852,7 +8076,7 @@ const data = [
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
-    "title": "ЧУЖА НАРЕЧЕНА",
+    "title": "ЧУЖА НАРЕЧЕНА [БЕК ВОКАЛ]",
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
@@ -4860,11 +8084,19 @@ const data = [
     "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
-    "title": "COMME TOI (UA,+,-,REMIX)·.kfn",
+    "title": "ОЙ У ПОЛI РУТА РУТА",
+    "artist": "КОБЗА"
+  },
+  {
+    "title": "COMME TOI (UA) [БЕК ВОКАЛ]",
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
-    "title": "ЖОВТИЙ ЛИСТ.kfn",
+    "title": "COMME TOI",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "ЖОВТИЙ ЛИСТ",
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
@@ -4872,7 +8104,7 @@ const data = [
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
-    "title": "ЗАЛИШИ МЕНІ.kfn",
+    "title": "ЗАЛИШИ МЕНІ",
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
@@ -4880,7 +8112,11 @@ const data = [
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
-    "title": "МАЛА",
+    "title": "ЗНАЄШЬ [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "МАЛА [БЕК ВОКАЛ]",
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
@@ -4896,7 +8132,23 @@ const data = [
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
-    "title": "ПРО НАС",
+    "title": "НЕБО ПЛАЧЕ ГРОЗАМИ",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "НЕБО ПЛАЧЕ [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "НЕРОЗГАДАНІ СНИ [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "ПІНАКОЛАДА",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "СКАЖИ МЕНІ [БЕК ВОКАЛ]",
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
@@ -4904,15 +8156,43 @@ const data = [
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
+    "title": "СТАРІ ФОТОГРАФІЇ",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "СТАРІ ФОТОГРАФІЇ [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "ТІЛЬКИ КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "ЧОРНОБРИВЦI [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
+    "title": "ЧОРНОБРИВЦІ [БЕК ВОКАЛ]",
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
+  },
+  {
     "title": "ЧОРНОБРИВЦІ",
     "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
-    "title": "ДУМАВ ВОНА ЯНГОЛ.avi",
+    "title": "ДУМАВ ВОНА ЯНГОЛ",
     "artist": "КОЛІН"
   },
   {
-    "title": "ВАНЬКА-ВСТАНЬКА",
+    "title": "ВАНЬКА-ВСТАНЬКА [БЕК ВОКАЛ]",
+    "artist": "КОНДРАТЕНКО МАША"
+  },
+  {
+    "title": "МУХИ [БЕК ВОКАЛ]",
     "artist": "КОНДРАТЕНКО МАША"
   },
   {
@@ -4920,35 +8200,19 @@ const data = [
     "artist": "КОНДРАТЕНКО МАША"
   },
   {
-    "title": "БЕЗ ПРАВИЛ",
+    "title": "ЛИШ ТЕБЕ ОДНУ ЛЮБЛЮ [БЕК ВОКАЛ]",
     "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
-    "title": "ВСЕ БУДЕ ГАРАЗД",
+    "title": "НЕ РЯТУЙ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
-    "title": "ЛИШ ТЕБЕ ОДНУ ЛЮБЛЮ (КЛИП)·.kfn",
+    "title": "ПРОБАЧ МЕНІ [БЕК ВОКАЛ]",
     "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
-    "title": "НЕ ВІДЛІТАЙ",
-    "artist": "КОНДРАТЮК АРТЕМ"
-  },
-  {
-    "title": "НЕ РЯТУЙ МЕНЕ (-,+)·.kfn",
-    "artist": "КОНДРАТЮК АРТЕМ"
-  },
-  {
-    "title": "ПРИГАДАЙ СВОЮ ЛЮБОВ",
-    "artist": "КОНДРАТЮК АРТЕМ"
-  },
-  {
-    "title": "ПРОБАЧ МЕНІ (-,+)·.kfn",
-    "artist": "КОНДРАТЮК АРТЕМ"
-  },
-  {
-    "title": "ТИ ОПОВІДАННЯ (-,+,КЛІП).kfn",
+    "title": "ТИ ОПОВІДАННЯ",
     "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
@@ -4968,7 +8232,15 @@ const data = [
     "artist": "КОРУПЦІЯ"
   },
   {
+    "title": "ЗАВІРЮХА [БЕК ВОКАЛ]",
+    "artist": "КОРУПЦІЯ"
+  },
+  {
     "title": "МАРIЯ IВАНIВНА",
+    "artist": "КОРУПЦІЯ"
+  },
+  {
+    "title": "МАРIЯ IВАНIВНА [БЕК ВОКАЛ]",
     "artist": "КОРУПЦІЯ"
   },
   {
@@ -4980,6 +8252,10 @@ const data = [
     "artist": "КОРУПЦІЯ"
   },
   {
+    "title": "СКРИПОЧКА [БЕК ВОКАЛ]",
+    "artist": "КОРУПЦІЯ"
+  },
+  {
     "title": "ФАМ ФАТАЛЬ",
     "artist": "КОРУПЦІЯ"
   },
@@ -4988,11 +8264,19 @@ const data = [
     "artist": "КОРУПЦІЯ"
   },
   {
-    "title": "ДОЛЕ МОЯ.avi",
+    "title": "Я ЗНОВ У ХАРКОВІ [БЕК ВОКАЛ]",
+    "artist": "КОРУПЦІЯ"
+  },
+  {
+    "title": "А Я ТАК ВДЯЧНИЙ НЕБЕСАМ [БЕК ВОКАЛ]",
     "artist": "КРАВЧЕНКО АНДРІЙ"
   },
   {
-    "title": "МОЯ ЄДИНА.avi",
+    "title": "ДОЛЕ МОЯ",
+    "artist": "КРАВЧЕНКО АНДРІЙ"
+  },
+  {
+    "title": "МОЯ ЄДИНА",
     "artist": "КРАВЧЕНКО АНДРІЙ"
   },
   {
@@ -5000,27 +8284,27 @@ const data = [
     "artist": "КРИЧЕВСЬКИЙ ГАРІК"
   },
   {
-    "title": "Я СУМУЮ ЗА ТОБОЮ",
+    "title": "КИЯНОЧКА [БЕК ВОКАЛ]",
+    "artist": "КРИЧЕВСЬКИЙ ГАРІК"
+  },
+  {
+    "title": "Я СУМУЮ ЗА ТОБОЮ [БЕК ВОКАЛ]",
     "artist": "КРИЧЕВСЬКИЙ ГАРІК"
   },
   {
     "title": "ПІСЯНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ)",
-    "artist": "КРУТОЙ ИГОРЬ"
-  },
-  {
-    "title": "РІДНА МАТИ МОЯ.kfn",
-    "artist": "КРУТОЙ ИГОРЬ"
+    "artist": "КРУТИЙ ІГОР"
   },
   {
     "title": "АКТРИСА",
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
-    "title": "БІЛИЙ ЦВІТ НА КАЛИНІ",
+    "title": "БІЛИЙ ЦВІТ НА КАЛИНІ [БЕК ВОКАЛ]",
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
-    "title": "БУЗИНА (-).kfn",
+    "title": "БУЗИНА",
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
@@ -5028,11 +8312,47 @@ const data = [
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
-    "title": "ДОДОМУ",
+    "title": "ДОДОМУ [БЕК ВОКАЛ]",
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
-    "title": "ПІСНЯ НА ДОБРО (-).kfn",
+    "title": "ЗАЛ ЧЕКАННЯ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "МIЙ ГЕНЕРАЛ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "МОЛОЧАЙ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "МУЗИЧЕНЬКИ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "НАВIЩО",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "НЕ ЗАЛИШАЙ ОДНУ МЕНЕ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "НЕ ПОВЕРТАЙСЬ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "ОДИН КРОК",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "ПIЗНЯ КВIТКА",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "ПАПЕРОВI КВIТИ",
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
@@ -5040,12 +8360,124 @@ const data = [
     "artist": "КУДЛАЙ АЛЛА"
   },
   {
-    "title": "КУЧЕРІ",
+    "title": "ПІСНЯ НА ДОБРО (RMX)",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "ПІСНЯ НА ДОБРО [REMIX]",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "ТРИ ПОРАДИ",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "ЧУЄШ МАМО",
+    "artist": "КУДЛАЙ АЛЛА"
+  },
+  {
+    "title": "Я I ТИ",
+    "artist": "КУДЛАЙ АЛЛА & ЗІБРОВ ПАВЛО"
+  },
+  {
+    "title": "А ВІН МЕНЕ ТАК",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "А ВІН МЕНЕ ТАК [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "А КОЗАК Є КОЗАК",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "А МЕНІ ВСЕ ПО ЦИМБАЛАМ [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "А Я ШИНКАРОЧКА [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "БАБА МОЛОДА [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ВЕСIЛЬНИЙ КАРАПЕТ [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ВЕЧОРНИЦІ ШИКИДИМ",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ВЕЧОРНИЦІ ШИКИДИМ [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ВІННИЦЬКА ТЕЩА [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ГРУЗИН I УКРАЇНОЧКА [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ДАЙ КУМОНЬКО [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ДІВЧИНА КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ДО КУМИ НА ВЕЧЕРЮ",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ДЯДЬКУ ЯША Я НЕ ВАША",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "КОЖНОЇ ТВАРІ",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "КУМЕ ЧАРОЧКУ НАЛИЙ",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "КУЧЕРІ [БЕК ВОКАЛ]",
     "artist": "КУКОБА ВЯЧЕСЛАВ"
   },
   {
-    "title": "ЩО ТО ЗА ВЕСІЛЛЯ (-).kfn",
+    "title": "ПОГУЛЯЄМ [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "РУССКАЯ ВОДОЧКА",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ЩО ТО ЗА ВЕСІЛЛЯ",
     "artist": "КУКОБА ВЯЧЕСЛАВ"
+  },
+  {
+    "title": "ЩО ТО ЗА ВЕСІЛЛЯ",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "КАБАНЧИК",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ (ЕКСПРЕС)"
+  },
+  {
+    "title": "КАБАНЧИК [БЕК ВОКАЛ]",
+    "artist": "КУКОБА В'ЯЧЕСЛАВ (ЕКСПРЕС)"
+  },
+  {
+    "title": "ДЕНЬ НАРОДЖЕННЯ",
+    "artist": "КУКУРУДЗА ТЕОДОР"
   },
   {
     "title": "ЖАСМIНОВИЙ РАЙ",
@@ -5056,20 +8488,48 @@ const data = [
     "artist": "ЛIСАПЕТНИЙ БАТАЛЬЙОН (ФАЛIОН НАТАЛЯ)"
   },
   {
-    "title": "КОХАНА (-).kfn",
+    "title": "КОХАНА",
     "artist": "ЛАЗАРОВИЧ ВАСИЛЬ"
   },
   {
-    "title": "РОСА (-).kfn",
+    "title": "РОСА",
     "artist": "ЛАЗАРОВИЧ ВАСИЛЬ"
   },
   {
-    "title": "ТІЛЬКИ РАЗ ЦВІТЕ ЛЮБОВ (МАСТЕР)·.kfn",
+    "title": "ТІЛЬКИ РАЗ ЦВІТЕ ЛЮБОВ [БЕК ВОКАЛ]",
     "artist": "ЛАЗАРОВИЧ ВАСИЛЬ"
   },
   {
-    "title": "МОСКВА ГОРИТЬ",
+    "title": "ПЛАЩ ПАЛЬТО",
+    "artist": "ЛАСКАВИЙ ТРАВЕНЬ"
+  },
+  {
+    "title": "NO PROBLEM",
+    "artist": "ЛЕВКО ДУРКО"
+  },
+  {
+    "title": "ВЕСЕЛИЙ ЧАС",
+    "artist": "ЛЕВКО ДУРКО"
+  },
+  {
+    "title": "ДЕНЬ НАРОДЖЕННЯ",
+    "artist": "ЛЕВКО ДУРКО"
+  },
+  {
+    "title": "ЛАЗНЯ НА ДВОХ",
+    "artist": "ЛЕВКО ДУРКО"
+  },
+  {
+    "title": "ЛИЦЕ",
+    "artist": "ЛЕВКО ДУРКО"
+  },
+  {
+    "title": "МОСКВА ГОРИТЬ [UA]",
     "artist": "ЛЕНИНГРАД"
+  },
+  {
+    "title": "З ДНЕМ НАРОДЖЕННЯ, МОЯ ДIВЧИНКА",
+    "artist": "ЛИКОВ ВЛАД"
   },
   {
     "title": "А Я ЧЕКАТИМУ",
@@ -5080,11 +8540,19 @@ const data = [
     "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
+    "title": "ДОБРЕ ТАМ ДЕ НАС НЕМА",
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
+  },
+  {
+    "title": "ЗАГРАЙ БАЯН",
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
+  },
+  {
     "title": "ЗІБРАЛИСЬ БАБОНЬКИ",
     "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
-    "title": "ЛІСАПЕТ (ОРИГ,VID)·.kfn",
+    "title": "ЛІСАПЕТ [БЕК ВОКАЛ]",
     "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
@@ -5092,7 +8560,7 @@ const data = [
     "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
-    "title": "СПІЛА ВИШЕНЬКА",
+    "title": "СПІЛА ВИШЕНЬКА [БЕК ВОКАЛ]",
     "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
@@ -5100,12 +8568,16 @@ const data = [
     "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
-    "title": "СОПІЛКА",
-    "artist": "ЛІСОВА ПІСНЯ"
+    "title": "Я ПРОСТО КОРОЛЕВА",
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
-    "title": "КИЄВЕ МІЙ",
-    "artist": "ЛОБАЧ & МАРИНА І КОМПАНІЯ"
+    "title": "Я ПРОСТО КОРОЛЕВА",
+    "artist": "ЛІСАПЕТНЫЙ БАТАЛЬЙОН"
+  },
+  {
+    "title": "СОПІЛКА",
+    "artist": "ЛІСОВА ПІСНЯ"
   },
   {
     "title": "ТИ МОЄ ДИВО",
@@ -5120,23 +8592,23 @@ const data = [
     "artist": "ЛОБАЧ & ШКУРАЦЬКИЙ"
   },
   {
-    "title": "ВСЕ СКАЗАЛА",
+    "title": "ВСЕ СКАЗАЛА [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ДЕНЬ НАРОДЖЕННЯ",
+    "title": "ДЕНЬ НАРОДЖЕННЯ [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ДОНЕЧКА",
+    "title": "ДОНЕЧКА [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ЗОЛОТА",
+    "title": "ЗОЛОТА [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ЗОЛОТА·.avi",
+    "title": "КРОПИВА",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
@@ -5144,11 +8616,7 @@ const data = [
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ЛІТНІЙ ВЕЧЕР",
-    "artist": "ЛОБАЧ ВІТАЛІЙ"
-  },
-  {
-    "title": "ЛЮБИШ НЕ ЛЮБИШ",
+    "title": "ЛЮБИШ НЕ ЛЮБИШ [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
@@ -5164,7 +8632,7 @@ const data = [
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ПОЛТАВА",
+    "title": "ПОЛТАВА [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
@@ -5176,7 +8644,7 @@ const data = [
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "СОЛДАТ",
+    "title": "СОЛДАТ [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
@@ -5184,15 +8652,15 @@ const data = [
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ТВОЇ ОЧІ",
+    "title": "ТВОЇ ОЧІ [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ТВОЇ ОЧІ·.avi",
+    "title": "ТИ ІДЕАЛЬНА [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "ТИ ІДЕАЛЬНА",
+    "title": "ФАНТАЗЕР [UA]",
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
@@ -5204,103 +8672,51 @@ const data = [
     "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
-    "title": "Я ТЕБЕ НАМАЛЮВАВ·.kfn",
-    "artist": "ЛОБАЧ ВІТАЛІЙ"
-  },
-  {
-    "title": "ЗОЛОТА",
+    "title": "ЗОЛОТА [БЕК ВОКАЛ]",
     "artist": "ЛОБАЧ ВЛАДИСЛАВ"
   },
   {
-    "title": "CAR SONG",
-    "artist": "ЛОРАК АНІ"
+    "title": "ДІВЧИНА КАРТИНКА",
+    "artist": "ЛТАВСЬКА ЖАННА"
   },
   {
-    "title": "DON'T TALK ABOUT LOVE",
-    "artist": "ЛОРАК АНІ"
+    "title": "ЧУЄШ ЗРАДЛИВА ДІВЧИНО",
+    "artist": "ЛЬВІВСЬКІ МУЗИКИ"
   },
   {
-    "title": "IT'S MY LIFE",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "SHADY LADY",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "БЕЗ ТЕБЕ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "ІСТОРІЯ КОХАННЯ (-).kfn",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "ЛЮБИЙ КОХАЙ МЕНЕ-",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "МАЛЬВИ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "МИЛИЙ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "МОЇ БАЖАННЯ (КЛІП)·.kfn",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "МРІЙ (КЛИП).kfn",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "НАПИШУ ЛИСТА",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "НЕСТРИМНА ТЕЧІЯ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "НОВОРІЧНА НІЧ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "ПОЦІЛУЙ (КЛІП)·.kfn",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "ПРОБАЧ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "ЧЕКАЮ (-)·.kfn",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "Я І ТИ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "Я КОХАЮ",
-    "artist": "ЛОРАК АНІ"
-  },
-  {
-    "title": "НЕЗЛАМНА",
+    "title": "НЕЗЛАМНА [-,+,VID]",
     "artist": "ЛЮСЯ КАВА"
-  },
-  {
-    "title": "ВОЇНИ СВІТЛА (МАСТЕР,КЛІП).kfn",
-    "artist": "ЛЯПИС ТРУБЕЦКОЙ"
   },
   {
     "title": "ВОЇНИ СВІТЛА",
     "artist": "ЛЯПИС ТРУБЕЦКОЙ"
   },
   {
+    "title": "ВОЇНИ СВІТЛА [REMIX,-,+]",
+    "artist": "ЛЯПИС ТРУБЕЦКОЙ"
+  },
+  {
+    "title": "КОРОЛЕВА",
+    "artist": "МIРЗОЯН АРСЕН"
+  },
+  {
+    "title": "А РОСИ ПАДАЮТЬ В ТРАВУ",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
+    "title": "БАТЬКІВСЬКА ХАТИНА",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
+    "title": "БАТЬКІВСЬКИЙ ПОРІГ",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
     "title": "БУДЬ ЗІ МНОЮ",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
+    "title": "БУДЬ ЗІ МНОЮ [БЕК ВОКАЛ]",
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
@@ -5316,7 +8732,15 @@ const data = [
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
+    "title": "ВИПУСКНИКИ [БЕК ВОКАЛ]",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
     "title": "ВЧИТЕЛЮ",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
+    "title": "ВЧИТЕЛЮ [БЕК ВОКАЛ]",
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
@@ -5328,6 +8752,10 @@ const data = [
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
+    "title": "ЛЮБИСТОК [БЕК ВОКАЛ]",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
     "title": "МОЯ ЛЮБОВ",
     "artist": "МАЙ НАТАЛІЯ"
   },
@@ -5336,11 +8764,27 @@ const data = [
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
+    "title": "НАДІЯ В СЕРЦІ [БЕК ВОКАЛ]",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
     "title": "ПІСНЯ ПРО БАБУСЮ",
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
+    "title": "ПРОЩАВАЙ РІДНА ШКОЛА",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
     "title": "ПРОЩАВАЙ, РІДНА ШКОЛО",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
+    "title": "ТИ ДО МЕНЕ НЕ ХОДИ",
+    "artist": "МАЙ НАТАЛІЯ"
+  },
+  {
+    "title": "ТИ І ТІЛЬКИ ТИ",
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
@@ -5356,35 +8800,103 @@ const data = [
     "artist": "МАЙ НАТАЛІЯ"
   },
   {
-    "title": "AMORE MIO (-).kfn",
+    "title": "РІДНА МАТИ МОЯ",
+    "artist": "МАЙБОРОДА ПЛАТОН"
+  },
+  {
+    "title": "ШАЛЕНІЮ",
+    "artist": "МАЛИНЯК УЛЯНА & ВОВА ЗІ ЛЬВОВА"
+  },
+  {
+    "title": "ЧЕРВОНА КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "МАЛИЦЬКА КАТЕРИНА"
+  },
+  {
+    "title": "ЧЕРЕМШИНА [БЕК ВОКАЛ]",
+    "artist": "МАЛИЦЬКА КАТЕРИНА"
+  },
+  {
+    "title": "AMORE MIO",
     "artist": "МАНДРИ"
   },
   {
-    "title": "КОЛО МЛИНУ, КОЛО БРОДУ (-,+).kfn",
+    "title": "ВIТРЕ ЦИГАНЕ",
     "artist": "МАНДРИ"
   },
   {
-    "title": "ЛЮБОВ (КЛІП).kfn",
+    "title": "ДОРОГА",
     "artist": "МАНДРИ"
   },
   {
-    "title": "НЕ СПИ (КЛІП).kfn",
+    "title": "ДРИЦI ДРИЦI [БЕК ВОКАЛ]",
     "artist": "МАНДРИ"
   },
   {
-    "title": "ЗАЦІЛУЮ",
+    "title": "КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "КАРТАТА СОРОЧКА",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "КОЛО МЛИНУ КОЛО БРОДУ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "КОЛО МЛИНУ, КОЛО БРОДУ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "КОЛО МЛИНУ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "ЛЕГЕНДА ПРО IВАНА ТА ОДАРКУ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "ЛЮБОВ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "НЕ СПИ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "НЕ СПИ МОЯ РIДНА ЗЕМЛЯ [БЕК ВОКАЛ]",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "НЕ СПИ МОЯ РІДНА ЗЕМЛЯ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ [БЕК ВОКАЛ]",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "ОРИСЯ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "ПIСНЯ ПРО НIЖНУ КОРОЛЕВУ",
+    "artist": "МАНДРИ"
+  },
+  {
+    "title": "ЗАЦІЛУЮ [-,+,VID]",
     "artist": "МАНОНДІЗ ПОЛЬ"
   },
   {
-    "title": "ЛЕЛЕКИ",
+    "title": "ЛЕЛЕКИ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "МАНОНДІЗ ПОЛЬ"
   },
   {
-    "title": "САМА П’Ю САМА НАЛИВАЮ",
+    "title": "САМА П’Ю САМА НАЛИВАЮ [БЕК ВОКАЛ]",
     "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
-    "title": "ТИ МОЄ ДИВО",
+    "title": "ТИ МОЄ ДИВО [-,+,VID]",
     "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
@@ -5392,15 +8904,15 @@ const data = [
     "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
-    "title": "УРВАЛАСЯ СТРУНА",
+    "title": "УРВАЛАСЯ СТРУНА [БЕК ВОКАЛ]",
     "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
-    "title": "ДИВНА КВІТКА (+,-).kfn",
+    "title": "ДИВНА КВІТКА",
     "artist": "МАТВІЄНКО НІНА"
   },
   {
-    "title": "КВІТКА ДУША (СОРОЧИНСЬКИЙ ЯРМАРОК)",
+    "title": "КВІТКА ДУША (СОРОЧИНСЬКИЙ ЯРМАРОК) [БЕК ВОКАЛ]",
     "artist": "МАТВІЄНКО НІНА"
   },
   {
@@ -5408,11 +8920,15 @@ const data = [
     "artist": "МАТВІЄНКО ТОНЯ"
   },
   {
-    "title": "СІК ЗЕМЛІ.avi",
+    "title": "КУЛЬБАБИ [БЕК ВОКАЛ]",
     "artist": "МАТВІЄНКО ТОНЯ"
   },
   {
-    "title": "НЕ ПИЙ КОЗАЧЕ",
+    "title": "СІК ЗЕМЛІ",
+    "artist": "МАТВІЄНКО ТОНЯ"
+  },
+  {
+    "title": "НЕ ПИЙ КОЗАЧЕ [БЕК ВОКАЛ]",
     "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
@@ -5424,12 +8940,76 @@ const data = [
     "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
-    "title": "ЧЕРЕМХА ЧЕРЕМШИНА",
+    "title": "ЧЕРЕМХА ЧЕРЕМШИНА [БЕК ВОКАЛ]",
     "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
     "title": "КАЖУТЬ ВСЕ МИНЕ",
     "artist": "МЕЛАДЗЕ КОНСТАНТИН"
+  },
+  {
+    "title": "ВЕССIЛЛЯ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ГОЙРА ВІСІЛЄ",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ГОЙРА ВІСІЛЄ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ГОЛОСУЙ НЕ ГОЛОСУЙ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "НЕ ХОЧУ В АРМIЮ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ОКСАНА & SUZANNA [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ПРО ВІДПОЧИНОК",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "РИБАЛКА МОЛОДИЙ",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "РИБАЛКА МОЛОДИЙ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "СЕКС БОМБ",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "УКРАЇНСЬКІ ПОПУРІ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ФАЙ ДУЛІ ФАЙ [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ХУЛІГАН [БЕК ВОКАЛ]",
+    "artist": "МЕЛЬНИКОВИЧ ВАСИЛЬ"
+  },
+  {
+    "title": "ВОНА [БЕК ВОКАЛ]",
+    "artist": "МЕХ АРТЕМ"
+  },
+  {
+    "title": "САМЕ ТА [БЕК ВОКАЛ]",
+    "artist": "МЕХ АРТЕМ"
+  },
+  {
+    "title": "ХАЛЕПА [БЕК ВОКАЛ]",
+    "artist": "МЕХ АРТЕМ"
   },
   {
     "title": "БРАТ",
@@ -5460,19 +9040,43 @@ const data = [
     "artist": "МИЯ (МІЯ)"
   },
   {
-    "title": "ВІННІ-ПУХ",
+    "title": "ЗАГУБИЛА [БЕК ВОКАЛ]",
+    "artist": "МІЛА НІТІЧ"
+  },
+  {
+    "title": "ПРОСТО КОХАЙ [БЕК ВОКАЛ]",
+    "artist": "МІЛА НІТІЧ"
+  },
+  {
+    "title": "УКРАЇНСЬКЕ ПОПУРІ",
+    "artist": "МІЛА НІТІЧ"
+  },
+  {
+    "title": "ЦЕ НЕ ЛЮБОВ",
+    "artist": "МІЛА НІТІЧ"
+  },
+  {
+    "title": "ЧАРIВНА СКРИПКА",
+    "artist": "МІЛА НІТІЧ"
+  },
+  {
+    "title": "ВІННІ ПУХ [БЕК ВОКАЛ]",
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
-    "title": "ДЖЕРАЛЬДІНА",
+    "title": "ВІННІ-ПУХ [БЕК ВОКАЛ]",
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
-    "title": "ІДІОТИ",
+    "title": "ІДІОТИ [БЕК ВОКАЛ]",
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
-    "title": "КАПРОНОВІ БАНТИ",
+    "title": "ІНШІ ДВЕРІ",
+    "artist": "МІРЗОЯН АРСЕН"
+  },
+  {
+    "title": "КАПРОНОВІ БАНТИ [БЕК ВОКАЛ]",
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
@@ -5480,7 +9084,11 @@ const data = [
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
-    "title": "МОЖЕШ ЯК (-)·.kfn",
+    "title": "МАНІКЮР",
+    "artist": "МІРЗОЯН АРСЕН"
+  },
+  {
+    "title": "МОЖЕШ ЯК [БЕК ВОКАЛ]",
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
@@ -5492,7 +9100,19 @@ const data = [
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
-    "title": "ПАПЕРОВИЙ СНІГ",
+    "title": "НЕВЧАСНО",
+    "artist": "МІРЗОЯН АРСЕН"
+  },
+  {
+    "title": "НІЧ",
+    "artist": "МІРЗОЯН АРСЕН"
+  },
+  {
+    "title": "ПАПЕРОВИЙ СНIГ [БЕК ВОКАЛ]",
+    "artist": "МІРЗОЯН АРСЕН"
+  },
+  {
+    "title": "ПАПЕРОВИЙ СНІГ [БЕК ВОКАЛ]",
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
@@ -5504,8 +9124,12 @@ const data = [
     "artist": "МІРЗОЯН АРСЕН"
   },
   {
-    "title": "НЕ ДИВИСЬ НА МЕНЕ.avi",
-    "artist": "МІЯ РАМАРІ"
+    "title": "МЕНI КАЗАЛИ",
+    "artist": "МОГИЛЕВСЬКА НАТАЛIЯ"
+  },
+  {
+    "title": "Я ТАНЦЮВАЛА",
+    "artist": "МОГИЛЕВСЬКА НАТАЛIЯ"
   },
   {
     "title": "ВІДІРВАТИСЬ ВІД ЗЕМЛІ",
@@ -5516,15 +9140,23 @@ const data = [
     "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
+    "title": "ВІДПРАВИЛА MESSAGE [БЕК ВОКАЛ]",
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
+  },
+  {
     "title": "ВІЛЬНИЙ ПТАХ",
     "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
-    "title": "ВІН НЕ СКАЗАВ НІ СЛОВА (VID)·.kfn",
+    "title": "ВІН НЕ СКАЗАВ НІ СЛОВА [БЕК ВОКАЛ]",
     "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ЛЮБИЛА",
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "МЕНІ КАЗАЛИ",
     "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
@@ -5533,6 +9165,10 @@ const data = [
   },
   {
     "title": "МІСЯЦЬ",
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
+  },
+  {
+    "title": "МІСЯЦЬ [БЕК ВОКАЛ]",
     "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
@@ -5552,7 +9188,43 @@ const data = [
     "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
-    "title": "МЕНІ НЕ СПИТЬСЯ НИНІ ОПІВНОЧІ (+,-).kfn",
+    "title": "ТИ МЕНІ НЕ ДАЄШ",
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ & СКРЯБІН"
+  },
+  {
+    "title": "АХ МАРІЧКА",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "БОЖЕ ЯК Я ТЕБЕ ЛЮБЛЮ",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "ВЕРБОНЬКО",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "ГУЦУЛКА КОХАНА",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "ГУЦУЛКА",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "МАРІЧКА [БЕК ВОКАЛ]",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "МЕНІ НЕ СПИТЬСЯ НИНІ ОПІВНОЧІ",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "ПОДОЛЯНОЧКА [БЕК ВОКАЛ]",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "РОЗКАЖИ ЦИГАНКО [БЕК ВОКАЛ]",
     "artist": "МОДА МИХАЙЛО"
   },
   {
@@ -5560,31 +9232,63 @@ const data = [
     "artist": "МОДА МИХАЙЛО"
   },
   {
-    "title": "ЧЕРЕШЕНЬКА (+.-).kfn",
+    "title": "У СИНІМ МОРІ",
     "artist": "МОДА МИХАЙЛО"
   },
   {
-    "title": "КРАЙ, МІЙ РІДНИЙ КРАЙ",
+    "title": "ЧЕРЕШЕНЬКА",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "ЯК ПОЇХАВ МОЛДАВАН",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "ЯСКРАВА ЗІРКА",
+    "artist": "МОДА МИХАЙЛО"
+  },
+  {
+    "title": "БІДА НЕ ВТІМ [БЕК ВОКАЛ]",
     "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
-    "title": "МАТЕРИНСЬКА ЛЮБОВ (-).kfn",
+    "title": "ЗАЧАРОВАНI СЛОВА",
     "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
-    "title": "МИНАЄ ДЕНЬ (КЛІП).kfn",
+    "title": "ЗНОВ Я У ГОРИ ІДУ",
     "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
-    "title": "МИНАЄ ДЕНЬ (КЛІП)·.kfn",
+    "title": "КРАЙ, МІЙ РІДНИЙ КРАЙ [БЕК ВОКАЛ]",
     "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
-    "title": "МИНАЄ ДЕНЬ.kfn",
+    "title": "КРАЙ",
     "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
-    "title": "ВОСЬМИМ КОЛЬОРОМ",
+    "title": "МАТЕРИНСЬКА ЛЮБОВ",
+    "artist": "МОЗГОВИЙ МИКОЛА"
+  },
+  {
+    "title": "МИНАЄ ДЕНЬ",
+    "artist": "МОЗГОВИЙ МИКОЛА"
+  },
+  {
+    "title": "МИНАЄ ДЕНЬ [БЕК ВОКАЛ]",
+    "artist": "МОЗГОВИЙ МИКОЛА"
+  },
+  {
+    "title": "ПРУТ РIКА",
+    "artist": "МОЗГОВИЙ МИКОЛА"
+  },
+  {
+    "title": "ВОСЬМИМ КОЛЬОРОМ [БЕК ВОКАЛ]",
+    "artist": "МОТОРРОЛЛА"
+  },
+  {
+    "title": "КАРТИНА [БЕК ВОКАЛ]",
     "artist": "МОТОРРОЛЛА"
   },
   {
@@ -5592,19 +9296,27 @@ const data = [
     "artist": "МОТОРРОЛЛА"
   },
   {
-    "title": "ЦЕЙ СОН",
+    "title": "ЦЕЙ СОН [-,+,VID]",
     "artist": "МУЗИЧЕНЬКИ"
   },
   {
-    "title": "ВОВА ЇБАШ ЇХ",
+    "title": "ВОВА ЇБАШ ЇХ [БЕК ВОКАЛ]",
     "artist": "МЮСЛІ UA"
   },
   {
-    "title": "А В УКРАЇНІ.avi",
+    "title": "А В УКРАЇНІ",
     "artist": "М'ЯТА"
   },
   {
-    "title": "ЦЕЙ СОН",
+    "title": "П'ЯНА ВИШНЯ",
+    "artist": "М'ЯТА (MYATA)"
+  },
+  {
+    "title": "ЩАСЛИВА [БЕК ВОКАЛ]",
+    "artist": "М'ЯТА (MYATA)"
+  },
+  {
+    "title": "ЦЕЙ СОН [БЕК ВОКАЛ]",
     "artist": "НIКIТЮК ЛЕСЯ, ГІГА СТЕПАН"
   },
   {
@@ -5612,7 +9324,35 @@ const data = [
     "artist": "НА ВСІ 100"
   },
   {
-    "title": "ВОЛИНЬ МОЯ",
+    "title": "ВЕСІЛЛЯ У ПІЩАНЦI [БЕК ВОКАЛ]",
+    "artist": "НА ГУЛЯНЦІ У ПІЩАНЦІ"
+  },
+  {
+    "title": "ВІЧНИЙ ТУРИСТ [БЕК ВОКАЛ]",
+    "artist": "НА ГУЛЯНЦІ У ПІЩАНЦІ"
+  },
+  {
+    "title": "ГОРІЛКУ П'Ю [БЕК ВОКАЛ]",
+    "artist": "НА ГУЛЯНЦІ У ПІЩАНЦІ"
+  },
+  {
+    "title": "ПІДМАНУЛА [БЕК ВОКАЛ]",
+    "artist": "НА ГУЛЯНЦІ У ПІЩАНЦІ"
+  },
+  {
+    "title": "ЦИГАНСЬКА [БЕК ВОКАЛ]",
+    "artist": "НА ГУЛЯНЦІ У ПІЩАНЦІ"
+  },
+  {
+    "title": "ЧАСТУШКИ",
+    "artist": "НА ГУЛЯНЦІ У ПІЩАНЦІ"
+  },
+  {
+    "title": "Я ТОБІ ВІРИВ",
+    "artist": "НАГИРНЯК ВАСЯ"
+  },
+  {
+    "title": "ВОЛИНЬ МОЯ [БЕК ВОКАЛ]",
     "artist": "НАГРАШ BAND"
   },
   {
@@ -5620,7 +9360,7 @@ const data = [
     "artist": "НАГРАШ BAND"
   },
   {
-    "title": "ЗА СВОЮ КРАЇНУ",
+    "title": "ЗА СВОЮ КРАЇНУ [БЕК ВОКАЛ]",
     "artist": "НАГРАШ BAND"
   },
   {
@@ -5628,7 +9368,11 @@ const data = [
     "artist": "НАГРАШ BAND"
   },
   {
-    "title": "КОХАЮ Я ТЕБЕ",
+    "title": "КОХАЮ Я ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "НАГРАШ BAND"
+  },
+  {
+    "title": "ОБІЙМИ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "НАГРАШ BAND"
   },
   {
@@ -5652,7 +9396,7 @@ const data = [
     "artist": "НАГРАШ BAND"
   },
   {
-    "title": "ОЛЯ",
+    "title": "ОЛЯ [БЕК ВОКАЛ]",
     "artist": "НАГРАШ BAND"
   },
   {
@@ -5660,7 +9404,7 @@ const data = [
     "artist": "НАГРАШ BAND"
   },
   {
-    "title": "ПОМОЛИСЬ МОЄ СЕРДЕНЬКО",
+    "title": "ПОМОЛИСЬ МОЄ СЕРДЕНЬКО [БЕК ВОКАЛ]",
     "artist": "НАГРАШ BAND"
   },
   {
@@ -5676,15 +9420,59 @@ const data = [
     "artist": "НАГРАШ BAND"
   },
   {
-    "title": "ВРЕДНА.avi",
+    "title": "ВОЛОШКИ СИНІ",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "ЗНАЙ КОХАНА ЗНАЙ",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "КАЛИНОНЬКА КАЛИНА",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "МАК ЧЕРВОНИЙ",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "НА ВЕСІЛЛІ",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "ОЙ ВЕСЕЛА Ж ЦЯ НЕДІЛЯ",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "ТАМ ШУМИТЬ ВЕСІЛЛЯ",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "ТЕЩА",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "ТИ МОЄ СОНЕЧКО",
+    "artist": "НАДЗБРУЧАНИ"
+  },
+  {
+    "title": "ВРЕДНА",
     "artist": "НАЙДА ІЛЛЯ"
   },
   {
-    "title": "ЗА ТЕБЕ ВСЕ ВІДДАМ.avi",
+    "title": "ЖАЛЬ НЕ ЗНАЛА ВОНА",
     "artist": "НАЙДА ІЛЛЯ"
   },
   {
-    "title": "ЗОЛОТАВА ОСІНЬ.avi",
+    "title": "ЗА ТЕБЕ ВСЕ ВІДДАМ",
+    "artist": "НАЙДА ІЛЛЯ"
+  },
+  {
+    "title": "ЗОЛОТАВА ОСІНЬ",
+    "artist": "НАЙДА ІЛЛЯ"
+  },
+  {
+    "title": "МАРІЧКА",
     "artist": "НАЙДА ІЛЛЯ"
   },
   {
@@ -5704,43 +9492,363 @@ const data = [
     "artist": "НАЙДА ІЛЛЯ"
   },
   {
+    "title": "ЧИ ЦЕ МАМО ВІТЕР",
+    "artist": "НАЙДА ІЛЛЯ"
+  },
+  {
+    "title": "Я ВЖЕ НЕ ТОЙ",
+    "artist": "НАЙДА ІЛЛЯ"
+  },
+  {
     "title": "Я НЕ ЗАЛИШУ ТЕБЕ",
     "artist": "НАЙДА ІЛЛЯ"
   },
   {
-    "title": "ЗАБУВАЙ.avi",
+    "title": "ОЙ У ЛУЗI ЧЕРВОНА КАЛИНА (СТРIЛЕЦЬКА)",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "JINGLE BELLS [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "БIЛИЙ ЛЕБIДЬ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "В САДУ ГУЛЯЛА",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "В САДУ ГУЛЯЛА [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ГIМН УКРАЇНИ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ГЕЙ НАЛИВАЙТЕ ПОВНIЇ ЧАРИ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ЗЕЛЕНЕЄ ЖИТО ЗЕЛЕНЕ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ІВАНКУ ІВАНКУ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ЇХАВ КОЗАК",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ЇХАЛИ КОЗАКИ IЗ ДОНУ ДОДОМУ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "КАРIЇ ОЧI ЧОРНIЇ БРОВИ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "МIСЯЦЬ НА НЕБI",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "МАВ Я РАЗ ДIВЧИНОНЬКУ ЧЕПУРНЕНЬКУ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "МУЗИКА РІДНОГО ДОМУ [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "НIЧ ЯКА МIСЯЧНА",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "НЕСЕ ГАЛЯ ВОДУ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОД КИЄВА ДО ЛУБЕН",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ БIДА ЩО ГОРIЛКА НЕ ВОДА",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ ЛЕТIЛИ ДИКI ГУСИ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ НА ГОРI ДВА ДУБКИ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ НА ГОРІ БІЛИЙ КАМІНЬ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ НА ГОРІ ТАЙ ЖЕНЦІ ЖНУТЬ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ СМЕРЕКО [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ ТИ ГАЛЮ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ У ВИШНЕВОМУ САДОЧКУ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ У ВИШНЕВОМУ САДУ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ У ЛУЗI ЧЕРВОНА КАЛИНА (АКУСТИЧНА ГІТАРА)",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ У ЛУЗI ЧЕРВОНА КАЛИНА (СТРIЛЕЦЬКА) [FAST]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ОЙ ЧИЙ ТО КИНЬ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ПРИ ДОЛИНІ КУЩ КАЛИНИ [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ПРИЙДІТЬ ХЛОПЦІ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "РОЗПРЯГАЙТЕ ХЛОПЦЫ КОНЕЙ",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "РУШНИК",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ТИ Ж МЕНЕ ПIДМАНУЛА",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ЧЕРЕМШИНА (RMX) [БЕК ВОКАЛ]",
+    "artist": "НАРОДНІ"
+  },
+  {
+    "title": "ВОГОНЬ [БЕК ВОКАЛ]",
+    "artist": "НАТА ЛІ & ЗАЛІСКО"
+  },
+  {
+    "title": "А КАЛИНА НЕ ВЕРБА",
+    "artist": "НАТАЛКА КАРПА"
+  },
+  {
+    "title": "НА ІВАНА НА КУПАЛА",
+    "artist": "НЕ СУМУЙ"
+  },
+  {
+    "title": "НЕ СУМУЙ",
+    "artist": "НЕ СУМУЙ"
+  },
+  {
+    "title": "НЕЗНАЙОМКА",
+    "artist": "НЕ СУМУЙ"
+  },
+  {
+    "title": "ТИ ВИГЛЯДАЄШ",
+    "artist": "НЕ СУМУЙ"
+  },
+  {
+    "title": "БЕЗМЕЖНИЙ СВІТ",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ЗА НЕБОМ [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ЗНОВУ САМА [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "КАЗКА ДЛЯ ДОРОСЛИХ [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "НОВОРІЧНА [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "СЕНТ ЕКЗЮПЕРІ",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ТIЛЬКИ ДОЩ [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ТИ ЗНОВУ САМА [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ТІЛЬКИ ДОЩ [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ТРА ТА ТА ТА [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ТРАТА ТАТА [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ТРОХИ ТЕПЛИХ СЛІВ [БЕК ВОКАЛ]",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ФОРМУЛА КОХАННЯ ГРАФА КАЛІОСТРО",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ЧОЛОВІК І ЖІНКА",
+    "artist": "НЕДІЛЯ"
+  },
+  {
+    "title": "ДІМ МІЙ ТАМ ДЕ ТИ",
+    "artist": "НЕКА ОЛЬГА"
+  },
+  {
+    "title": "ЦВІТЕ ТЕРЕН [БЕК ВОКАЛ]",
+    "artist": "НЕКСІ"
+  },
+  {
+    "title": "ЗАБУВАЙ",
     "artist": "НЕПЛЯХ ГАННА"
+  },
+  {
+    "title": "KISS ME [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "АСЬКАМИ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "БОЖЕВОЛІТИ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "БУДУ ТЕБЕ ЧЕКАТИ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "ВІДЧУЮ ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "МИ БУЛИ НА ВОЛІ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "ОЧІ ТВОЇ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "ПОЛУМ'ЯМ [БЕК ВОКАЛ]",
+    "artist": "НЕРОЗГАДАНІ"
+  },
+  {
+    "title": "НАМРІЯНЕ КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "НЕТЛЮХ ІГОР"
+  },
+  {
+    "title": "НОВОРІЧНА НІЧ",
+    "artist": "НЕТЛЮХ ІГОР"
+  },
+  {
+    "title": "ОСТАННЯ НІЧ [БЕК ВОКАЛ]",
+    "artist": "НЕТЛЮХ ІГОР"
+  },
+  {
+    "title": "ПОЇДУ Я НАЗАВЖДИ",
+    "artist": "НЕТЛЮХ ІГОР"
+  },
+  {
+    "title": "ФОТОАЛЬБОМ [БЕК ВОКАЛ]",
+    "artist": "НЕТЛЮХ ІГОР"
+  },
+  {
+    "title": "НАМРІЯНЕ КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "НЕТЛЮХ ІГОР & СКIРЯК ОКСАНА"
+  },
+  {
+    "title": "LAST CHRISTMAS [БЕК ВОКАЛ]",
+    "artist": "НИКОЛАЙЧУК ЮРІЙ"
   },
   {
     "title": "РУССКИЙ КОРАБЛЬ",
     "artist": "НІКІТЮК ЛЕСЯ"
   },
   {
-    "title": "ЦЕЙ СОН",
+    "title": "ЦЕЙ СОН [БЕК ВОКАЛ]",
     "artist": "НІКІТЮК ЛЕСЯ"
   },
   {
-    "title": "КЛЯНУСЬ.avi",
+    "title": "КЛЯНУСЬ",
     "artist": "НІКОЛАС КАРМА & DJ PAVARO"
   },
   {
-    "title": "ЗАГУБИЛА (-,+)·.kfn",
+    "title": "ЗАГУБИЛА [БЕК ВОКАЛ]",
     "artist": "НІТІЧ МІЛА"
   },
   {
-    "title": "ЦЕ НЕ ЛЮБОВ (-,МАСТЕР).kfn",
+    "title": "ЦЕ НЕ ЛЮБОВ",
     "artist": "НІТІЧ МІЛА"
   },
   {
-    "title": "КИЄВЕ МIЙ·.kfn",
+    "title": "ВСТАВАЙ СОНЦЕ [БЕК ВОКАЛ]",
+    "artist": "НІЧЛАВА & ТАРТАК"
+  },
+  {
+    "title": "ІДЕАЛЬНА ПОЛОВИНА",
+    "artist": "НОТА"
+  },
+  {
+    "title": "ДОБРИЙ РАНОК УКРАЇНО",
+    "artist": "НУМЕР 482"
+  },
+  {
+    "title": "КИЄВЕ МIЙ [БЕК ВОКАЛ]",
     "artist": "ОВСИЕНКО ТАТЬЯНА"
   },
   {
-    "title": "КИЄВЕ МIЙ",
+    "title": "КИЄВЕ МIЙ [БЕК ВОКАЛ]",
     "artist": "ОВСІЄНКО ТЕТЯНА"
   },
   {
     "title": "GRAVITY",
+    "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
+    "title": "GRAVITY [БЕК ВОКАЛ]",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
@@ -5752,15 +9860,19 @@ const data = [
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
+    "title": "ВСЕ НЕВИПАДКОВО [БЕК ВОКАЛ]",
+    "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
     "title": "ЗА ЛIТОМ, ЗА ВЕСНОЮ",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "ЗА ЛІСАМИ ГОРАМИ (-)·.kfn",
+    "title": "ЗА ЛІСАМИ ГОРАМИ [БЕК ВОКАЛ]",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "ЗА ЛІСАМИ ГОРАМИ",
+    "title": "ЗАПАЛИ ВОГОНЬ [БЕК ВОКАЛ]",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
@@ -5768,20 +9880,40 @@ const data = [
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "МОЯ МЕЛОДIЯ (+,-)·.kfn",
+    "title": "ЗОЗУЛЯ [БЕК ВОКАЛ]",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "ПРИСТРАСТЬ (-,+,КЛІП)·.kfn",
+    "title": "КУКУШКА",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "ПРИСТРАСТЬ (-,КЛІП).kfn",
+    "title": "КУКУШКА [БЕК ВОКАЛ]",
     "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "ЧЕКАЙ.avi",
+    "title": "МОЯ МЕЛОДIЯ [БЕК ВОКАЛ]",
     "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
+    "title": "МОЯ МЕЛОДІЯ [БЕК ВОКАЛ]",
+    "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
+    "title": "ПРИСТРАСТЬ [БЕК ВОКАЛ]",
+    "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
+    "title": "ПРИСТРАСТЬ",
+    "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
+    "title": "ЧЕКАЙ",
+    "artist": "ОГНЕВИЧ ЗЛАТА"
+  },
+  {
+    "title": "МАЛЕНЬКИЙ ХЛОПЧИК",
+    "artist": "ОДИН В КАНОЕ"
   },
   {
     "title": "НЕБО",
@@ -5789,6 +9921,10 @@ const data = [
   },
   {
     "title": "ОДИН В ПОЛI ВОЇН",
+    "artist": "ОДИН В КАНОЕ"
+  },
+  {
+    "title": "ПООБIЦЯЙ МЕНI",
     "artist": "ОДИН В КАНОЕ"
   },
   {
@@ -5800,11 +9936,11 @@ const data = [
     "artist": "ОДИН В КАНОЕ"
   },
   {
-    "title": "А БЕЗ ТЕБЕ.avi",
+    "title": "А БЕЗ ТЕБЕ",
     "artist": "ОДИН ДВА РАЗ"
   },
   {
-    "title": "ПООБIЦЯЙ МЕНI.avi",
+    "title": "ПООБIЦЯЙ МЕНI",
     "artist": "ОДИН У КАНОЄ"
   },
   {
@@ -5812,7 +9948,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "911 (КЛІП).kfn",
+    "title": "911",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "911 [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5820,11 +9960,27 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "ISN T IT СОН",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "ISN'T IT CОН",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "RENDEZ VOUS",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "АДРЕНАЛІН",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "БЕЗ БОЮ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "БЕЗ БОЮ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5840,7 +9996,7 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "БІЛЬШОГО ВИМАГАЙ",
+    "title": "БІЛЬШОГО ВИМАГАЙ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5848,11 +10004,15 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "БОДЕГІТА [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "В НЕБО ЖЕНЕ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ВIДПУСТИ (-,+,КЛІП)·.kfn",
+    "title": "ВIДПУСТИ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5864,7 +10024,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ВИЩЕ НЕБА (-,+,КЛІП).kfn",
+    "title": "ВИЩЕ НЕБА",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ВІДДАМ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5876,7 +10040,15 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "ВІДПУСТИ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "ВІЛЬНИЙ БО ЖИВИЙ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ВСЕ БУДЕ ДОБРЕ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5884,7 +10056,7 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ВСТАВАЙ (+,-)·.kfn",
+    "title": "ВСТАВАЙ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5900,15 +10072,15 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ДЖУЛЬЄТТА (-,+).kfn",
-    "artist": "ОКЕАН ЕЛЬЗИ"
-  },
-  {
     "title": "ДЖУЛЬЄТТА",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ДІВЧИНА ІЗ ІНШОГО ЖИТТЯ (-).kfn",
+    "title": "ДЖУЛЬЄТТА [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ДІВЧИНА ІЗ ІНШОГО ЖИТТЯ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5916,11 +10088,7 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ДРУГ (VID)·.kfn",
-    "artist": "ОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "ДРУГ (КЛІП)·.kfn",
+    "title": "ДРУГ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5936,11 +10104,35 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "ЕТЮД",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "ЖИТТЯ ПОЧИНАЄТЬСЯ ЗНОВ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "ЗЕЛЕНІ ОЧІ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "І Я НА НЕБІ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "КАВАЧАЙ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "КВIТКА",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "КВІТИ МІННИХ ЗОН",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "КВІТКА [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5952,7 +10144,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "КОКО ШАНЕЛЬ.kfn",
+    "title": "КІШКА [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "КОКО ШАНЕЛЬ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5960,11 +10156,19 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "КОЛИ ТОБІ ВАЖКО",
+    "title": "КОЛИ ТОБІ ВАЖКО [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "МАЙЖЕ ВЕСНА (+,-,VID).kfn",
+    "title": "КОЛИСКА ВІТРУ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "МАЙЖЕ ВЕСНА",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "МЕНЕ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5980,11 +10184,19 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "НА ЛIНII ВОГНЮ (-,+,VID)·.kfn",
+    "title": "МУКАЧЕВО",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "НА ЛIНIЇ ВОГНЮ",
+    "title": "НА ЛIНII ВОГНЮ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "НА ЛIНIЇ ВОГНЮ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "НА ЛІНІЇ ВОГНЮ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -5993,6 +10205,10 @@ const data = [
   },
   {
     "title": "НАДЯ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "НАДЯ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6008,7 +10224,7 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "НЕ ТВОЯ ВІЙНА (ГІЛЛЯ КАЛИН ПОХИЛИЛОСЯ) (VID)·.kfn",
+    "title": "НЕ ТВОЯ ВІЙНА (ГІЛЛЯ КАЛИН ПОХИЛИЛОСЯ) [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6028,6 +10244,14 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "НИКОЛИ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "НІКОЛИ [-,+,VID]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "НІКОЛИ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
@@ -6044,7 +10268,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ОБІЙМИ МЕНЕ",
+    "title": "ОБІЙМИ МЕНЕ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ОБІЙМИ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6052,7 +10280,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ПОЗИЧ МЕНІ СОНЦЕ",
+    "title": "ПЕРША ПІСНЯ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ПОЗИЧ МЕНІ СОНЦЕ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6064,7 +10296,19 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "ПРОСТО МЕНI ТАК ХОЧЕТЬСЯ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "РАНДЕВУ (RENDEZ-VOUS)",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "РАНДЕВУ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "СКІЛЬКИ НАС",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6073,6 +10317,14 @@ const data = [
   },
   {
     "title": "СОСНИ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "СОСНИ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "СОСНЫ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6088,7 +10340,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "СЬЮЗИ.kfn",
+    "title": "СЬЮЗИ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "СЮЗИ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6100,7 +10356,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ТИ СОБI САМА (VID).kfn",
+    "title": "ТАМ ДЕ НАС НЕМА [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ТИ СОБI САМА",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6108,15 +10368,15 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ТОЙ ДЕНЬ (VID).kfn",
-    "artist": "ОКЕАН ЕЛЬЗИ"
-  },
-  {
     "title": "ТОЙ ДЕНЬ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "ХОЛОДНО (PIANO).kfn",
+    "title": "ТРИМАЙ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ХОЛОДНО (PIANO)",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6124,7 +10384,31 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
+    "title": "ХОЛОДНО [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ХОЧУ НАПИТИСЬ ТОБОЮ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ЦЕ ЗІ МНОЮ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ЦЕ ЗІ МНОЮ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ЧАЙКА",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
     "title": "ЧОВЕН",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "Я ДО ТЕБЕ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6132,7 +10416,19 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
-    "title": "Я ТАК ХОЧУ ДО ТЕБЕ (+,-).kfn",
+    "title": "Я ТАК ХОЧУ ДО ТЕБЕ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "Я ТАК ХОЧУ ДО ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "Я ТАК ХОЧУ",
+    "artist": "ОКЕАН ЕЛЬЗИ"
+  },
+  {
+    "title": "ЯК НІКОЛИ",
     "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
@@ -6140,7 +10436,11 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ & KOLA"
   },
   {
-    "title": "ЦЕ ЗІ МНОЮ (+,-,VID)·.kfn",
+    "title": "ЦЕ ЗІ МНОЮ [БЕК ВОКАЛ]",
+    "artist": "ОКЕАН ЕЛЬЗИ & БУМБОКС"
+  },
+  {
+    "title": "ЦЕ ЗІ МНОЮ [БЕК ВОКАЛ]",
     "artist": "ОКЕАН ЕЛЬЗИ, БУМБОКС"
   },
   {
@@ -6152,59 +10452,107 @@ const data = [
     "artist": "ОКЕАН ЕЛЬЗИ, ОДИН В КАНОЕ"
   },
   {
-    "title": "З'ЄДНАЙМОСЯ У ВІРІ УКРАЇНЦІ",
-    "artist": "ОКІЛКО ВОЛОДИМИР"
+    "title": "МІСТО ВЕСНИ",
+    "artist": "ОКЕАН ЕЛЬЗИ, ОДИН В КАНОЕ"
   },
   {
-    "title": "ЇДЬ В ГЛИВАХУ (LONG)·.kfn",
+    "title": "ЇДЬ В ГЛИВАХУ (LONG) [БЕК ВОКАЛ]",
     "artist": "ОРКЕСТР ГАРНОГО НАСТРОЮ"
   },
   {
-    "title": "ЇДЬ В ГЛИВАХУ.kfn",
+    "title": "ЇДЬ В ГЛИВАХУ",
     "artist": "ОРКЕСТР ГАРНОГО НАСТРОЮ"
+  },
+  {
+    "title": "ЗАЧЕКАЙ [БЕК ВОКАЛ]",
+    "artist": "ОЧІ В ОЧІ"
+  },
+  {
+    "title": "НЕ ТВОЯ [БЕК ВОКАЛ]",
+    "artist": "ОЧІ В ОЧІ"
+  },
+  {
+    "title": "Я ТЕБЕ ЗНАЙДУ",
+    "artist": "ОЧІ В ОЧІ"
+  },
+  {
+    "title": "Я ТЕБЕ ЗНАЙДУ [БЕК ВОКАЛ]",
+    "artist": "ОЧІ В ОЧІ"
   },
   {
     "title": "АФІНИ КИЇВ І СТАМБУЛ",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "БIЛI ЧЕРЕМХИ 1",
+    "title": "АФІНИ, КИЇВ І СТАМБУЛ",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "БIЛI ЧЕРЕМХИ 2",
+    "title": "БIЛI ЧЕРЕМУХИ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "БIЛА ХМАРА",
+    "title": "БIЛI ЧЕРЕМХИ 1 [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "БДЖОЛИ (ЗОЛОТІ КРИЛЕЧКА)",
+    "title": "БIЛI ЧЕРЕМХИ 2 [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ВЕCIЛЛЯ В КАРПАТАХ",
+    "title": "БIЛI ЧЕРЕМХИ",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ВЕСІЛЛЯ У КАРПАТАХ",
+    "title": "БIЛI ЧЕРЕМХИ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ВЕСНА",
+    "title": "БIЛА ХМАРА [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ВІДЛІТАЄШ (КЛІП)·.kfn",
+    "title": "БДЖОЛИ (ЗОЛОТІ КРИЛЕЧКА) [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ВІДЛІТАЄШ",
+    "title": "БДЖОЛИ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ВОДОГРАЙ",
+    "title": "БІЛА ХМАРА [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "БУДЬ ЩО БУДЕ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВЕCIЛЛЯ В КАРПАТАХ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВЕСIЛЛЯ В КАРПАТАХ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВЕСIЛЛЯ В КАРПАТАХ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВЕСІЛЛЯ У КАРПАТАХ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВЕСНА [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВІДЛІТАЄШ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ВОДОГРАЙ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
@@ -6212,51 +10560,115 @@ const data = [
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ЗНАЮ (-,+,ОР)·.kfn",
+    "title": "ВСЕ МИНУЛО",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ЗНАЮ",
+    "title": "ГРIШНА I ЗЕМНА",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ЗОЛОТІ КРИЛЕЧКА (БДЖОЛИ) (-)·.kfn",
+    "title": "ГРIШНА I ЗЕМНА [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "КАШТАНОВИЙ ВАЛЬС (-,+,ОР).kfn",
+    "title": "ДIВЧИНА ОЛЕЧКА [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "КЛИЧУ ТЕБЕ (-,+,ОР)·.kfn",
+    "title": "ДIВЧИНА СОНЦЕ",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "КЛИЧУ ТЕБЕ",
+    "title": "ДИВО [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "КОХАЙТЕ ЖІНКУ (-).kfn",
+    "title": "ДІВЧИНА ОЛЕЧКА [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ЛЕЙЛА (-,+,ОР)·.kfn",
+    "title": "ЗА НАШОВ СТОДОЛОВ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ЛЕЙЛА",
+    "title": "ЗАЛИШИСЬ НА МИТЬ",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "МУЗИКА КОХАННЯ",
+    "title": "ЗНАЙДИ МЕНЕ",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "НАРЕЧЕНА (-)·.kfn",
+    "title": "ЗНАЙДИ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "НЕМА З КИМ (+,-).kfn",
+    "title": "ЗНАЮ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ЗОЛОТІ КРИЛЕЧКА (БДЖОЛИ) [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "КАШТАНОВИЙ ВАЛЬС",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "КВІТИ ДЛЯ ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "КЛИЧУ ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "КОХАЙТЕ ЖІНКУ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ЛЕЙЛА [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ЛОРА ЛАРИСА",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "МУЗИКА КОХАННЯ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НI ОБIЦЯНОК НI ПРОБАЧЕНЬ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НАРЕЧЕНА [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НЕДОПИСАНА КНИГА [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НЕМА З КИМ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НЕМА З КИМ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НЕРОЗГАДАНА АМЕРИКА",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НІ ОБІЦЯНОК НІ ПРОБАЧЕНЬ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "НІ ОБІЦЯНОК,НІ ПРОБАЧЕНЬ [NEW АРАНЖ,VID]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
@@ -6268,7 +10680,27 @@ const data = [
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ",
+    "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ПАМ'ЯТАЙ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ПОРIЗАЛА ПАЛЬЧИК [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ПОРIЗАЛИ ПАЛЬЧИК [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "РОЗБЕЩЕНИЙ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "СКАЖИ НАВIЩО ТИ ПРИЙШЛА",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
@@ -6276,19 +10708,35 @@ const data = [
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ТАК НЕ БУВАЄ",
+    "title": "ТАК НЕ БУВАЄ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ТЕЩА ДАЙ",
+    "title": "ТВІЙ ГОЛОС [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ТИ ПОДОБАЄШСЯ МЕНІ (+,-,VID).kfn",
+    "title": "ТЕЩА ДАЙ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ТИ ПОДОБАЕШСЯ МЕНI [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ТИ ПОДОБАЄШСЯ МЕНІ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ТИ ПОДОБАЄШСЯ МЕНІ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ФАЙ ДУЛІ ФАЙ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ХВИЛI",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
@@ -6300,7 +10748,35 @@ const data = [
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ЯНА (+,-).kfn",
+    "title": "ЧОРНОБРИВЦІ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ЧОРНОБРИВЦІ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ШИКИДИМ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ШИКИДИМ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "Я ЗНАЮ ВСЕ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "Я ТЕБЕ КОХАЮ [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ЯК Я ХОЧУ БУТИ З ТОБОЮ",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ЯКЩО ЛЮБИШ КОХАЙ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
@@ -6308,19 +10784,31 @@ const data = [
     "artist": "ПАВЛІК ВІКТОР"
   },
   {
-    "title": "ФАЙ-ДУЛІ-ФАЙ (+,-)·.kfn",
+    "title": "ЯНА [БЕК ВОКАЛ]",
+    "artist": "ПАВЛІК ВІКТОР"
+  },
+  {
+    "title": "ГИЛЛЯ СІРІ ГУСИ",
+    "artist": "ПАВЛІК ВІКТОР & БІЛОЗІР"
+  },
+  {
+    "title": "ФАЙ-ДУЛІ-ФАЙ [БЕК ВОКАЛ]",
     "artist": "ПАВЛІК ВІКТОР, МЕЛЬНИКОВИЧ ВАСИЛЬ"
   },
   {
-    "title": "ДЕСЬ ПО СВІТУ (DESPACITO).kfn",
+    "title": "ДЕСЬ ПО СВІТУ (DESPACITO)",
     "artist": "ПАВЛО І МАРІЙКА"
+  },
+  {
+    "title": "ПРИГАДАЙ [БЕК ВОКАЛ]",
+    "artist": "ПАРА НОРМАЛЬНИХ"
   },
   {
     "title": "ВАСЯ OMG",
     "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
-    "title": "МАРIЧКА",
+    "title": "МАРIЧКА [БЕК ВОКАЛ]",
     "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
@@ -6328,23 +10816,27 @@ const data = [
     "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
-    "title": "МУЗИКО ГРАЙ (-).kfn",
+    "title": "МУЗИКО ГРАЙ",
     "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
-    "title": "МУЗИКО ГРАЙ",
-    "artist": "ПАЦИКИ З ФРАНЕКА"
+    "title": "ЗА ЛЮБОВ І ВОЛЮ [БЕК ВОКАЛ]",
+    "artist": "ПЕКУН ОКСАНА"
+  },
+  {
+    "title": "ЗЕЛЕН КЛЕН",
+    "artist": "ПЕКУН ОКСАНА"
   },
   {
     "title": "Я ТАКА ЩЕ МОЛОДА",
     "artist": "ПЕКУН ОКСАНА"
   },
   {
-    "title": "ЛІТО",
+    "title": "ЛІТО [БЕК ВОКАЛ]",
     "artist": "ПЕКУН ОКСАНА & НОВИЦЬКИЙ МАКСИМ"
   },
   {
-    "title": "УКРАЇНО",
+    "title": "УКРАЇНО [БЕК ВОКАЛ]",
     "artist": "ПЕТРИНЕНКО ТАРАС"
   },
   {
@@ -6356,7 +10848,11 @@ const data = [
     "artist": "ПИВОВАРОВ АРТЁМ"
   },
   {
-    "title": "ДЕЖАВЮ",
+    "title": "ДЕЖАВЮ [UA]",
+    "artist": "ПИВОВАРОВ АРТЕМ"
+  },
+  {
+    "title": "МАНІФЕСТ",
     "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
@@ -6364,11 +10860,11 @@ const data = [
     "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
-    "title": "ОЙ НА ГОРІ",
+    "title": "ОЙ НА ГОРІ [БЕК ВОКАЛ]",
     "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
-    "title": "ОЙ НА ГОРІ",
+    "title": "ОЙ НА ГОРІ [БЕК ВОКАЛ]",
     "artist": "ПИВОВАРОВ АРТЁМ"
   },
   {
@@ -6378,6 +10874,10 @@ const data = [
   {
     "title": "ХВИЛИНИ",
     "artist": "ПИВОВАРОВ АРТЕМ"
+  },
+  {
+    "title": "ТАК НІХТО НЕ КОХАВ",
+    "artist": "ПИВОВАРОВ АРТЕМ & BARSKIH MAX"
   },
   {
     "title": "ДУМИ",
@@ -6400,7 +10900,7 @@ const data = [
     "artist": "ПИВОВАРОВ АРТЕМ, QUEST PISTOLS"
   },
   {
-    "title": "ТАМ У ТОПОЛI",
+    "title": "ТАМ У ТОПОЛI [БЕК ВОКАЛ]",
     "artist": "ПИВОВАРОВ АРТЕМ, КАМЕНСЬКИХ НАСТЯ"
   },
   {
@@ -6408,15 +10908,91 @@ const data = [
     "artist": "ПИВОВАРОВ АРТЕМ, ОГНЕВИЧ ЗЛАТА"
   },
   {
-    "title": "ВИГАДАВ.avi",
+    "title": "ПЛИНЕ КАЧА",
+    "artist": "ПІККАРДІЙСЬКА ТЕРЦІЯ"
+  },
+  {
+    "title": "АЛЕ Ж Я ТЕБЕ ЛЮБИЛА",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "АЛЕ Ж Я ТЕБЕ ЛЮБИЛА [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ВІЧ НА ВІЧ",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ДЕНЬ І НІЧ [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ДУША",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ЗИМА ЧАРIВНА [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ЗОРЯНА [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "КЕЛИХ ДРУЖБИ",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "КОХАЙ",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "МАМИНА МОЛИТВА",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "МУЗИКА РІДНОГО ДОМУ",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ПЕРЕПІЛОЧКА",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ПЕРЕПІЛОЧКА [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ПІСНЯ СОЛОВ ЇНА [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ПТАШКА [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "СІМ’Я [БЕК ВОКАЛ]",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ТАМ ОТ ТАМ",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "СЕСТРА (-,+,UA)",
+    "artist": "ПІСКАРЬОВА ТЕТЯНА, ПЕКУН ОКСАНА"
+  },
+  {
+    "title": "ВИГАДАВ",
     "artist": "ПІСКУН СЕРГІЙ"
   },
   {
-    "title": "ОДНУ ТЕБЕ",
+    "title": "ОДНУ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "ПІСКУН СЕРГІЙ"
   },
   {
-    "title": "СОЛОДКІ НЕБЕСА.avi",
+    "title": "СОЛОДКІ НЕБЕСА",
     "artist": "ПІСКУН СЕРГІЙ"
   },
   {
@@ -6424,11 +11000,11 @@ const data = [
     "artist": "ПІСКУН СЕРГІЙ"
   },
   {
-    "title": "ТИ САМЕ ТА",
+    "title": "ТИ САМЕ ТА [БЕК ВОКАЛ]",
     "artist": "ПІСКУН СЕРГІЙ"
   },
   {
-    "title": "ТОБОЙ ЖИВУ",
+    "title": "ТОБОЙ ЖИВУ [БЕК ВОКАЛ]",
     "artist": "ПІСКУН СЕРГІЙ"
   },
   {
@@ -6440,55 +11016,67 @@ const data = [
     "artist": "ПЛАЧ ЄРЕМІЇ"
   },
   {
-    "title": "КОЛИ ДО ГУБ ТВОЇХ (-).kfn",
+    "title": "ВОНА [БЕК ВОКАЛ]",
     "artist": "ПЛАЧ ЄРЕМІЇ"
   },
   {
-    "title": "Я ПІДУ В ДАЛЕКІ ГОРИ.kfn",
+    "title": "ГРИФОН",
     "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "КОЛИ ДО ГУБ ТВОЇХ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "КОРИДОР",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "ЛIТАЮЧА ГОЛОВА",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "МИКОЛАЙ БОРОДАТИЙ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "ПЛАЧ ЄРЕМIЇ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "САМIЙЛО НЕМИРИЧ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "СЕРВУС ПАНЕ ВОРГОЛ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "ТАМ ПІД ЛЬВІВСЬКИМ ЗАМКОМ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "ТИ ВТРЕТЄ ЦЬОГО ЛІТА ЗАЦВІТЕШ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "ХАТА МОЯ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "Я ПІДУ В ДАЛЕКІ ГОРИ",
+    "artist": "ПЛАЧ ЄРЕМІЇ"
+  },
+  {
+    "title": "ТАМ ПІД ЛЬВІВСЬКИМ ЗАМКОМ",
+    "artist": "ПЛАЧ ЄРЕМІЇ & ЧУБАЙ ТАРАС"
   },
   {
     "title": "АХ ЛЕНТА ЗА ЛЕНТОЮ",
     "artist": "ПЛАЧ ЄРЕМІЇ (ТАРАС ЧУБАЙ)"
   },
   {
-    "title": "А МОЯ ЛЮБОВ (-)·.kfn",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ВЕРБА (-)·.kfn",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
     "title": "ЗЛАГОДА",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЦВІТЕ ТЕРЕН (-).kfn",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧАРІВНА СКРИПКА (КЛИП)·.kfn",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧАРІВНА СКРИПКА (СІЛА ПТАХА)",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧЕРВОНА РУТА",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧЕРЕМШИНА",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧОРНОБРИВЦІ",
-    "artist": "ПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧОРТОПОЛОХ (FV).kfn",
     "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
@@ -6508,15 +11096,23 @@ const data = [
     "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
-    "title": "КОРОЛЕВА НОЧІ",
+    "title": "КОРОЛЕВА НОЧІ [UA]",
     "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
-    "title": "МАМА КАЗАЛА",
+    "title": "КОРОЛЕВА НОЧІ [UA] [БЕК ВОКАЛ]",
+    "artist": "ПОЛЯКОВА ОЛЯ"
+  },
+  {
+    "title": "МАМА КАЗАЛА [БЕК ВОКАЛ]",
     "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ТАНЦЮЮ ЯК В ОСТАННІЙ РАЗ",
+    "artist": "ПОЛЯКОВА ОЛЯ"
+  },
+  {
+    "title": "ТАНЦЮЮ ЯК В ОСТАННІЙ РАЗ [БЕК ВОКАЛ]",
     "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
@@ -6552,11 +11148,11 @@ const data = [
     "artist": "ПОЛЯКОВА ОЛЯ, ТРІНЧЕР АННА, POSITIFF"
   },
   {
-    "title": "ЧЕРІ ЧЕРІ ЛЕДІ.avi",
+    "title": "ЧЕРІ ЧЕРІ ЛЕДІ",
     "artist": "ПОМАДА"
   },
   {
-    "title": "МИЛІША·.avi",
+    "title": "МИЛІША [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ & ДЗІДЗЬО & ALEKSEEV"
   },
   {
@@ -6564,7 +11160,11 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "А ТИ ПРОСТО КОХАЙ (-)·.kfn",
+    "title": "А ТИ ПРОСТО КОХАЙ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "А Я ПIДУ [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6572,15 +11172,27 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ВАРТО ЧИ НІ.kfn",
+    "title": "БЕЛЫЙ КАДИЛЛАК",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ВІН ЧЕКАЄ НА НЕЇ (ОРИГ,КЛІП).kfn",
+    "title": "ВАРТО ЧИ НI",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ВІН ЧЕКАЄ НЕЇ",
+    "title": "ВАРТО ЧИ НІ",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ВІН ЧЕКАЄ НА НЕЇ (ОРИГ,КЛІП)",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ВІН ЧЕКАЄ НА НЕЇ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ВІН ЧЕКАЄ НЕЇ [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6588,7 +11200,7 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ГОЛОСИ",
+    "title": "ГОЛОСИ [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6596,7 +11208,11 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ДВА СЕРЦЯ (VID).kfn",
+    "title": "ГРIМ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ДВА СЕРЦЯ",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6604,19 +11220,39 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ЗАКОЛИШУ",
+    "title": "З РАНКУ ДО НОЧІ [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ЗАСПІВАЙМО ПІСНЮ ЗА УКРАЇНУ (VID).kfn",
+    "title": "З РАНКУ ДО НОЧІ [NEW VERSION,+,-] [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ЗІРОНЬКА",
+    "title": "ЗIРОНЬКА",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "КОХАТИ (VOLARE)",
+    "title": "ЗАКОЛИШУ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ЗАСПІВАЙМО ПІСНЮ ЗА УКРАЇНУ",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ЗІРОНЬКА [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "КОХАТИ (VOLARE) [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "КОХАТИ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "КРАЙ ДОРОГИ НЕ РУБАЙ ТОПОЛЮ",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6624,7 +11260,7 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ЛЮБИШ ТИ МЕНЕ",
+    "title": "ЛЮБИШ ТИ МЕНЕ [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6636,15 +11272,27 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
+    "title": "НIЧЕНЬКОЮ ТЕМНОЮ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "НАЙКРАЩА [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
     "title": "НАЙКРАЩА",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "НІКОЛИ (КЛИП).kfn",
+    "title": "НІКОЛИ",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "НІЧЕНЬКОЮ ТЕМНОЮ (КЛИП)·.kfn",
+    "title": "НІЧЕНЬКОЮ ТЕМНОЮ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ОФІЦЕРИ",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6652,7 +11300,15 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "САМ СОБI КРАIНА",
+    "title": "ПРОСТО КОХАЙ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "САМ СОБI КРАIНА [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "СВЯТАЯ АННА [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6660,7 +11316,27 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ТИ ДОЧЕКАЙСЯ МЕНЕ (VID).kfn",
+    "title": "СЕРДЕНЬКО",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ТIЛЬКИ РАЗ ЦВIТЕ ЛЮБОВ",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ТИ ДОЧЕКАЙСЯ МЕНЕ",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ТІЛЬКИ РАЗ ЦВІТЕ ЛЮБОВ",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ТІЛЬКИ РАЗ ЦВІТЕ ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ТРИ ПОРАДИ",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6668,7 +11344,7 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "Я ЗАБЛУКАВ (-).kfn",
+    "title": "ЧОМУСЬ ТАК ГІРКО ПЛАКАЛА ВОНА",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
@@ -6676,15 +11352,23 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
+    "title": "Я ЗАБЛУКАВ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
     "title": "Я ЛЮБЛЮ ТІЛЬКИ ТЕБЕ (ВАРТО ЧИ НІ)",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "Я НЕ ТАКИЙ·.kfn",
+    "title": "Я ЛЮБЛЮ ТІЛЬКИ ТЕБЕ",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
-    "title": "ЧОМУ",
+    "title": "Я НЕ ТАКИЙ [БЕК ВОКАЛ]",
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
+  },
+  {
+    "title": "ЧОМУ [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР, DZIDZIO, ALEKSEEV, ПИВОВАРОВ АРТЕМ"
   },
   {
@@ -6692,7 +11376,7 @@ const data = [
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР, DZIDZIO, ПИВОВАРОВ, ALEKSEEV"
   },
   {
-    "title": "ПАЗЛЫ (ПАЗЛИ)",
+    "title": "ПАЗЛЫ (ПАЗЛИ) [БЕК ВОКАЛ]",
     "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР, ДЗІДЗЬО"
   },
   {
@@ -6700,15 +11384,23 @@ const data = [
     "artist": "ПОНОМАРЬОВ, ДЗІДЗЬО, КОШОВИЙ, ЧОРНИЙ"
   },
   {
+    "title": "БАТЬКIВЩИНА [МЕЛОДІЯ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
     "title": "БАТЬКIВЩИНА",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "БОРЩ",
+    "title": "БОРЩ [БЕК ВОКАЛ]",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "ВАРЕНИЧКИ МОЇ",
+    "title": "ВАРЕНИЧКИ МОЇ [БЕК ВОКАЛ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ДОРОГI МОЇ БАТЬКИ [МЕЛОДІЯ]",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
@@ -6716,11 +11408,19 @@ const data = [
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
+    "title": "ЗДРАСТУЙ РIДНЕ СЕЛО [МЕЛОДІЯ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
     "title": "ЗДРАСТУЙ РIДНЕ СЕЛО",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "КРОПИВА (-,+)·.kfn",
+    "title": "КРОПИВА [БЕК ВОКАЛ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ЛЮБОВ МОЯ [МЕЛОДІЯ]",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
@@ -6728,7 +11428,15 @@ const data = [
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "МУЗИКА РІДНОГО ДОМУ.kfn",
+    "title": "МАМИНА ЧЕРЕШНЯ",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "МУЗИКА РІДНОГО ДОМУ",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ПРОЩАННЯ [МЕЛОДІЯ]",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
@@ -6736,27 +11444,91 @@ const data = [
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "РОСТЕ ЧЕРЕШНЯ (-,+,КЛІП).kfn",
+    "title": "РОСТЕ ЧЕРЕШНЯ",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "СНІГ КРУЖЛЯЄ.kfn",
+    "title": "САЛО 2 [БЕК ВОКАЛ]",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "УКРАIНА (-)·.kfn",
+    "title": "САЛО [БЕК ВОКАЛ]",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
-    "title": "Я УКРАIНЕЦЬ (-,+)·.kfn",
+    "title": "СНІГ КРУЖЛЯЄ",
     "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "СТУДЕНТСЬКИЙ БАЛ",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ТУМБАЛАЛАЙКА",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "УКРАIНА [БЕК ВОКАЛ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "УКРАЇНА [БЕК ВОКАЛ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ХАВА НАГIЛА",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ХТО РИЗИКУЄ ТОЙ ШАМПАНСЬКЕ П Є",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ЮНИЙ ОРЕЛ",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "Я УКРАIНЕЦЬ [БЕК ВОКАЛ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "Я УКРАЇНЕЦЬ [БЕК ВОКАЛ]",
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
+  },
+  {
+    "title": "ВАСИЛИНО [БЕК ВОКАЛ]",
+    "artist": "ПОПОВИЧ ІВАН"
+  },
+  {
+    "title": "ЗОЛОТО КАРПАТ (RMX)",
+    "artist": "ПОПОВИЧ ІВАН"
+  },
+  {
+    "title": "ЗОЛОТО КАРПАТ",
+    "artist": "ПОПОВИЧ ІВАН"
+  },
+  {
+    "title": "ЗОЛОТО КАРПАТ [БЕК ВОКАЛ]",
+    "artist": "ПОПОВИЧ ІВАН"
+  },
+  {
+    "title": "МЕНІ НЕ СПИТЬСЯ",
+    "artist": "ПОПОВИЧ ІВАН"
+  },
+  {
+    "title": "РОЗЛУК НЕ БУДЕ",
+    "artist": "ПОПОВИЧ ІВАН"
+  },
+  {
+    "title": "СКАЖИ МЕНI",
+    "artist": "ПОПОВИЧ ІВАН"
   },
   {
     "title": "СКАЖИ МЕНІ",
     "artist": "ПОПОВИЧ ІВАН"
   },
   {
-    "title": "ФАЙНА",
+    "title": "ФАЙНА [БЕК ВОКАЛ]",
     "artist": "ПОПОВИЧ ІВАН"
   },
   {
@@ -6764,15 +11536,31 @@ const data = [
     "artist": "ПОТАП"
   },
   {
-    "title": "НАЙКРАЩИЙ ДЕНЬ (+,-,КЛІП).kfn",
+    "title": "НАЙКРАЩИЙ ДЕНЬ",
     "artist": "ПОТАП, ВИННИК ОЛЕГ"
   },
   {
-    "title": "НА ЩАСТЯ (OST СКАЖЕНЕ ВЕСIЛЛЯ 3)·.kfn",
+    "title": "НА ЩАСТЯ (OST СКАЖЕНЕ ВЕСIЛЛЯ 3) [ЗАД.ДОПИС,МАСТЕР] [БЕК ВОКАЛ]",
     "artist": "ПОТАП, ВИННИК ОЛЕГ, POSITIFF"
   },
   {
-    "title": "ЗОЛОТІ ВОРОТА (+,-,КЛІП).kfn",
+    "title": "ВОДОГРАЙ [БЕК ВОКАЛ]",
+    "artist": "ПРЕМ'ЄР МIНIСТР"
+  },
+  {
+    "title": "УКРАЇНСЬКА ПІСНЯ",
+    "artist": "ПРЕМ'ЄР МIНIСТР"
+  },
+  {
+    "title": "ACTION [БЕК ВОКАЛ]",
+    "artist": "ПРИХОДЬКО АНАСТАСІЯ"
+  },
+  {
+    "title": "ЗОЛОТІ ВОРОТА",
+    "artist": "ПРИХОДЬКО АНАСТАСІЯ"
+  },
+  {
+    "title": "МАМО [БЕК ВОКАЛ]",
     "artist": "ПРИХОДЬКО АНАСТАСІЯ"
   },
   {
@@ -6792,11 +11580,27 @@ const data = [
     "artist": "ПРОЦЬ & ДМИТРО КОМАР"
   },
   {
-    "title": "КАЗАНТІП.avi",
+    "title": "КАЗАНТІП",
     "artist": "РАЙЧУ"
   },
   {
-    "title": "КВІТКА",
+    "title": "МIЖ СIРИМИ ДНЯМИ",
+    "artist": "РАМАРI МІЯ"
+  },
+  {
+    "title": "НЕ ДИВИСЬ НА МЕНЕ",
+    "artist": "РАМАРІ МІЯ"
+  },
+  {
+    "title": "ЛЕЛЯ",
+    "artist": "РЕШЕТНЯК ТЕТЯНА"
+  },
+  {
+    "title": "ФАНТАСТИЧНА ЖІНКА [БЕК ВОКАЛ]",
+    "artist": "РЕШЕТНЯК ТЕТЯНА"
+  },
+  {
+    "title": "КВІТКА [БЕК ВОКАЛ]",
     "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
@@ -6816,6 +11620,18 @@ const data = [
     "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
+    "title": "ТЕМНА ВОДА [БЕК ВОКАЛ]",
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+  },
+  {
+    "title": "ТЕМНА ВОДА [REMIX] [БЕК ВОКАЛ]",
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+  },
+  {
+    "title": "ФАНТАСТИЧНА ЖІНКА [БЕК ВОКАЛ]",
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+  },
+  {
     "title": "ФАНТАСТИЧНА ЖІНКА",
     "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
@@ -6824,43 +11640,79 @@ const data = [
     "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA) & ДЖАМАЛА"
   },
   {
-    "title": "ЖИВИ",
+    "title": "ЖИВИ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "РОЗНЕН ЮЛІЯ"
   },
   {
-    "title": "ЛЕЛЕКИ",
+    "title": "ЛЕЛЕКИ [-,+,VID]",
     "artist": "РОЗНЕН ЮЛІЯ"
   },
   {
-    "title": "РОЗКАЖИ",
+    "title": "РОЗКАЖИ [-,+,VID]",
     "artist": "РОЗНЕН ЮЛІЯ"
+  },
+  {
+    "title": "ДОЛЕНЬКА [БЕК ВОКАЛ]",
+    "artist": "РОТАРУ АУРІКА"
+  },
+  {
+    "title": "СОПІЛКА [БЕК ВОКАЛ]",
+    "artist": "РОТАРУ АУРІКА"
   },
   {
     "title": "ПРОЩАЙ",
     "artist": "РОТАРУ СОФIЯ"
   },
   {
+    "title": "БIЛI НАРЦИСИ",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
+    "title": "ВІДЛУННЯ ВІРНОСТІ",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
+    "title": "ДВI ГОЛУБКИ",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
     "title": "ОДНА КАЛИНА",
     "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "ТЕЧЕ ВОДА 2.kfn",
+    "title": "ОДНА КАЛИНА [БЕК ВОКАЛ]",
     "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "ЧЕРВОНА РУТА (DJ TONYTIM REBOOT)·.kfn",
+    "title": "ПIСНЯ БУДЕ ПОМIЖ НАС",
     "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "ЧЕРВОНА РУТА (ЧОЛОВІЧА ТОНАЛЬНІСТЬ).kfn",
+    "title": "РIДНИЙ КРАЙ",
     "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "ЧЕРВОНА РУТА",
+    "title": "ТЕЧЕ ВОДА 2",
     "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "ЧЕРВОНА РУТА 2",
+    "title": "ЧЕРВОНА РУТА (DJ TONYTIM REBOOT) [БЕК ВОКАЛ]",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА (ЧОЛОВІЧА ТОНАЛЬНІСТЬ)",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА [DANCE RMX] [БЕК ВОКАЛ]",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА [ROCK REMIX] [БЕК ВОКАЛ]",
+    "artist": "РОТАРУ СОФІЯ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА 2 [FAST VER]",
     "artist": "РОТАРУ СОФІЯ"
   },
   {
@@ -6868,20 +11720,84 @@ const data = [
     "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "СЛАВА УКРАЇНІ",
-    "artist": "РУДЕНКО ЯРОСЛАВА"
+    "title": "ЧЕРВОНА РУТА [БЕК ВОКАЛ]",
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
-    "title": "АРКАН (-).kfn",
+    "title": "WILD DANCES",
     "artist": "РУСЛАНА"
   },
   {
-    "title": "В РИТМІ СЕРЦЯ (-).kfn",
+    "title": "АРКАН",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "БАЛАДА ПРО ПРИНЦЕСУ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "В РИТМІ СЕРЦЯ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "ДИКI ТАНЦI [БЕК ВОКАЛ]",
     "artist": "РУСЛАНА"
   },
   {
     "title": "ДИКІ ТАНЦІ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "ДОБРИЙ ВЕЧІР ТОБІ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "ЗНАЮ Я",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "КОЛОМИЙКА [БЕК ВОКАЛ]",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "МІЙ БРАТ [БЕК ВОКАЛ]",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "ОЙ ЛЕТІЛИ ДИКІ ГУСИ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "ОСТАННЯ ПОДОРОЖ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "РАДУЙСЯ СВІТ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "СВIТАНОК",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "Я ТЕБЕ ЛЮБЛЮ",
+    "artist": "РУСЛАНА"
+  },
+  {
+    "title": "ДИКІ ТАНЦІ [UA]",
     "artist": "РУСЛАНА (RUSLANA)"
+  },
+  {
+    "title": "ЧАРІВНЕ ЛЮСТЕРЦЕ",
+    "artist": "РУСЯ"
+  },
+  {
+    "title": "БІЛІ АЙСТРИ [БЕК ВОКАЛ]",
+    "artist": "СIНГАЄВСЬКА АННА"
+  },
+  {
+    "title": "ТИ ПРОСТО СЛУХАЙ [БЕК ВОКАЛ]",
+    "artist": "САВКО НАЗАР"
   },
   {
     "title": "ДЖЕРЕЛО",
@@ -6904,7 +11820,39 @@ const data = [
     "artist": "САНДУЛЕСА ЛІЛІЯ"
   },
   {
+    "title": "ДАЙ МЕНІ СЛОВО [БЕК ВОКАЛ]",
+    "artist": "САШКО НЕВЖЕ"
+  },
+  {
+    "title": "ЗИМА ЗИМА [БЕК ВОКАЛ]",
+    "artist": "САШКО НЕВЖЕ"
+  },
+  {
+    "title": "НАМАЛЬОВАНІ СНИ [БЕК ВОКАЛ]",
+    "artist": "САШКО НЕВЖЕ"
+  },
+  {
+    "title": "ОЙ ЛЮБОВЕ ЛЮБОВЕ [БЕК ВОКАЛ]",
+    "artist": "САШКО НЕВЖЕ"
+  },
+  {
+    "title": "ЧОМ ЖЕ ТАК СТАЛОСЬ [БЕК ВОКАЛ]",
+    "artist": "САШКО НЕВЖЕ"
+  },
+  {
+    "title": "А МОЖЕ ТО НЕ ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "СВIТОЗАРИ"
+  },
+  {
+    "title": "ВОРОЖКА [БЕК ВОКАЛ]",
+    "artist": "СВIТОЗАРИ"
+  },
+  {
     "title": "В ОСТАННІЙ РАЗ",
+    "artist": "СВIТЯЗЬ"
+  },
+  {
+    "title": "ДЯКУЮ ТОБI КОХАНА",
     "artist": "СВIТЯЗЬ"
   },
   {
@@ -6916,7 +11864,11 @@ const data = [
     "artist": "СВIТЯЗЬ"
   },
   {
-    "title": "НАЛИВАЙ",
+    "title": "КЕЛИХ ТЕРПКОГО ВИНА",
+    "artist": "СВIТЯЗЬ"
+  },
+  {
+    "title": "НАЛИВАЙ [БЕК ВОКАЛ]",
     "artist": "СВIТЯЗЬ"
   },
   {
@@ -6924,15 +11876,27 @@ const data = [
     "artist": "СВIТЯЗЬ"
   },
   {
+    "title": "ПРИДВОРНИЙ МУЗИКАНТ [БЕК ВОКАЛ]",
+    "artist": "СВIТЯЗЬ"
+  },
+  {
+    "title": "СКРИПАЛЬ",
+    "artist": "СВIТЯЗЬ"
+  },
+  {
     "title": "ТИ МIЙ МАЯК",
     "artist": "СВIТЯЗЬ"
   },
   {
-    "title": "А МОЖЕ ТО НЕ ЛЮБОВ",
+    "title": "ТРИМАЙ [БЕК ВОКАЛ]",
+    "artist": "СВIТЯЗЬ"
+  },
+  {
+    "title": "А МОЖЕ ТО НЕ ЛЮБОВ [БЕК ВОКАЛ]",
     "artist": "СВІТОЗАРИ"
   },
   {
-    "title": "ВОРОЖКА",
+    "title": "ВОРОЖКА [БЕК ВОКАЛ]",
     "artist": "СВІТОЗАРИ"
   },
   {
@@ -6944,23 +11908,43 @@ const data = [
     "artist": "СЕДОКОВА АННА"
   },
   {
-    "title": "ГОП-ГОП",
-    "artist": "СЕРДЮЧКА ВЕРКА"
+    "title": "DANCING LASHA TUMBAI",
+    "artist": "СЕРДЮЧКА (VERKA SERDUCHKA)"
+  },
+  {
+    "title": "ГОП ГОП ГОП [БЕК ВОКАЛ]",
+    "artist": "СЕРДЮЧКА (VERKA SERDUCHKA)"
+  },
+  {
+    "title": "ГОП-ГОП [FV] [БЕК ВОКАЛ]",
+    "artist": "СЕРДЮЧКА (VERKA SERDUCHKA)"
   },
   {
     "title": "Є ПРОПОЗИЦІЯ",
-    "artist": "СЕРДЮЧКА ВЕРКА"
-  },
-  {
-    "title": "Є ПРОПОЗИЦІЯ",
-    "artist": "СЕРДЮЧКА ВЄРКА"
+    "artist": "СЕРДЮЧКА (VERKA SERDUCHKA)"
   },
   {
     "title": "КИЦЬКА ЛЮБА",
     "artist": "СЕРДЮЧКА ВЄРКА"
   },
   {
-    "title": "BEST ДРУГ {E,OR,192}·.kfn",
+    "title": "DANCING LASHA TUMBAI",
+    "artist": "СЕРДЮЧКА СЕРДЮЧКА (VERKA SERDUCHKA)"
+  },
+  {
+    "title": "БУГІ ВУГІ [БЕК ВОКАЛ]",
+    "artist": "СИЧЕВСЬКИЙ БОРИС"
+  },
+  {
+    "title": "ОЙ ГОРІЛКА [БЕК ВОКАЛ]",
+    "artist": "СИЧЕВСЬКИЙ БОРИС"
+  },
+  {
+    "title": "BEST ДРУГ [БЕК ВОКАЛ]",
+    "artist": "СКАЙ"
+  },
+  {
+    "title": "GO GO [БЕК ВОКАЛ]",
     "artist": "СКАЙ"
   },
   {
@@ -6968,7 +11952,7 @@ const data = [
     "artist": "СКАЙ"
   },
   {
-    "title": "БЕРЕГ РІКИ.avi",
+    "title": "БЕРЕГ РІКИ",
     "artist": "СКАЙ"
   },
   {
@@ -6992,6 +11976,10 @@ const data = [
     "artist": "СКАЙ"
   },
   {
+    "title": "МЕЛОДІЯ СЕРЦЯ [БЕК ВОКАЛ]",
+    "artist": "СКАЙ"
+  },
+  {
     "title": "НЕ ВІЙНИ А МИРУ",
     "artist": "СКАЙ"
   },
@@ -7000,11 +11988,19 @@ const data = [
     "artist": "СКАЙ"
   },
   {
-    "title": "ПОДАРУЙ СВІТЛО",
+    "title": "ПОДАРУЙ СВІТЛО [БЕК ВОКАЛ]",
     "artist": "СКАЙ"
   },
   {
-    "title": "СТРУНА (+,-)·.kfn",
+    "title": "СТРУНА [БЕК ВОКАЛ]",
+    "artist": "СКАЙ"
+  },
+  {
+    "title": "СТРУНА",
+    "artist": "СКАЙ"
+  },
+  {
+    "title": "ТЕБЕ ЦЕ МОЖЕ ВБИТИ [БЕК ВОКАЛ]",
     "artist": "СКАЙ"
   },
   {
@@ -7012,7 +12008,23 @@ const data = [
     "artist": "СКАЙ"
   },
   {
+    "title": "ТИ СПОДОБАЛАСЬ МЕНІ",
+    "artist": "СКАЙ"
+  },
+  {
+    "title": "НЕ ЙДИ [БЕК ВОКАЛ]",
+    "artist": "СКАЙ & ГАЙТАНА"
+  },
+  {
+    "title": "БІЛЕ ПЛАТТЯ БІЛА ФАТА",
+    "artist": "СКОРПІОН РОМАН"
+  },
+  {
     "title": "БІЛЕ ПЛАТТЯ, БІЛА ФАТА",
+    "artist": "СКОРПІОН РОМАН"
+  },
+  {
+    "title": "БІЛЕ ПЛАТТЯ, БІЛА ФАТА [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
   },
   {
@@ -7020,19 +12032,23 @@ const data = [
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "З МІЛЬЙОНІВ ОДНА",
+    "title": "З МІЛЬЙОНІВ ОДНА [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "ЗАКОХАВСЯ",
+    "title": "ЗАКОХАВСЯ [+,-,ОР.] [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "МОЯ",
+    "title": "ЗАКОХАВСЯ [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "ОБІЙМУ",
+    "title": "МОЯ [БЕК ВОКАЛ]",
+    "artist": "СКОРПІОН РОМАН"
+  },
+  {
+    "title": "ОБІЙМУ [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
   },
   {
@@ -7040,16 +12056,32 @@ const data = [
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "ТАК СИЛЬНО·.avi",
+    "title": "ПОЦІЛУЮ [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "ТИ МОЄ НЕБО, ТИ МІЙ ОКЕАН",
+    "title": "ТАК СИЛЬНО",
     "artist": "СКОРПІОН РОМАН"
   },
   {
-    "title": "ЩАСЛИВІ ЗАКОХАНІ (+,-,FV)·.kfn",
+    "title": "ТАК СИЛЬНО [БЕК ВОКАЛ]",
     "artist": "СКОРПІОН РОМАН"
+  },
+  {
+    "title": "ТИ МОЄ НЕБО, ТИ МІЙ ОКЕАН [БЕК ВОКАЛ]",
+    "artist": "СКОРПІОН РОМАН"
+  },
+  {
+    "title": "ФАТА",
+    "artist": "СКОРПІОН РОМАН"
+  },
+  {
+    "title": "ЩАСЛИВІ ЗАКОХАНІ [БЕК ВОКАЛ]",
+    "artist": "СКОРПІОН РОМАН"
+  },
+  {
+    "title": "Я НІКОМУ ТЕБЕ НЕ ВІДДАМ [БЕК ВОКАЛ]",
+    "artist": "СКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
   },
   {
     "title": "Я НІКОМУ ТЕБЕ НЕ ВІДДАМ",
@@ -7060,6 +12092,10 @@ const data = [
     "artist": "СКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
   },
   {
+    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА",
+    "artist": "СКРИПКА ОЛЕГ"
+  },
+  {
     "title": "МIСЦЯ ЩАСЛИВИХ ЛЮДЕЙ",
     "artist": "СКРЯБIН"
   },
@@ -7068,27 +12104,27 @@ const data = [
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ГЛАМУР",
+    "title": "ВИПУСКНИЙ [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ГОВОРИЛИ І КУРИЛИ",
+    "title": "ГЛАМУР [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ГОДИННИК (МАСТЕР).kfn",
+    "title": "ГОВОРИЛИ І КУРИЛИ [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ДЕЛЬФІНИ (КЛІП)·.kfn",
+    "title": "ГОДИННИК",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ДЕЛЬФІНИ",
+    "title": "ДЕЛЬФІНИ [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ДЖАЛАМБАЙ",
+    "title": "ДЖАЛАМБАЙ [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
@@ -7096,11 +12132,11 @@ const data = [
     "artist": "СКРЯБІН"
   },
   {
-    "title": "КИНУЛИ (КЛІП).kfn",
+    "title": "КИНУЛИ",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "КИНУЛИ",
+    "title": "КИНУЛИ [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
@@ -7112,23 +12148,23 @@ const data = [
     "artist": "СКРЯБІН"
   },
   {
-    "title": "КОХАНА МУМІТРОЛЬ (+,-).kfn",
+    "title": "КОХАНА МУМІТРОЛЬ",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ЛИСТ ДО ДРУГА (-)·.kfn",
+    "title": "ЛИСТ ДО ДРУГА [БЕК ВОКАЛ]",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ЛИСТ ДО ПРЕЗИДЕНТІВ УКРАЇНИ (VID).kfn",
+    "title": "ЛИСТ ДО ПРЕЗИДЕНТІВ УКРАЇНИ",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ЛЮБИТИ ПЛАТИТИ (+,-).kfn",
+    "title": "ЛЮБИТИ ПЛАТИТИ",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ЛЮДИ ЯК КОРАБЛІ (КЛІП).kfn",
+    "title": "ЛЮДИ ЯК КОРАБЛІ",
     "artist": "СКРЯБІН"
   },
   {
@@ -7140,19 +12176,23 @@ const data = [
     "artist": "СКРЯБІН"
   },
   {
-    "title": "МАРШРУТКА (+,-,КЛІП).kfn",
+    "title": "МАРШРУТКА",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ПОРШ ПАНАМЕРА (КЛІП).kfn",
+    "title": "МІСЦЯ ЩАСЛИВИХ ЛЮДЕЙ",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "САМ СОБІ КРАЇНА (НЕ СТИДАЙСЯ, ТО ТВОЯ ЗЕМЛЯ) (VID)·.kfn",
+    "title": "ПОРШ ПАНАМЕРА",
     "artist": "СКРЯБІН"
   },
   {
-    "title": "СПИ СОБІ САМА (ОРИГ,VID).kfn",
+    "title": "САМ СОБІ КРАЇНА (НЕ СТИДАЙСЯ, ТО ТВОЯ ЗЕМЛЯ) [БЕК ВОКАЛ]",
+    "artist": "СКРЯБІН"
+  },
+  {
+    "title": "СПИ СОБІ САМА",
     "artist": "СКРЯБІН"
   },
   {
@@ -7160,7 +12200,11 @@ const data = [
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ТАНЕЦЬ ПІНГВІНА (+,-,КЛІП) .kfn",
+    "title": "СТАРІ ФОТОГРАФІЇ [БЕК ВОКАЛ]",
+    "artist": "СКРЯБІН"
+  },
+  {
+    "title": "ТАНЕЦЬ ПІНГВІНА",
     "artist": "СКРЯБІН"
   },
   {
@@ -7172,8 +12216,12 @@ const data = [
     "artist": "СКРЯБІН"
   },
   {
-    "title": "ШУКАВ СВІЙ ДІМ (-,+,МАСТЕР).kfn",
+    "title": "ШУКАВ СВІЙ ДІМ (-,+,МАСТЕР)",
     "artist": "СКРЯБІН"
+  },
+  {
+    "title": "МОВЧАТИ [БЕК ВОКАЛ]",
+    "artist": "СКРЯБІН & БІЛИК ІРИНА"
   },
   {
     "title": "МОВЧАТИ",
@@ -7188,11 +12236,15 @@ const data = [
     "artist": "СОЛОВIЙ ХРИСТИНА"
   },
   {
-    "title": "УКРАЇНСЬКА ЛЮТЬ",
+    "title": "УКРАЇНСЬКА ЛЮТЬ [АРАНЖ]",
     "artist": "СОЛОВIЙ ХРИСТИНА"
   },
   {
-    "title": "В ТЕМНУ НІЧКУ",
+    "title": "FORTEPIANO",
+    "artist": "СОЛОВІЙ ХРИСТИНА"
+  },
+  {
+    "title": "В ТЕМНУ НІЧКУ [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
@@ -7204,15 +12256,19 @@ const data = [
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
+    "title": "КОАЛА [БЕК ВОКАЛ]",
+    "artist": "СОЛОВІЙ ХРИСТИНА"
+  },
+  {
     "title": "КОАЛА",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "КРАЩЕ МОВЧИ",
+    "title": "КРАЩЕ МОВЧИ [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ЛІСОВА ПІСНЯ",
+    "title": "ЛІСОВА ПІСНЯ [-,+,VID]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
@@ -7220,27 +12276,31 @@ const data = [
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ОКЕАН",
+    "title": "ОКЕАН [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ПОД ОБЛАЧКОМ (МАСТЕР,КЛИІП).kfn",
+    "title": "ПОД ОБЛАЧКОМ",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ПОКИ ЛЮБИШ",
+    "title": "ПОКИ ЛЮБИШ [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "СИНЯ ПІСНЯ",
+    "title": "СИНЯ ПІСНЯ [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ТЕЧЕ ВОДА КАЛАМУТНА (FV).kfn",
+    "title": "ТЕЧЕ ВОДА КАЛАМУТНА",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ТИХА ВОДА",
+    "title": "ТЕЧЕ ВОДА КАЛАМУТНА [БЕК ВОКАЛ]",
+    "artist": "СОЛОВІЙ ХРИСТИНА"
+  },
+  {
+    "title": "ТИХА ВОДА [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
@@ -7248,15 +12308,19 @@ const data = [
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
+    "title": "ТРИМАЙ [БЕК ВОКАЛ]",
+    "artist": "СОЛОВІЙ ХРИСТИНА"
+  },
+  {
     "title": "УКРАЇНСЬКА ЛЮТЬ",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ХВИЛЯ",
+    "title": "ХВИЛЯ [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
-    "title": "ХОЛОДНО",
+    "title": "ХОЛОДНО [БЕК ВОКАЛ]",
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
@@ -7264,8 +12328,24 @@ const data = [
     "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
+    "title": "ЧОВЕН",
+    "artist": "СОЛОВІЙ ХРИСТИНА"
+  },
+  {
     "title": "ГАМЕРИЦЬКИЙ КРАЙ",
     "artist": "СОЛОВІЙ ХРИСТИНА & ВАКАРЧУК"
+  },
+  {
+    "title": "БУЛОЧКА [БЕК ВОКАЛ]",
+    "artist": "СОЛОХА"
+  },
+  {
+    "title": "МАМО Я ДУРНА [БЕК ВОКАЛ]",
+    "artist": "СОЛОХА"
+  },
+  {
+    "title": "СМАЖЕНИЙ КАБАНЧИК [БЕК ВОКАЛ]",
+    "artist": "СТЕП"
   },
   {
     "title": "ТАК ГРІЄ",
@@ -7276,11 +12356,19 @@ const data = [
     "artist": "СУДЧЕ ВАЛЕРIЙ"
   },
   {
-    "title": "ОЙ У ВИШНЕВОМУ САДУ.kfn",
+    "title": "ГОРІЛА СОСНА",
     "artist": "СУСІДИ"
   },
   {
-    "title": "АМЕЛІ",
+    "title": "ОЙ У ВИШНЕВОМУ САДУ",
+    "artist": "СУСІДИ"
+  },
+  {
+    "title": "ТИХАЯ ВОДА",
+    "artist": "СУСІДИ"
+  },
+  {
+    "title": "АМЕЛІ [БЕК ВОКАЛ]",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
@@ -7288,7 +12376,11 @@ const data = [
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "ВСЕ ДЛЯ НАС",
+    "title": "ВСЕ ДЛЯ НАС [БЕК ВОКАЛ]",
+    "artist": "ТАБАКОВ ПАВЛО"
+  },
+  {
+    "title": "ЗАГУБЛЕНІ СЛОВА",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
@@ -7296,43 +12388,107 @@ const data = [
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "ЛЮБОВ ЖИВА",
+    "title": "ЛЕТИ [БЕК ВОКАЛ]",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "МОЯ НА ВСЕ ЖИТТЯ",
+    "title": "ЛЮБОВ ЖИВА [БЕК ВОКАЛ]",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "СЕРЦЕБИТТЯ",
+    "title": "МОЯ НА ВСЕ ЖИТТЯ [БЕК ВОКАЛ]",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "ТИ МОЯ.(-.+,КЛИП)·.kfn",
+    "title": "СЕРЦЕБИТТЯ [БЕК ВОКАЛ]",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "ТИ ТАНЦЮЄШ ОДНА",
+    "title": "ТИ МОЯ [БЕК ВОКАЛ]",
     "artist": "ТАБАКОВ ПАВЛО"
   },
   {
-    "title": "ВІДПУСТИ (+,-).kfn",
+    "title": "ТИ МОЯ",
+    "artist": "ТАБАКОВ ПАВЛО"
+  },
+  {
+    "title": "ТИ ТАНЦЮЄШ ОДНА [БЕК ВОКАЛ]",
+    "artist": "ТАБАКОВ ПАВЛО"
+  },
+  {
+    "title": "ВІДПУСТИ",
     "artist": "ТАЛІНА"
   },
   {
-    "title": "Я ТВОЄЮ СТАЛА (+,-,КЛІП).kfn",
+    "title": "ЖИВА І ВІЛЬНА",
     "artist": "ТАЛІНА"
+  },
+  {
+    "title": "СКАЖИ МЕНІ",
+    "artist": "ТАЛІНА"
+  },
+  {
+    "title": "Я ТВОЄЮ СТАЛА",
+    "artist": "ТАЛІНА"
+  },
+  {
+    "title": "7 Я",
+    "artist": "ТАЛІТА КУМ"
+  },
+  {
+    "title": "IНОЗЕМЦI",
+    "artist": "ТАЛІТА КУМ"
+  },
+  {
+    "title": "В САМОТI [БЕК ВОКАЛ]",
+    "artist": "ТАЛІТА КУМ"
+  },
+  {
+    "title": "ЯК НА ХМАРАХ",
+    "artist": "ТАЛІТА КУМ"
   },
   {
     "title": "МОЯ УКРАЇНА",
     "artist": "ТАМЕРЛАН, АЛЬОНА & ANDI VAX"
   },
   {
+    "title": "WE ARE ONE",
+    "artist": "ТАРАСОВА СОФІЯ"
+  },
+  {
+    "title": "ЗМІНИТИ ВСЕ",
+    "artist": "ТАРАСОВА СОФІЯ"
+  },
+  {
+    "title": "НАМАЛЮЙ",
+    "artist": "ТАРАСОВА СОФІЯ"
+  },
+  {
+    "title": "ПІСНЯ ПОМІЖ НАС",
+    "artist": "ТАРАСОВА СОФІЯ"
+  },
+  {
+    "title": "УСМІХНЕШСЯ МЕНІ",
+    "artist": "ТАРАСОВА СОФІЯ"
+  },
+  {
     "title": "100% ПЛАГІАТ (ПРОКРУТИТЬ ЦЮ ПIСНЮ ПО РАДИО)",
     "artist": "ТАРТАК"
   },
   {
-    "title": "БОЖЕВІЛЬНІ ТАНЦІ",
+    "title": "100_ ПЛАГІАТ",
+    "artist": "ТАРТАК"
+  },
+  {
+    "title": "БОЖЕВІЛЬНІ ТАНЦІ [БЕК ВОКАЛ]",
+    "artist": "ТАРТАК"
+  },
+  {
+    "title": "ЖИТИ",
+    "artist": "ТАРТАК"
+  },
+  {
+    "title": "КУПУЙТЕ УКРАЇНСЬКЕ",
     "artist": "ТАРТАК"
   },
   {
@@ -7340,8 +12496,24 @@ const data = [
     "artist": "ТАРТАК"
   },
   {
+    "title": "УКРАЇНО ЗАБИВАЙ",
+    "artist": "ТАРТАК"
+  },
+  {
     "title": "Я НЕ ЗНАЮ",
     "artist": "ТАРТАК"
+  },
+  {
+    "title": "НЕ КАЖУЧИ НІКОМУ",
+    "artist": "ТАРТАК & НІЧЛАВА"
+  },
+  {
+    "title": "ТИ ПОДУМАЙ",
+    "artist": "ТАРТАК & ПОПОВА"
+  },
+  {
+    "title": "НІ Я НЕ ТУ КОХАВ",
+    "artist": "ТАРТАК & СВІТЯЗЬ"
   },
   {
     "title": "ТИ ПОДУМАЙ",
@@ -7349,6 +12521,10 @@ const data = [
   },
   {
     "title": "НІ Я НЕ ТУ КОХАВ",
+    "artist": "ТАРТАК, СВІТЯЗЬ"
+  },
+  {
+    "title": "НІ Я НЕ ТУ КОХАВ [БЕК ВОКАЛ]",
     "artist": "ТАРТАК, СВІТЯЗЬ"
   },
   {
@@ -7368,7 +12544,7 @@ const data = [
     "artist": "ТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
   },
   {
-    "title": "ВОЛОНТЕРКА",
+    "title": "ВОЛОНТЕРКА [БЕК ВОКАЛ]",
     "artist": "ТЕТЯНА VLASNA (ВЛАСНА)"
   },
   {
@@ -7376,7 +12552,7 @@ const data = [
     "artist": "ТЕТЯНА VLASNA (ВЛАСНА)"
   },
   {
-    "title": "ТАТАНЦІ",
+    "title": "ТАТАНЦІ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "ТИМОФІЙЧУК МАРИНА"
   },
   {
@@ -7396,7 +12572,27 @@ const data = [
     "artist": "ТИХОНЧИК БОГДАН"
   },
   {
-    "title": "АЛКОГОЛІЗМ (+,-).kfn",
+    "title": "GUESTS",
+    "artist": "ТІК"
+  },
+  {
+    "title": "HAPPY NEW YEAR [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "SOSЮРА",
+    "artist": "ТІК"
+  },
+  {
+    "title": "АЛКОГОЛIЗМ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "АЛКОГОЛIЗМ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "АЛКОГОЛІЗМ",
     "artist": "ТІК"
   },
   {
@@ -7404,15 +12600,27 @@ const data = [
     "artist": "ТІК"
   },
   {
+    "title": "АЛЬОНА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
     "title": "АПРЕЛЬ",
     "artist": "ТІК"
   },
   {
-    "title": "БIЛА ХМАРА,ЧОРНА ХМАРА",
+    "title": "АПРЕЛЬ [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
-    "title": "БАБИ (-).kfn",
+    "title": "БIЛI ТРОЯНДИ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "БIЛА ХМАРА ЧОРНА ХМАРА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "БIЛА ХМАРА,ЧОРНА ХМАРА [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7432,11 +12640,23 @@ const data = [
     "artist": "ТІК"
   },
   {
+    "title": "БІЛІ ТРОЯНДИ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "В ДЕНЬ НАРОДЖЕННЯ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "В ДЕНЬ НАРОДЖЕННЯ",
+    "artist": "ТІК"
+  },
+  {
     "title": "ВЕСЕЛА ПІСНЯ",
     "artist": "ТІК"
   },
   {
-    "title": "ВЕСНЯНКА (VID).kfn",
+    "title": "ВЕСЕЛА ПІСНЯ [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7444,23 +12664,43 @@ const data = [
     "artist": "ТІК"
   },
   {
+    "title": "ВЕСНЯНКА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ВЧИТЕЛЬКА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
     "title": "ВЧИТЕЛЬКА",
     "artist": "ТІК"
   },
   {
-    "title": "ГОСТІ (+,-,VID).kfn",
+    "title": "ГОСТІ",
     "artist": "ТІК"
   },
   {
-    "title": "ГОСТІ.kfn",
+    "title": "ГУЛЯЙ НАРОД [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
-    "title": "ГУЛЯЙ, НАРОД",
+    "title": "ГУЛЯЙ, НАРОД [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ДЄЦКIЕ IГРИ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ДЛЯ МАМИ",
     "artist": "ТІК"
   },
   {
     "title": "ДОНЕЧКА",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ЕМОЧКА [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7472,7 +12712,11 @@ const data = [
     "artist": "ТІК"
   },
   {
-    "title": "ЕРЕНБI",
+    "title": "ЕНДОРФІНИ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ЕРЕНБI [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7488,23 +12732,23 @@ const data = [
     "artist": "ТІК"
   },
   {
-    "title": "ЗЛИВА",
+    "title": "ЗЛИВА [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
-    "title": "ЗНОВУ ОДИН СТОЮ (КУРЮ) (-).kfn",
+    "title": "ЗНОВУ ОДИН СТОЮ (КУРЮ)",
     "artist": "ТІК"
   },
   {
-    "title": "ЗНОВУ ОДИН СТОЮ (КУРЮ) (+,-,VID)·.kfn",
+    "title": "ЗНОВУ ОДИН СТОЮ (КУРЮ) [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
-    "title": "КАЦАПИ",
+    "title": "ЗНОВУ ОДИН СТОЮ",
     "artist": "ТІК"
   },
   {
-    "title": "ЛИСТОПАД (-).kfn",
+    "title": "КАЦАПИ [-,+,VID] [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7512,15 +12756,75 @@ const data = [
     "artist": "ТІК"
   },
   {
-    "title": "ОЛЕНІ (-,+,КЛИП)·.kfn",
+    "title": "НЕ ЦІЛУЙ",
     "artist": "ТІК"
   },
   {
-    "title": "РОБОТ (КЛІП)·.kfn",
+    "title": "НОВИЙ РІК [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
-    "title": "СВЄТА (+.-,КЛІП).kfn",
+    "title": "ОЛЕНI",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ОЛЕНІ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ОЧІ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ПАВЛО ЗАГРЕБЕЛЬНИЙ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ПІСНЯ ПРО ВОНО [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ПІСНЯ ПРО КАПЄЦ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ПРО ВОНО",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ПРО КАПЄЦЬ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ПРОЩАЙТЕ ДIВЧАТА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "РІЗДВЯНА ПІСНЯ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "РОБОТ [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "СВЕТА",
+    "artist": "ТІК"
+  },
+  {
+    "title": "СВЄТА (+.-,КЛІП)",
+    "artist": "ТІК"
+  },
+  {
+    "title": "СЕРЖАНТ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "СІНЄГЛАЗОЧКА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "СІРЖАНТ",
     "artist": "ТІК"
   },
   {
@@ -7528,7 +12832,15 @@ const data = [
     "artist": "ТІК"
   },
   {
+    "title": "СІРОЖА З РУЖИНА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
     "title": "СІРОЖЕНЕ ПІРОЖИНЕ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "СІРОЖЕНЕ ПІРОЖИНЕ [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7536,7 +12848,11 @@ const data = [
     "artist": "ТІК"
   },
   {
-    "title": "ЧОЛОВІЧЕ ЩАСТЯ",
+    "title": "ТАК Я ЛЮБЛЮ УКРАIНУ",
+    "artist": "ТІК"
+  },
+  {
+    "title": "ЧОЛОВІЧЕ ЩАСТЯ [БЕК ВОКАЛ]",
     "artist": "ТІК"
   },
   {
@@ -7544,7 +12860,55 @@ const data = [
     "artist": "ТІК"
   },
   {
+    "title": "ЭМОЧКА [БЕК ВОКАЛ]",
+    "artist": "ТІК"
+  },
+  {
+    "title": "НЕ ЦІЛУЙ [БЕК ВОКАЛ]",
+    "artist": "ТІК & БІЛИК"
+  },
+  {
+    "title": "ЙШЛА ПО ВРАНІШНІЙ ЗОРІ",
+    "artist": "ТІНЬ СОНЦЯ"
+  },
+  {
+    "title": "ЙШЛА ПО ВРАНІШНІЙ ЗОРІ [БЕК ВОКАЛ]",
+    "artist": "ТІНЬ СОНЦЯ"
+  },
+  {
+    "title": "КАМ'ЯНА РІКА",
+    "artist": "ТІНЬ СОНЦЯ"
+  },
+  {
+    "title": "КАМ'ЯНА РІКА [БЕК ВОКАЛ]",
+    "artist": "ТІНЬ СОНЦЯ"
+  },
+  {
+    "title": "КОЗАКИ",
+    "artist": "ТІНЬ СОНЦЯ"
+  },
+  {
+    "title": "МЕЧ АРЕЯ",
+    "artist": "ТІНЬ СОНЦЯ"
+  },
+  {
+    "title": "А МОРЕ ДЕ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "АРЕШТ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ВАВІЛОН",
+    "artist": "ТНМК"
+  },
+  {
     "title": "ВОДА",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ВОСЕНИ",
     "artist": "ТНМК"
   },
   {
@@ -7556,8 +12920,84 @@ const data = [
     "artist": "ТНМК"
   },
   {
-    "title": "ФАЙНЕ МІСТО ТЕРНОПІЛЬ (VID)·.kfn",
+    "title": "ЗАБУВ [БЕК ВОКАЛ]",
     "artist": "ТНМК"
+  },
+  {
+    "title": "ЗДРА МОЯ РА",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ЛЮБА ЛЮБА",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "МИЛА",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "МОЛОДЕЦЬ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ПОRAPАЛОСЯ СЕРЦЕ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ПОРЕПАЛОСЯ СЕРЦЕ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ТА ТИ ШО",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ТІКАЮ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ТОЙ ХТО",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ФАЙНА ЮКРАЙНА",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ФАЙНА ЮКРАЙНА [БЕК ВОКАЛ]",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ФАЙНЕ МІСТО ТЕРНОПІЛЬ [БЕК ВОКАЛ]",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ХОЧА Я Е",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ХОЧА Я Є",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ХРУМ ХРУМ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "ЧБ",
+    "artist": "ТНМК"
+  },
+  {
+    "title": "КАШТАН",
+    "artist": "ТОПОЛЯ ОЛЕНА"
+  },
+  {
+    "title": "КАШТАН [БЕК ВОКАЛ]",
+    "artist": "ТОПОЛЯ ОЛЕНА"
+  },
+  {
+    "title": "НЕ СУМУЙ",
+    "artist": "ТОПОЛЯ ТАРАС & РОЖКО ОЛЕКСАНДР"
   },
   {
     "title": "БАР ЗА БАРОМ",
@@ -7568,11 +13008,31 @@ const data = [
     "artist": "ТРIНЧЕР АННА"
   },
   {
+    "title": "КОЛОСКИ [БЕК ВОКАЛ]",
+    "artist": "ТРIНЧЕР АННА"
+  },
+  {
+    "title": "ЛИШЕ ТИ І Я",
+    "artist": "ТРIНЧЕР АННА, VOLOSHYN"
+  },
+  {
+    "title": "ВИНОМ ТЕКЛА",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
     "title": "ЗАЙ",
     "artist": "ТРІНЧЕР АННА"
   },
   {
+    "title": "ЗІРОЧКА ПАЛАЙ",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
     "title": "КРОПИВА",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
+    "title": "ЛИШЕ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "ТРІНЧЕР АННА"
   },
   {
@@ -7584,11 +13044,23 @@ const data = [
     "artist": "ТРІНЧЕР АННА"
   },
   {
+    "title": "НЕ ЗАЛИШАЙ [БЕК ВОКАЛ]",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
     "title": "НЕБО ЗНАЄ",
     "artist": "ТРІНЧЕР АННА"
   },
   {
-    "title": "ОЧІ",
+    "title": "ОЧІ [БЕК ВОКАЛ]",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
+    "title": "ПОДРУГА МОЯ",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
+    "title": "ПОДРУГА МОЯ [БЕК ВОКАЛ]",
     "artist": "ТРІНЧЕР АННА"
   },
   {
@@ -7596,11 +13068,15 @@ const data = [
     "artist": "ТРІНЧЕР АННА"
   },
   {
+    "title": "ПОЧНИ З СЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ТРІНЧЕР АННА"
+  },
+  {
     "title": "ТИ РОБИВ МЕНІ КАВУ",
     "artist": "ТРІНЧЕР АННА"
   },
   {
-    "title": "ТРЕШ",
+    "title": "ТРЕШ [БЕК ВОКАЛ]",
     "artist": "ТРІНЧЕР АННА"
   },
   {
@@ -7616,6 +13092,14 @@ const data = [
     "artist": "ТРІНЧЕР АННА & POSITIFF"
   },
   {
+    "title": "НЕ ЗНАЮ [БЕК ВОКАЛ]",
+    "artist": "ТРІНЧЕР АННА, CHEEV"
+  },
+  {
+    "title": "ДИЧКА МОЛОДИЧКА [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
+  },
+  {
     "title": "ДИЧКА МОЛОДИЧКА",
     "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
@@ -7624,11 +13108,19 @@ const data = [
     "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
-    "title": "ЛЕТЯТЬ КОНІ НА ВКРАЇНУ",
+    "title": "КУЩ КАЛИНИ [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
-    "title": "НА ІВАНА НА КУПАЛА",
+    "title": "ЛЕТЯТЬ КОНІ НА ВКРАЇНУ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
+  },
+  {
+    "title": "НА ІВАНА НА КУПАЛА [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
+  },
+  {
+    "title": "УКРАЇНА [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
@@ -7636,7 +13128,19 @@ const data = [
     "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
+    "title": "IАНДЗЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
     "title": "А Я ЧОРНЯВА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "А Я ЧОРНЯВА [МЕЛОДІЯ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "БАНДУРИСТЕ ОРЛЕ СИЗИЙ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7644,11 +13148,35 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "В САДУ ГУЛЯЛА (VID).kfn",
+    "title": "В САДУ ГУЛЯЛА",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ВАРЕНИЧКИ (+,-).kfn",
+    "title": "ВАРЕНИЧКИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ВЕСІЛЛЯ У ПІЩАНЦI [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ВЕСЛЬНИЙ КАРАПЕТ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ВІЧНИЙ ТУРИСТ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ГIМН УКРАЇНИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ГАЛЯ МОЛОДАЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ГАНДЗЯ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7656,15 +13184,27 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
+    "title": "ГЕЙ НАЛИВАЙТЕ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ГЕЙ СОКОЛИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
     "title": "ГЕЙ, НАЛИВАЙТЕ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ГЕЙ, НАЛИВАЙТЕ ПОВНІЇ ЧАРИ 1.kfn",
+    "title": "ГЕЙ, НАЛИВАЙТЕ ПОВНІЇ ЧАРИ 1",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ГЕЙ, НАЛИВАЙТЕ ПОВНІЇ ЧАРИ 2.kfn",
+    "title": "ГЕЙ, НАЛИВАЙТЕ ПОВНІЇ ЧАРИ 2",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ГОРIЛА СОСНА ПАЛАЛА [МЕЛОДІЯ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7672,11 +13212,35 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ДВА ДУБКИ (-)·.kfn",
+    "title": "ГОРIЛА СОСНА",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ДВА ДУБКИ",
+    "title": "ГОРІЛКУ П'Ю [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ГРИЦЮ ГРИЦЮ ДО РОБОТИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ДВА ДУБКИ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ДВА ДУБКИ [-,САКС]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЗА СВIТ ВСТАЛИ КОЗАЧЕНЬКИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЗАБУДЬ ПЕЧАЛЬ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЗЕЛЕНЕЄ ЖИТО ЗЕЛЕНЕ [МЕЛОДІЯ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7684,19 +13248,75 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ІВАНКО (ОЙ. ЧОРНАЯ СИ, ЧОРНА)·.kfn",
+    "title": "ЗЕЛЕНИЙ ГАЙ [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ЇХАЛИ КОЗАКИ.kfn",
+    "title": "ІВАНКО (ОЙ. ЧОРНАЯ СИ, ЧОРНА) [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "МІСЯЦЬ НА НЕБІ (-).kfn",
+    "title": "ЇХАВ КОЗАК",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "НАЛИВАЙМО, БРАТТЯ (-).kfn",
+    "title": "ЇХАЛИ КОЗАКИ IЗ ДОНУ ДОДОМУ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЇХАЛИ КОЗАКИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "КАЗАВ МЕНI БАТЬКО",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "КАРIЇ ОЧI ЧОРНIЇ БРОВИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "КИЕВЕ МIЙ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "КОЖНОЇ ТВАРІ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "КОПАВ КОПАВ КРИНИЧЕНЬКУ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "КОХАНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЛЮБИЙ КОХАЙ МЕНЕ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "МIСЯЦЬ НА НЕБI",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "МАВ Я РАЗ ДIВЧИНОНЬКУ ЧЕПУРНЕНЬКУ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "МАМИНА ПІСНЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "МІСЯЦЬ НА НЕБІ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "НIЧ ЯКА МІСЯЧНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "НАЛИВАЙМО, БРАТТЯ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7704,19 +13324,51 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "НЕСЕ ГАЛЯ ВОДУ (-).kfn",
-    "artist": "УКРАЇНСЬКІ"
-  },
-  {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "НІЧ ЯКА МІСЯЧНА (FULL VERSION).kfn",
+    "title": "НЕСЕ ГАЛЯ ВОДУ [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "НІЧ ЯКА МІСЯЧНА (ВАЛЬС).kfn",
+    "title": "НІЧ ЯКА МІСЯЧНА (FULL VERSION)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "НІЧ ЯКА МІСЯЧНА (ВАЛЬС)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОД КИЄВА ДО ЛУБЕН",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ БIДА ЩО ГОРIЛКА НЕ ВОДА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ КУМ ДО КУМИ ЗАЛИЦЯВСЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ ЛЕТIЛИ ДИКI ГУСИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ МАРIЧКО ЧИЧЕРI",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ МАЮ Я ЧОРНI БРОВИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ НА ГОРI ДВА ДУБКИ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ НА ГОРI ТО ЖЕНЦI ЖНУТЬ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7728,15 +13380,35 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
+    "title": "ОЙ ПIДУ Я ЛУГОМ ЛУГОМ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ СМЕРЕКА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ ТАМ НА ТОВЧКУ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ ТИ ДIВЧИНО З ГОРIХА ЗЕРНЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
     "title": "ОЙ ТИ, ГАЛЮ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ОЙ У ВИШНЕВОМУ САДОЧКУ ТАМ СОЛОВЕЙКО ЩЕБЕТАВ (-).kfn",
+    "title": "ОЙ У ВИШНЕВОМУ САДОЧКУ ТАМ СОЛОВЕЙКО ЩЕБЕТАВ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ОЙ У ВИШНЕВОМУ САДУ (МЕДЛЕННАЯ,VID).kfn",
+    "title": "ОЙ У ВИШНЕВОМУ САДУ (ПОВІЛЬНА,VID)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ У ВИШНЕВОМУ САДУ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7744,11 +13416,63 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ОЙ, ЧИЙ ТО КІНЬ СТОЇТЬ (БЫСТРАЯ).kfn",
+    "title": "ОЙ ХМЕЛЮ Ж МIЙ ХМЕЛЮ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ПІСНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ).kfn",
+    "title": "ОЙ ЧИ ТОЙ КІНЬ СТОЇТЬ (RMX)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ ЧИЙ ТО КIНЬ СТОIТЬ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ ЧОРНА Я СИ ЧОРНА(RMX)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ ЧОРНА Я СИ ЧОРНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЙ, ЧИЙ ТО КІНЬ СТОЇТЬ (ШВИДКА)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОКСАНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ОЧI ВОЛОШКОВI",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ПІДМАНУЛА [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ПІСЕНЬКА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ПІСНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ПО ДОРОЗI ЖУК ЖУК",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "РIДНА МАТИ МОЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "РАСПРЯГАЙТЕ ХЛОПЦI КОНЕЙ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "РЕВЕ ТА СТОГНЕ ДНIПР ШИРОКИЙ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7756,15 +13480,67 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "РОЗПРЯГАЙТЕ ХЛОПЦІ КОНЕЙ.kfn",
+    "title": "РОДИНА [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА (-)·.kfn",
+    "title": "РОЗПРЯГАЙТЕ ХЛОПЦІ КОНЕЙ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА",
+    "title": "РОЗПРЯГАЙТЕ ХЛОПЦЫ КОНЕЙ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "СОЛОВЕЙКО",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "СПАТЬ МЕНI НЕ ХОЧЕТЬСЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "СТАРА БАБА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "СТОЖАРИ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ТАМ ПІД ЛЬВІВСЬКИМ ЗАМКОМ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ТЕЧЕ ВОДА КАЛАМУТНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ТЕЧЕ РIЧКА НЕВЕЛИЧКА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ТИ Ж МЕНЕ ПIДМАНУЛА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ТИ Ж МЕНЕ ПІДМАНУЛА [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ТРИ ТОПОЛI",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "У СУСIДА ХАТА БIЛА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "УКРАЇНО",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ХУЛІГАН",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7772,19 +13548,51 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ЦВІТЕ ТЕРЕН (-).kfn",
+    "title": "ЦВІТЕ ТЕРЕН",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ЧЕРЕМШИНА (ЗНОВ ЗОЗУЛІ ЧУТИ ГОЛОС В ЛІСІ).kfn",
+    "title": "ЦИГАНСЬКА [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ЧЕРЕМШИНА (МЕЛОДІЯ).kfn",
+    "title": "ЧАС РIКОЮ ПЛИВЕ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ЧОБОТИ З БУГАЯ (-).kfn",
+    "title": "ЧАСТУШКИ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧЕРВОНА КАЛИНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧЕРЕМШИНА (ЗНОВ ЗОЗУЛІ ЧУТИ ГОЛОС В ЛІСІ)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧЕРЕМШИНА (МЕЛОДІЯ)",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧЕРЕМШИНА",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧОБОТИ З БУГАЯ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧОМ ТИ НЕ ПРИЙШОВ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧОРНI БРОВИ КАРI ОЧI",
     "artist": "УКРАЇНСЬКІ"
   },
   {
@@ -7792,12 +13600,48 @@ const data = [
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ЧОРНІЇ БРОВИ КАРІЇ ОЧІ.kfn",
+    "title": "ЧОРНІЇ БРОВИ КАРІЇ ОЧІ",
     "artist": "УКРАЇНСЬКІ"
   },
   {
-    "title": "ШУБА_ШУБА ДА, А Я ГАЛЯ МОЛОДА·.kfn",
+    "title": "ЧОРНОБРИВЦI [БЕК ВОКАЛ]",
     "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ЧОРНОБРИВЦІ [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "ШУБА ШУБА ДА, А Я ГАЛЯ МОЛОДА [БЕК ВОКАЛ]",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "Я ЧЕ КОХАВ",
+    "artist": "УКРАЇНСЬКІ"
+  },
+  {
+    "title": "МРІЮ",
+    "artist": "УЛАШИН МАРІЯ"
+  },
+  {
+    "title": "ВІЧНІСТЬ",
+    "artist": "ФАБУЛА"
+  },
+  {
+    "title": "ЗАБУТЕ СЕРДЦЕ",
+    "artist": "ФАБУЛА"
+  },
+  {
+    "title": "НА КРАЮ",
+    "artist": "ФАБУЛА"
+  },
+  {
+    "title": "ЖАСМIНОВИЙ РАЙ",
+    "artist": "ФАЛІОН НАТАЛІЯ"
+  },
+  {
+    "title": "ДВОЄ",
+    "artist": "ФАНТОМ 2"
   },
   {
     "title": "БАТЬКИ МОЇ",
@@ -7812,6 +13656,10 @@ const data = [
     "artist": "ФЕДИШИН IРИНА"
   },
   {
+    "title": "ЗАМЕРЗЛА ВИШНЯ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН IРИНА"
+  },
+  {
     "title": "ЗІРОНЬКА",
     "artist": "ФЕДИШИН IРИНА"
   },
@@ -7820,11 +13668,15 @@ const data = [
     "artist": "ФЕДИШИН IРИНА"
   },
   {
-    "title": "НЕСЕ ГАЛЯ ВОДУ",
+    "title": "МАМИНА СОРОЧКА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН IРИНА"
   },
   {
-    "title": "ПИТАЙ",
+    "title": "НЕСЕ ГАЛЯ ВОДУ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН IРИНА"
+  },
+  {
+    "title": "ПИТАЙ [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН IРИНА"
   },
   {
@@ -7832,7 +13684,7 @@ const data = [
     "artist": "ФЕДИШИН IРИНА"
   },
   {
-    "title": "ТИ МІЙ",
+    "title": "ТИ МІЙ [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН IРИНА"
   },
   {
@@ -7840,7 +13692,7 @@ const data = [
     "artist": "ФЕДИШИН IРИНА"
   },
   {
-    "title": "ЦЕ НЕ ГРА",
+    "title": "ЦЕ НЕ ГРА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН IРИНА"
   },
   {
@@ -7852,7 +13704,7 @@ const data = [
     "artist": "ФЕДИШИН IРИНА"
   },
   {
-    "title": "Я ПАДАЮ З НЕБА",
+    "title": "Я ПАДАЮ З НЕБА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН IРИНА"
   },
   {
@@ -7860,7 +13712,19 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
+    "title": "БАТЬКИ МОЇ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "БІЛІ ТРОЯНДИ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
     "title": "БІЛІ ТРОЯНДИ",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ГІТАРА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7868,11 +13732,19 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ДА РИ НА (ЗА ГОРОЮ ВЕРБА)",
+    "title": "ДА РИ НА (ЗА ГОРОЮ ВЕРБА) [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ДАРИНА (ЗА ГОРОЮ ВЕРБА)",
+    "title": "ДА РИ НА [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ДАРИНА (ЗА ГОРОЮ ВЕРБА) [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ДОЛОНЬКИ [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7880,11 +13752,11 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ДУША",
+    "title": "ДУША [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ДЯКУЮ ТОБІ",
+    "title": "ДЯКУЮ ТОБІ [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7896,11 +13768,19 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
+    "title": "КАЛИНА [-,+,VID] [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
     "title": "КАЛИНА",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "КОЛЯДА",
+    "title": "КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "КОЛЯДА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7908,15 +13788,19 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "НЕСЕ ГАЛЯ ВОДУ (+,-).kfn",
-    "artist": "ФЕДИШИН ІРИНА"
-  },
-  {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ПАРОЛЬ",
+    "title": "НЕСЕ ГАЛЯ ВОДУ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ПАРОЛЬ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ПИТАЙ [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7924,11 +13808,19 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ПРОШУ В НЕБА",
+    "title": "ПРОШУ В НЕБА [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "РОДИНА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "РОДИНА",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "РОЗСТРІЛЯНА ВЕСНА",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7956,11 +13848,31 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
+    "title": "ТВОЯ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ТИ МІЙ",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
     "title": "ТИ ТІЛЬКИ МІЙ",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "УКРАЇНА (ЦЕ МОЯ ЗЕМЛЯ)",
+    "title": "УКРАЇНА (ЦЕ МОЯ ЗЕМЛЯ) [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "УКРАЇНА КОЛЯДУЄ",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "УКРАЇНА КОЛЯДУЄ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "УКРАЇНА [БЕК ВОКАЛ]",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7968,11 +13880,27 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ЦЕ НЕ ГРА",
+    "title": "ХОЧУ Я ЛІТАТИ",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
-    "title": "ЧУЖІ УСТА",
+    "title": "ЦЕ НЕ ГРА [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ЧЕРВОНАЯ КАЛИНА",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ЧОРНІ ОЧКА",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ЧУЖІ УСТА [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "Я ПАДАЮ З НЕБА",
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
@@ -7980,23 +13908,55 @@ const data = [
     "artist": "ФЕДИШИН ІРИНА"
   },
   {
+    "title": "ЯК Я ТЕБЕ ЛЮБЛЮ [БЕК ВОКАЛ]",
+    "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
     "title": "ЯК Я ТЕБЕ ЛЮБЛЮ",
     "artist": "ФЕДИШИН ІРИНА"
+  },
+  {
+    "title": "ПРОСТО ТАНЦЮЙ",
+    "artist": "ФЕДИШИН ІРИНА & BAKUN"
+  },
+  {
+    "title": "МАРІЧКА [БЕК ВОКАЛ]",
+    "artist": "ФИЛЕШ ВАСИЛЬ"
   },
   {
     "title": "ТИША",
     "artist": "ФІОЛЕТ"
   },
   {
+    "title": "ЇЖАЧОК",
+    "artist": "ФЛIТ"
+  },
+  {
+    "title": "КОЛИСКОВА",
+    "artist": "ФЛIТ"
+  },
+  {
+    "title": "СВОЄ КІНО",
+    "artist": "ФОЗЗІ & НЕДІЛЯ"
+  },
+  {
+    "title": "СВОЄ КІНО [БЕК ВОКАЛ]",
+    "artist": "ФОЗЗІ & НЕДІЛЯ"
+  },
+  {
     "title": "ОСЬ ЯКА ПАНЯНОЧКА",
     "artist": "ФРIСТАЙЛ"
+  },
+  {
+    "title": "ЧОМ ТИ НЕ ПРИЙШОВ [БЕК ВОКАЛ]",
+    "artist": "ФРИСТАЙЛ & КІРСО НІНА"
   },
   {
     "title": "ВАХТЕРАМ (UA)",
     "artist": "ФРОЛОВА ЄВГЕНІЯ (FROLOVA)"
   },
   {
-    "title": "ЧЕРЕМШИНА.avi",
+    "title": "ЧЕРЕМШИНА",
     "artist": "ФУДЖИ"
   },
   {
@@ -8004,7 +13964,15 @@ const data = [
     "artist": "ХАНОК ЕДУАРД"
   },
   {
-    "title": "ХЕЙ-ХАЙ (ХВИЛЮ ТРИМАЙ).kfn",
+    "title": "ШИБЕНИК",
+    "artist": "ХАРЦИЗИ"
+  },
+  {
+    "title": "ХЕЙ ХАЙ ХВИЛЮ ТРИМАЙ",
+    "artist": "ХВИЛЮ ТРИМАЙ"
+  },
+  {
+    "title": "ХЕЙ-ХАЙ (ХВИЛЮ ТРИМАЙ)",
     "artist": "ХВИЛЮ ТРИМАЙ"
   },
   {
@@ -8012,31 +13980,99 @@ const data = [
     "artist": "ХЛИВНЮК АНДРІЙ"
   },
   {
+    "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА [БЕК ВОКАЛ]",
+    "artist": "ХЛИВНЮК АНДРІЙ"
+  },
+  {
+    "title": "А СВІТ ТАКИЙ [БЕК ВОКАЛ]",
+    "artist": "ХОМА МИХАЙЛО"
+  },
+  {
     "title": "З ДНЕМ НАРОДЖЕННЯ",
     "artist": "ХОМА МИХАЙЛО"
   },
   {
-    "title": "ТУМАН",
+    "title": "З ДНЕМ НАРОДЖЕННЯ [БЕК ВОКАЛ]",
     "artist": "ХОМА МИХАЙЛО"
   },
   {
-    "title": "ДЕ ТИ МОЯ МИЛА (-).kfn",
+    "title": "ЛИСТОПАД [БЕК ВОКАЛ]",
+    "artist": "ХОМА МИХАЙЛО"
+  },
+  {
+    "title": "НАРЕЧЕНА [БЕК ВОКАЛ]",
+    "artist": "ХОМА МИХАЙЛО"
+  },
+  {
+    "title": "ТУМАН [БЕК ВОКАЛ]",
+    "artist": "ХОМА МИХАЙЛО"
+  },
+  {
+    "title": "Я СУМУЮ ЗА ТОБОЮ",
+    "artist": "ХОМА МИХАЙЛО"
+  },
+  {
+    "title": "MONEY MONEY MONEY",
+    "artist": "ХОР ТУРЕЦЬКОГО"
+  },
+  {
+    "title": "OBLADI OBLADA [БЕК ВОКАЛ]",
+    "artist": "ХОР ТУРЕЦЬКОГО"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА",
+    "artist": "ХОР ТУРЕЦЬКОГО"
+  },
+  {
+    "title": "ДЕ ТИ МОЯ МИЛА",
     "artist": "ХУРСЕНКО ВЯЧЕСЛАВ"
   },
   {
-    "title": "СОКОЛЯТА (-,+).kfn",
+    "title": "ДЕ ТИ МОЯ МИЛА",
+    "artist": "ХУРСЕНКО В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ДЯКУЮ ТОБІ",
+    "artist": "ХУРСЕНКО В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "СОКОЛЯТА",
+    "artist": "ХУРСЕНКО В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "ЧЕКАЮ І БАЖАЮ",
     "artist": "ХУРСЕНКО ВЯЧЕСЛАВ"
   },
   {
-    "title": "ЧЕКАЮ І БАЖАЮ (-).kfn",
-    "artist": "ХУРСЕНКО ВЯЧЕСЛАВ"
+    "title": "ЧОРНОБРИВЦІ [БЕК ВОКАЛ]",
+    "artist": "ХУРСЕНКО В'ЯЧЕСЛАВ"
   },
   {
-    "title": "БIЛИЙ КАМIНЬ",
+    "title": "Я ТЕБЕ РОЗЛЮБИВ [БЕК ВОКАЛ]",
+    "artist": "ХУРСЕНКО В'ЯЧЕСЛАВ"
+  },
+  {
+    "title": "БIЛИЙ КАМIНЬ [БЕК ВОКАЛ]",
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
-    "title": "БАБИ, ЯК БАБИ (КОРОЛЕВА)",
+    "title": "БАБИ ЯК БАБИ [БЕК ВОКАЛ]",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "БАБИ, ЯК БАБИ (КОРОЛЕВА) [RMX](-,+) [БЕК ВОКАЛ]",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "БАБИ, ЯК БАБИ (КОРОЛЕВА) [БЕК ВОКАЛ]",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "БІЛИЙ КАМІНЬ [БЕК ВОКАЛ]",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "ДАЙ ТРОХИ ЧАСУ",
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
@@ -8044,7 +14080,15 @@ const data = [
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
+    "title": "ЗОЗУЛЬКА",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
     "title": "ЙДУ НА ВІЙНУ",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "КАТЕРИНА [БЕК ВОКАЛ]",
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
@@ -8064,11 +14108,23 @@ const data = [
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
-    "title": "СІНО",
+    "title": "ПО БАРАБАНУ [БЕК ВОКАЛ]",
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
-    "title": "ХУЛІГАНКА",
+    "title": "РИЖА",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "РОЗПУСТИЛИ КУЧЕРІ ДІВЧАТА",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "СІНО [БЕК ВОКАЛ]",
+    "artist": "ЦВІТ КУЛЬБАБИ"
+  },
+  {
+    "title": "ХУЛІГАНКА [БЕК ВОКАЛ]",
     "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
@@ -8077,6 +14133,26 @@ const data = [
   },
   {
     "title": "ВИКЛИКАЙ ПОЛІЦІЮ",
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
+  },
+  {
+    "title": "ОБІЙМИ МЕНЕ",
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
+  },
+  {
+    "title": "СОНЕЧКО [БЕК ВОКАЛ]",
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
+  },
+  {
+    "title": "СУКНЯ БІЛА [БЕК ВОКАЛ]",
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
+  },
+  {
+    "title": "СУКНЯ БІЛА",
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
+  },
+  {
+    "title": "ЦВІТИ",
     "artist": "ЦИБУЛЬСЬКА ОЛЯ"
   },
   {
@@ -8090,6 +14166,14 @@ const data = [
   {
     "title": "КРИЛА",
     "artist": "ЧАЙКОВСЬКА МАРІЯ"
+  },
+  {
+    "title": "ЧЕКАЙ",
+    "artist": "ЧАЙКОВСЬКА МАРІЯ"
+  },
+  {
+    "title": "КРИЛА",
+    "artist": "ЧАЙКОВСЬКА МАРІЯ & КУПРІЯНЕНКО АРТЕМ"
   },
   {
     "title": "MAМА",
@@ -8112,44 +14196,148 @@ const data = [
     "artist": "ЧЕМЕРОВ САША"
   },
   {
-    "title": "ЛЮБИЛА",
+    "title": "ЛЮБИЛА [БЕК ВОКАЛ]",
     "artist": "ЧЕМЕРОВ САША & БУМБОКС"
   },
   {
-    "title": "А НА СЕРЦІ КАМІНЬ (+,-).kfn",
-    "artist": "ШАБЛЯ LIFE"
+    "title": "НАРЕЧЕНА [БЕК ВОКАЛ]",
+    "artist": "ЧИГЕР ОЛЕГ"
+  },
+  {
+    "title": "ВІНОК З БАРВІНКУ",
+    "artist": "ЧИРИК ТАНЯ & КОК АНДРІЙ"
+  },
+  {
+    "title": "ПТАХ",
+    "artist": "ЧОРНИЙ ПЕТРО"
+  },
+  {
+    "title": "ЧОМ ТИ НЕ ПРИЙШОВ [БЕК ВОКАЛ]",
+    "artist": "ЧОРНІЙ ІРИНА"
+  },
+  {
+    "title": "БУДЕ НАМ З ТОБОЮ ЩО ЗГАДАТИ",
+    "artist": "ЧУБАЙ ТАРАС"
+  },
+  {
+    "title": "КЕДЬ МИ ПРИЙЛА КАРТА",
+    "artist": "ЧУБАЙ ТАРАС"
+  },
+  {
+    "title": "ЛЕНТА ЗА ЛЕНТОЮ",
+    "artist": "ЧУБАЙ ТАРАС"
+  },
+  {
+    "title": "НАД МОРЕМ",
+    "artist": "ЧУБАЙ ТАРАС"
+  },
+  {
+    "title": "Я ТВОЄ КРИЛО",
+    "artist": "ЧУБАЙ ТАРАС"
   },
   {
     "title": "А НА СЕРЦІ КАМІНЬ",
     "artist": "ШАБЛЯ LIFE"
   },
   {
-    "title": "БРАТТЯ УКРАЇНЦІ (+,-).kfn",
+    "title": "А НА СЕРЦІ КАМІНЬ [БЕК ВОКАЛ]",
     "artist": "ШАБЛЯ LIFE"
   },
   {
-    "title": "КЛЯТА ВІЙНА (+,-).kfn",
+    "title": "БРАТТЯ УКРАЇНЦІ",
     "artist": "ШАБЛЯ LIFE"
   },
   {
-    "title": "ЛІРИЧНА (+,-).kfn",
+    "title": "БРАТТЯ УКРАЇНЦІ [БЕК ВОКАЛ]",
     "artist": "ШАБЛЯ LIFE"
   },
   {
-    "title": "СИНКУ МІЙ СИНКУ (+,-).kfn",
+    "title": "КЛЯТА ВІЙНА",
     "artist": "ШАБЛЯ LIFE"
   },
   {
-    "title": "БУДУ ЛЮБИТИ ТЕБЕ",
+    "title": "КЛЯТА ВІЙНА [БЕК ВОКАЛ]",
+    "artist": "ШАБЛЯ LIFE"
+  },
+  {
+    "title": "ЛІРИЧНА",
+    "artist": "ШАБЛЯ LIFE"
+  },
+  {
+    "title": "СИНКУ МІЙ СИНКУ",
+    "artist": "ШАБЛЯ LIFE"
+  },
+  {
+    "title": "СИНКУ МІЙ СИНКУ [БЕК ВОКАЛ]",
+    "artist": "ШАБЛЯ LIFE"
+  },
+  {
+    "title": "СОЛДАТ [БЕК ВОКАЛ]",
+    "artist": "ШАБЛЯ LIFE"
+  },
+  {
+    "title": "ЧАО ЧАО [БЕК ВОКАЛ]",
+    "artist": "ШАБЛЯ LIFE"
+  },
+  {
+    "title": "ЗИМА ЦАРIВНА [БЕК ВОКАЛ]",
+    "artist": "ШАК ОЛЕГ & ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "ЛЮБЛЮ",
+    "artist": "ШАК ОЛЕГ & ПІСКАРЬОВА ТЕТЯНА"
+  },
+  {
+    "title": "БУДУ ЛЮБИТИ ТЕБЕ [БЕК ВОКАЛ]",
     "artist": "ШАНИС ОЛЬГА"
+  },
+  {
+    "title": "ЯК КАЛИНА РОЗЦВІТЕ",
+    "artist": "ШАНІС ОЛЬГА"
+  },
+  {
+    "title": "А В МОМУ СЕЛІ [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
   },
   {
     "title": "ВИШИВАНКА",
     "artist": "ШЕВЧУК ЯРОСЛАВ"
   },
   {
+    "title": "ВИШИВАНКА [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
+    "title": "ВОЛИНЬ [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
+    "title": "ЛІСОВІ ГЕНЕРАЛИ [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
+    "title": "МОЯ РОДИНА [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
+    "title": "ОСІННЯ ПОРА [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
+    "title": "СМІЙСЯ [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
+    "title": "ТИ МОЯ СУДЖЕНА [БЕК ВОКАЛ]",
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
+  },
+  {
     "title": "СИНУ АНГЕЛ МIЙ",
     "artist": "ШЕСТАК НАДІЯ"
+  },
+  {
+    "title": "КОХАННЯ У ЛЬВОВI",
+    "artist": "ШЕСТАКОВА НІНА"
   },
   {
     "title": "БАЛАДА ПРО МАЛЬВИ",
@@ -8164,7 +14352,7 @@ const data = [
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
-    "title": "КАЛИНОВІ ОСТРОВИ",
+    "title": "КАЛИНОВІ ОСТРОВИ [БЕК ВОКАЛ]",
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
@@ -8172,7 +14360,7 @@ const data = [
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
-    "title": "НИНІ Я САМА",
+    "title": "НИНІ Я САМА [БЕК ВОКАЛ]",
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
@@ -8180,20 +14368,68 @@ const data = [
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
+    "title": "СВІЧА",
+    "artist": "ШИНКАРУК ІРИНА"
+  },
+  {
+    "title": "ТЕБЕ НЕ ЗРАДИЛА ДУША",
+    "artist": "ШИНКАРУК ІРИНА"
+  },
+  {
     "title": "ЧЕРЕМХОВА ВІХОЛА",
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
-    "title": "ЧОРНІ, ЧОРНІ ОЧІ",
+    "title": "ЧОРНІ ЧОРНІ ОЧІ [БЕК ВОКАЛ]",
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
-    "title": "ШОВКОВИЙ ВІТЕР",
+    "title": "ЧОРНІ, ЧОРНІ ОЧІ [БЕК ВОКАЛ]",
     "artist": "ШИНКАРУК ІРИНА"
   },
   {
-    "title": "ЗАЧАРУЙ",
+    "title": "ШОВКОВИЙ ВІТЕР [БЕК ВОКАЛ]",
+    "artist": "ШИНКАРУК ІРИНА"
+  },
+  {
+    "title": "ЧОМ ТИ НЕ ПРИЙШОВ [БЕК ВОКАЛ]",
+    "artist": "ШИРКО ТЕТЯНА"
+  },
+  {
+    "title": "Я РОСА",
+    "artist": "ШИРКО ТЕТЯНА"
+  },
+  {
+    "title": "ОЙ ДІВЧАТА, ДІВЧАТА",
+    "artist": "ШМЕГЕЛЬСЬКИЙ ЮРІЙ"
+  },
+  {
+    "title": "ОЛЯ ЧОМ ЖЕ МИ НЕ ДВОЄ [БЕК ВОКАЛ]",
+    "artist": "ШМЕГЕЛЬСЬКИЙ ЮРІЙ"
+  },
+  {
+    "title": "Я ХОЧУ ЛІТА",
+    "artist": "ШОКОЛАДКА"
+  },
+  {
+    "title": "ЗАЧАРУЙ [БЕК ВОКАЛ]",
     "artist": "ШОСТЕ ЧУТТЯ"
+  },
+  {
+    "title": "ГУЦУЛКА КСЕНЯ",
+    "artist": "ШПОРТЬКО ВІКТОР"
+  },
+  {
+    "title": "КОХАНА",
+    "artist": "ШПОРТЬКО ВІКТОР"
+  },
+  {
+    "title": "ОЛЄГ [БЕК ВОКАЛ]",
+    "artist": "ШУГАР"
+  },
+  {
+    "title": "ПАНІ КАТЕРИНО",
+    "artist": "ШУГАР"
   },
   {
     "title": "ТУМАН",
@@ -8204,19 +14440,103 @@ const data = [
     "artist": "ШУГАР"
   },
   {
+    "title": "ДИМ",
+    "artist": "ШУГАР & TORIЯ"
+  },
+  {
     "title": "РОМАШКИ",
     "artist": "ШУГАР & TORIЯ"
+  },
+  {
+    "title": "НЕ ВИГАДУЮ",
+    "artist": "ШУГАР & ОКСАНА ТРАХ"
+  },
+  {
+    "title": "СЬОГОДНI",
+    "artist": "ЮНАКОВА ОЛЬГА"
+  },
+  {
+    "title": "ТАНЦЮЙ ЗI МНОЮ",
+    "artist": "ЮНАКОВА ОЛЬГА"
+  },
+  {
+    "title": "ШУКАЙТЕ ЖIНКУ",
+    "artist": "ЮНАКОВА ОЛЬГА"
+  },
+  {
+    "title": "Я ЗА ЛЮБОВ'Ю ПОЛЕЧУ",
+    "artist": "ЮНАКОВА ОЛЬГА"
+  },
+  {
+    "title": "ДІВЧИНА З МАЙДАНА",
+    "artist": "ЮРКЕШ"
+  },
+  {
+    "title": "ПАТРІОТ [БЕК ВОКАЛ]",
+    "artist": "ЮРКЕШ"
+  },
+  {
+    "title": "РОДІНА-МАТЬ",
+    "artist": "ЮРКЕШ"
+  },
+  {
+    "title": "ВЕСНЯНІ ДІВЧАТА [БЕК ВОКАЛ]",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "ДЛЯ ТЕБЕ",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "ЛЕТЯТЬ ЛЕЛЕКИ",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "ОСІННЄ КОХАННЯ",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "П'ЯТИЗІРКОВА СТОДОЛА [БЕК ВОКАЛ]",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "РІДНУ МАМУ БЕРЕЖІТЬ",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "Я ПОВЕРНУСЬ ДОДОМУ",
+    "artist": "ЮРКОВСЬКИЙ ІГОР"
+  },
+  {
+    "title": "АНЖЕЛIКА",
+    "artist": "ЮРЧЕНКО ЮРКО"
+  },
+  {
+    "title": "В ПУСТЕЛI ДИКИХ СНIВ",
+    "artist": "ЮРЧЕНКО ЮРКО"
+  },
+  {
+    "title": "Я ЙДУ",
+    "artist": "ЮРЧЕНКО ЮРКО"
+  },
+  {
+    "title": "IРА IРИНА IРУСЯ",
+    "artist": "ЯВОРОЧКИ"
+  },
+  {
+    "title": "НОВОРIЧНА [БЕК ВОКАЛ]",
+    "artist": "ЯКОВЛЄВА ВЛАДА"
   },
   {
     "title": "БІЛА ХАТА",
     "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
-    "title": "ДIТЕЙ ДО МАТЕРI НЕМА",
+    "title": "ДIТЕЙ ДО МАТЕРI НЕМА [БЕК ВОКАЛ]",
     "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
-    "title": "ЛИШЕ У НАС НА УКРАЇНІ",
+    "title": "ЛИШЕ У НАС НА УКРАЇНІ [БЕК ВОКАЛ]",
     "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
@@ -8224,7 +14544,7 @@ const data = [
     "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
-    "title": "НА КОНЯ",
+    "title": "НА КОНЯ [БЕК ВОКАЛ]",
     "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
@@ -8232,8 +14552,16 @@ const data = [
     "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
+    "title": "ПОГЛЯНЬ ЯКА ЗИМА",
+    "artist": "ЯНЧЕНКО МИКОЛА"
+  },
+  {
     "title": "ЯК КОЛИСЬ ДАВАЛИ ЖАРУ",
     "artist": "ЯНЧЕНКО МИКОЛА"
+  },
+  {
+    "title": "ОЙ ЧОГО Ж ТИ МАМО",
+    "artist": "ЯНЧЕНКО МИКОЛА & ДЕНИСЮК ТЕТЯНА"
   },
   {
     "title": "ОЙ,ЧОГО Ж ТИ МАМО",
@@ -8244,23 +14572,59 @@ const data = [
     "artist": "ЯРЕМЕНКО ОЛЕКСАНДР"
   },
   {
-    "title": "МАМИНІ ОЧІ",
+    "title": "МАМИНІ ОЧІ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМОВА СОФІЯ"
+  },
+  {
+    "title": "БIЛI ЛIЛЕЇ",
+    "artist": "ЯРЕМЧУК ДМИТРО"
+  },
+  {
+    "title": "ВИШИВАНКА",
+    "artist": "ЯРЕМЧУК ДМИТРО"
+  },
+  {
+    "title": "МРIЯ",
+    "artist": "ЯРЕМЧУК ДМИТРО"
+  },
+  {
+    "title": "НЕ БУВАЮТЬ ДОЩI ВИПАДКОВI",
+    "artist": "ЯРЕМЧУК ДМИТРО"
+  },
+  {
+    "title": "ПРОБАЧ",
+    "artist": "ЯРЕМЧУК ДМИТРО"
+  },
+  {
+    "title": "СОНЦЕ В ТВОЇХ ОЧАХ",
+    "artist": "ЯРЕМЧУК ДМИТРО"
+  },
+  {
+    "title": "БАТЬКО I МАТИ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК ДМИТРО & НАЗАРІЙ"
+  },
+  {
+    "title": "ВСІ СЛОВА [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК ДМИТРО & НАЗАРІЙ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА",
+    "artist": "ЯРЕМЧУК ДМИТРО & НАЗАРІЙ"
   },
   {
     "title": "РОДИНА",
     "artist": "ЯРЕМЧУК МАРIЯ"
   },
   {
-    "title": "В ЧИСТІМ ПОЛІ (-,МАСТЕР).kfn",
+    "title": "TICK TOCK [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
-    "title": "В ЧИСТІМ ПОЛІ.kfn",
+    "title": "В ЧИСТІМ ПОЛІ",
     "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
-    "title": "ВЕСНА",
+    "title": "ВЕСНА [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
@@ -8268,15 +14632,139 @@ const data = [
     "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
-    "title": "ТЕБЕ Я ЗНАЙДУ",
+    "title": "ТЕБЕ Я ЗНАЙДУ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
-    "title": "ТЕЧЕ ВОДА",
+    "title": "ТЕЧЕ ВОДА [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
-    "title": "ВСІ СЛОВА",
+    "title": "ТИ В МЕНI Є [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК МАРІЯ"
+  },
+  {
+    "title": "УСМІХНИСЯ МЕНІ",
+    "artist": "ЯРЕМЧУК МАРІЯ"
+  },
+  {
+    "title": "БАТЬКО І МАТИ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "БІЛІ ЛІЛЕЇ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ВИШИВАНКА [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ВОДОГРАЙ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ВСЕ МИНАЄ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ВСІ СЛОВА [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ГАЙ ЗЕЛЕНИЙ ГАЙ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ГЕЙ ВИ КОЗАЧЕНЬКИ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ДВА КОЛЬОРИ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ЗАДИВЛЮСЬ В ТВОЇ ОЧІ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ЗЕЛЕНИЙ ГАЙ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "НАША ДОЛЯ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "НЕ БУВАЮТЬ ДОЩІ ВИПАДКОВІ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ОРКЕСТР ПРИРОДИ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ОСІНЬ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ПОДАРУЮ СВІТУ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "РОДИНА",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "РОДИНА [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "СМЕРЕКОВА ХАТА",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "СТОЖАРИ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ТАМ ДЕ ТИ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ТЕЧЕ ВОДА [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ТИ МОЯ УКРАЇНО [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ХАЙ БУДЕ ЩАСТЯ І ЛЮБОВ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ЧЕРВОНА РУТА [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ЧОРНА КАВА",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "Я ПІДУ В ДАЛЕКІ ГОРИ",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "Я ТАК ЛЮБЛЮ УКРАЇНО ТЕБЕ [БЕК ВОКАЛ]",
+    "artist": "ЯРЕМЧУК НАЗАРIЙ"
+  },
+  {
+    "title": "ВСІ СЛОВА [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
@@ -8284,11 +14772,11 @@ const data = [
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
-    "title": "ЗЕЛЕНИЙ ГАЙ",
+    "title": "ЗЕЛЕНИЙ ГАЙ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
-    "title": "НАША ДОЛЯ",
+    "title": "НАША ДОЛЯ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
@@ -8296,19 +14784,19 @@ const data = [
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
-    "title": "ОСІНЬ",
+    "title": "ОСІНЬ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
-    "title": "ПОДАРУЮ СВІТУ",
+    "title": "ПОДАРУЮ СВІТУ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
-    "title": "СТОЖАРИ",
+    "title": "СТОЖАРИ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
-    "title": "ТАМ ДЕ ТИ",
+    "title": "ТАМ ДЕ ТИ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
@@ -8324,7 +14812,7 @@ const data = [
     "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
-    "title": "ГАЙ, ЗЕЛЕНИЙ ГАЙ",
+    "title": "ГАЙ, ЗЕЛЕНИЙ ГАЙ [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
@@ -8332,11 +14820,11 @@ const data = [
     "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
-    "title": "ДВА КОЛЬОРИ (VID).kfn",
+    "title": "ДВА КОЛЬОРИ",
     "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
-    "title": "РОДИНА",
+    "title": "РОДИНА [БЕК ВОКАЛ]",
     "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
@@ -8364,9 +14852,35 @@ const data = [
     "artist": "ЯРМАК"
   },
   {
-    "title": "ДИКЕ ПОЛЕ",
+    "title": "ДИКЕ ПОЛЕ [БЕК ВОКАЛ]",
     "artist": "ЯРМАК & ALISA"
+  },
+  {
+    "title": "З НОВИМ ШОКОМ [БЕК ВОКАЛ]",
+    "artist": "ЯСИНСЬКА ЛЮДМИЛА"
+  },
+  {
+    "title": "ТОБІ [БЕК ВОКАЛ]",
+    "artist": "ЯСИНСЬКА ЛЮДМИЛА"
+  },
+  {
+    "title": "ТРИЛЛЕР [БЕК ВОКАЛ]",
+    "artist": "ЯСИНСЬКА ЛЮДМИЛА"
+  },
+  {
+    "title": "УКРАЇНА З НАМИ [БЕК ВОКАЛ]",
+    "artist": "ЯСИНСЬКА ЛЮДМИЛА"
+  },
+  {
+    "title": "ШУРИ МУРИ [БЕК ВОКАЛ]",
+    "artist": "ЯСИНСЬКА ЛЮДМИЛА & ВОВА ЗІ ЛЬВОВА"
+  },
+  {
+    "title": "ВЕСІЛЬНА [БЕК ВОКАЛ]",
+    "artist": "ЯЦУК ХРИСТИНА"
+  },
+  {
+    "title": "ЛЮБЛЮ ДО БОЖЕВІЛЛЯ [БЕК ВОКАЛ]",
+    "artist": "ЯЦУК ХРИСТИНА"
   }
 ];
-
-export default data;
